@@ -1,5 +1,4 @@
 import React from 'react'
-import Link from 'next/link'
 
 const resume = [
   { href: 'https://www.linkedin.com/in/derekkinsman/', label: 'LinkedIn' }

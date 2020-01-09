@@ -53,7 +53,7 @@ const Masthead = () => (
         position: absolute;
         top: 50%;
         left: 50%;
-        transform: translate(-50%, -50%);
+        transform: translate(-50%, -75%);
       }
 
       img {
@@ -65,6 +65,10 @@ const Masthead = () => (
       }
 
       @media screen and (max-width: 650px) {
+        h1 {
+          transform: translate(-50%, -65%);
+        }
+
         img {
           width: 75vw;
         }

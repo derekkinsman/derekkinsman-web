@@ -39,16 +39,16 @@ const links = [
 const Contact = () => (
   <section>
     <h3>Internet Résumé</h3>
-    <h4><span className="italics">—PDF available by request.</span></h4>
+    {/* <h4><span className="italics">—PDF available by request.</span></h4> */}
     <ul>
       {resume.map(({ key, href, label }) => (
         <li key={key}>
           <a href={href}>{label}</a>
         </li>
       ))}
-      {/* <li>
+      <li>
         <a href="/resume_derekkinsman_2019.pdf">PDF</a>
-      </li> */}
+      </li>
     </ul>
 
     <h3>Contact</h3>

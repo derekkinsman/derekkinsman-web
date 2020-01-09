@@ -4,8 +4,14 @@ import Masthead from '../components/masthead'
 import Biography from '../components/biography'
 import Twitter from '../components/twitter'
 import Contact from '../components/contact'
+import {Analytics} from '../components/analytics'
 
-const Home = () => (
+export default function Home() {
+
+  Analytics.logPageView("/")
+
+  return (
+// const Home = () => (
   <div>
     <Head>
       <title>Derek Kinsman. Maker of things.</title>
@@ -77,6 +83,8 @@ const Home = () => (
       }
     `}</style>
   </div>
-)
+// )
+  )
+}
 
-export default Home
+// export default Home

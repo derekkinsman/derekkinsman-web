@@ -47,7 +47,7 @@ const Contact = () => (
         </li>
       ))}
       <li>
-        <a href="/resume_derekkinsman_2019.pdf">PDF</a>
+        <a href="/resume_derekkinsman_2020.pdf">PDF</a>
       </li>
     </ul>
 

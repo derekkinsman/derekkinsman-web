@@ -28,7 +28,7 @@ const links = [
   { href: 'http://www.meetup.com/members/104598882/', label: 'Meetup' },
   { href: 'https://derekkinsman.itch.io/', label: 'Itch' },
   { href: 'https://www.goodreads.com/user/show/5449872-derek-kinsman', label: 'Goodreads' },
-  { href: 'http://twitter.com/derekkinsman', label: 'Twitter' },
+  { href: 'https://twitter.com/derekkinsman', label: 'Twitter' },
   { href: 'https://www.facebook.com/derek.kinsman', label: 'Facebook' },
   { href: 'http://instagram.com/derekkinsman', label: 'Instagram' }
 ].map(link => {

@@ -83,14 +83,14 @@ var Biography = function Biography() {
       lineNumber: 5
     },
     __self: this
-  }, "Guelph, ON, Canada"), ". Sometimes those ", __jsx("span", {
+  }, "Guelph, ON, Canada"), ". Usually those ", __jsx("span", {
     className: "jsx-3951310688" + " " + "italics",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 5
     },
     __self: this
-  }, "Things"), " require code, sometimes power tools and hand tools, usually it's for other people, and often it's done with others. Derek specialises in radical generalism (thanks for the term ", __jsx("a", {
+  }, "things"), " require code, sometimes power tools and hand tools, most of the time it's for other people, and often it's done with others. Derek specialises in radical generalism (thanks for the term ", __jsx("a", {
     href: "https://twitter.com/ablerism",
     target: "_blank",
     className: "jsx-3951310688",
@@ -108,21 +108,21 @@ var Biography = function Biography() {
       lineNumber: 5
     },
     __self: this
-  }, "Eyeo Festival"), " community), and is more concerned with the ", __jsx("span", {
+  }, "Eyeo Festival"), " community), and is more concerned with why we make the ", __jsx("span", {
     className: "jsx-3951310688" + " " + "italics",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 5
     },
     __self: this
-  }, "Things"), " we make, and why we make them over how do we make them. While he deeply enjoys the proof of life stage of a project, he's just as comfortable doing research, fixing ", __jsx("span", {
+  }, "thing"), " over how we make it. While he deeply enjoys the proof of life stage of a project, he's just as comfortable writing code, doing research, fixing ", __jsx("span", {
     className: "jsx-3951310688" + " " + "italics",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 5
     },
     __self: this
-  }, "&"), " logging bugs, writing documentation, making flowcharts, and writing code."), __jsx("p", {
+  }, "&"), " logging bugs, writing documentation, making flowcharts, and working in spreadsheets."), __jsx("p", {
     className: "jsx-3951310688",
     __source: {
       fileName: _jsxFileName,
@@ -136,7 +136,16 @@ var Biography = function Biography() {
       lineNumber: 6
     },
     __self: this
-  }, "(in office and/or partial remote located if in the Waterloo\u2014Toronto corridor)"), ". He most recently worked with the mighty fine folks at ", __jsx("a", {
+  }, "(in office and/or partial remote located if in the Waterloo\u2014Toronto corridor)"), ". He is currently contracting with the wonderful team, ", __jsx("a", {
+    href: "http://coforma.io/",
+    target: "_blank",
+    className: "jsx-3951310688",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 6
+    },
+    __self: this
+  }, "Coforma"), " (formerly &Partners). Prior to that he has worked with the mighty fine folks at ", __jsx("a", {
     href: "http://siberia.io/",
     target: "_blank",
     className: "jsx-3951310688",
@@ -163,14 +172,21 @@ var Biography = function Biography() {
       lineNumber: 6
     },
     __self: this
-  }, "Labs"), " team \u2014 prior to that."), __jsx("p", {
+  }, "Labs"), " team."), __jsx("p", {
     className: "jsx-3951310688",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 7
     },
     __self: this
-  }, "Much of the work he has been involved with in recent years was completed under NDA. Previous clients come from a diverse set of industries including social impact, music production, active apparel ", __jsx("span", {
+  }, "Much of the work he has been involved with in recent years was completed under NDA. Previous clients come from a diverse set of industries including social impact ", __jsx("span", {
+    className: "jsx-3951310688" + " " + "italics",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 7
+    },
+    __self: this
+  }, "&"), " civic tech, music production, active apparel ", __jsx("span", {
     className: "jsx-3951310688" + " " + "italics",
     __source: {
       fileName: _jsxFileName,
@@ -184,7 +200,7 @@ var Biography = function Biography() {
       lineNumber: 7
     },
     __self: this
-  }, "&"), " fitness, healthcare, and medical marijuana. If you would like to learn more about Derek's involvement in these projects reach out using your preferred contact details below."), __jsx("p", {
+  }, "&"), " fitness, healthcare, and medical cannabis. If you would like to learn more about Derek's involvement in these projects reach out using your preferred contact details below."), __jsx("p", {
     className: "jsx-3951310688",
     __source: {
       fileName: _jsxFileName,
@@ -243,10 +259,19 @@ var Biography = function Biography() {
       lineNumber: 8
     },
     __self: this
-  }, "games of r\xF4le\u2014play"), "."), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
+  }, "games"), " of ", __jsx("a", {
+    href: "https://gumroad.com/derekkinsman",
+    target: "_blank",
+    className: "jsx-3951310688",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 8
+    },
+    __self: this
+  }, "r\xF4le\u2014play"), "."), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
     id: "3951310688",
     __self: this
-  }, "section.jsx-3951310688{text-align:justify;margin:84px auto 0;width:50vw;}.italics.jsx-3951310688{font-style:italic;}@media screen and (max-width:650px){section.jsx-3951310688{margin:63px auto;width:75vw;}}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9kZXJla2tpbnNtYW4vRG9jdW1lbnRzL0Nvc21vbmF1dCBJbmR1c3RyaWVzL2RlcmVra2luc21hbi13ZWIvY29tcG9uZW50cy9iaW9ncmFwaHkuanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBU2dCLEFBRzRCLEFBTUQsQUFLQyxpQkFDTixDQUxmLENBTnFCLFNBWW5CLFVBWFcsV0FDYiIsImZpbGUiOiIvVXNlcnMvZGVyZWtraW5zbWFuL0RvY3VtZW50cy9Db3Ntb25hdXQgSW5kdXN0cmllcy9kZXJla2tpbnNtYW4td2ViL2NvbXBvbmVudHMvYmlvZ3JhcGh5LmpzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0J1xuXG5jb25zdCBCaW9ncmFwaHkgPSAoKSA9PiAoXG4gIDxzZWN0aW9uPlxuICAgIDxwPkRlcmVrIEouIEtpbnNtYW4gaXMgYSBtYWtlciBvZiB0aGluZ3MgcmVzaWRpbmcgaW4gPGEgaHJlZj1cImh0dHBzOi8vZ29vLmdsL21hcHMvakVMaTVub29UUDYyXCIgdGFyZ2V0PVwiX2JsYW5rXCI+R3VlbHBoLCBPTiwgQ2FuYWRhPC9hPi4gU29tZXRpbWVzIHRob3NlIDxzcGFuIGNsYXNzTmFtZT1cIml0YWxpY3NcIj5UaGluZ3M8L3NwYW4+IHJlcXVpcmUgY29kZSwgc29tZXRpbWVzIHBvd2VyIHRvb2xzIGFuZCBoYW5kIHRvb2xzLCB1c3VhbGx5IGl0J3MgZm9yIG90aGVyIHBlb3BsZSwgYW5kIG9mdGVuIGl0J3MgZG9uZSB3aXRoIG90aGVycy4gRGVyZWsgc3BlY2lhbGlzZXMgaW4gcmFkaWNhbCBnZW5lcmFsaXNtICh0aGFua3MgZm9yIHRoZSB0ZXJtIDxhIGhyZWY9XCJodHRwczovL3R3aXR0ZXIuY29tL2FibGVyaXNtXCIgdGFyZ2V0PVwiX2JsYW5rXCI+U2FyYSBIZW5kcmVuPC9hPiksIGhhcyBhIGtlZW4gZm9jdXMgb24gZXRoaWNzIGluIHRlY2hub2xvZ3kgKHRoYW5rcyB0byB0aGUgPGEgaHJlZj1cImh0dHA6Ly9leWVvZmVzdGl2YWwuY29tL1wiIHRhcmdldD1cIl9ibGFua1wiPkV5ZW8gRmVzdGl2YWw8L2E+IGNvbW11bml0eSksIGFuZCBpcyBtb3JlIGNvbmNlcm5lZCB3aXRoIHRoZSA8c3BhbiBjbGFzc05hbWU9XCJpdGFsaWNzXCI+VGhpbmdzPC9zcGFuPiB3ZSBtYWtlLCBhbmQgd2h5IHdlIG1ha2UgdGhlbSBvdmVyIGhvdyBkbyB3ZSBtYWtlIHRoZW0uIFdoaWxlIGhlIGRlZXBseSBlbmpveXMgdGhlIHByb29mIG9mIGxpZmUgc3RhZ2Ugb2YgYSBwcm9qZWN0LCBoZSdzIGp1c3QgYXMgY29tZm9ydGFibGUgZG9pbmcgcmVzZWFyY2gsIGZpeGluZyA8c3BhbiBjbGFzc05hbWU9XCJpdGFsaWNzXCI+Jjwvc3Bhbj4gbG9nZ2luZyBidWdzLCB3cml0aW5nIGRvY3VtZW50YXRpb24sIG1ha2luZyBmbG93Y2hhcnRzLCBhbmQgd3JpdGluZyBjb2RlLjwvcD5cbiAgICA8cD5DdXJyZW50bHksIERlcmVrIGlzIGxvb2tpbmcgZm9yIHJlbW90ZSBvcHBvcnR1bml0aWVzIHdvcmtpbmcgaW4gZGlnaXRhbCBwcm9kdWN0IGRlc2lnbiBpbiBhIHRlY2huaWNhbCBjYXBhY2l0eSA8c3BhbiBjbGFzc05hbWU9XCJpdGFsaWNzXCI+KGluIG9mZmljZSBhbmQvb3IgcGFydGlhbCByZW1vdGUgbG9jYXRlZCBpZiBpbiB0aGUgV2F0ZXJsb2/igJRUb3JvbnRvIGNvcnJpZG9yKTwvc3Bhbj4uIEhlIG1vc3QgcmVjZW50bHkgd29ya2VkIHdpdGggdGhlIG1pZ2h0eSBmaW5lIGZvbGtzIGF0IDxhIGhyZWY9XCJodHRwOi8vc2liZXJpYS5pby9cIiB0YXJnZXQ9XCJfYmxhbmtcIj5TaWJlcmlhPC9hPiwgYW5kIDxhIGhyZWY9XCJodHRwOi8vdGVlaGFubGF4LmNvbS9cIiB0YXJnZXQ9XCJfYmxhbmtcIj5UZWVoYW4rTGF4PC9hPiDigJQgb24gdGhlIDxhIGhyZWY9XCJodHRwczovL3ZpbWVvLmNvbS90bGxhYnNcIiB0YXJnZXQ9XCJfYmxhbmtcIj5MYWJzPC9hPiB0ZWFtIOKAlCBwcmlvciB0byB0aGF0LjwvcD5cbiAgICA8cD5NdWNoIG9mIHRoZSB3b3JrIGhlIGhhcyBiZWVuIGludm9sdmVkIHdpdGggaW4gcmVjZW50IHllYXJzIHdhcyBjb21wbGV0ZWQgdW5kZXIgTkRBLiBQcmV2aW91cyBjbGllbnRzIGNvbWUgZnJvbSBhIGRpdmVyc2Ugc2V0IG9mIGluZHVzdHJpZXMgaW5jbHVkaW5nIHNvY2lhbCBpbXBhY3QsIG11c2ljIHByb2R1Y3Rpb24sIGFjdGl2ZSBhcHBhcmVsIDxzcGFuIGNsYXNzTmFtZT1cIml0YWxpY3NcIj4mPC9zcGFuPiBoaWdoIGZhc2hpb24sIHRlbGVjb21tdW5pY2F0aW9ucywgc21hcnQgaG9tZSwgaG9tZSBhdXRvbWF0aW9uLCBob21lIHNlY3VyaXR5LCBhdXRvbW90aXZlLCBhZHZlcnRpc2luZywgd2VsbG5lc3MgPHNwYW4gY2xhc3NOYW1lPVwiaXRhbGljc1wiPiY8L3NwYW4+IGZpdG5lc3MsIGhlYWx0aGNhcmUsIGFuZCBtZWRpY2FsIG1hcmlqdWFuYS4gSWYgeW91IHdvdWxkIGxpa2UgdG8gbGVhcm4gbW9yZSBhYm91dCBEZXJlaydzIGludm9sdmVtZW50IGluIHRoZXNlIHByb2plY3RzIHJlYWNoIG91dCB1c2luZyB5b3VyIHByZWZlcnJlZCBjb250YWN0IGRldGFpbHMgYmVsb3cuPC9wPlxuICAgIDxwPkRlcmVrIGNhbiBhbHNvIGJlIGZvdW5kIGJ1aWxkaW5nIDxzcGFuIGNsYXNzTmFtZT1cIml0YWxpY3NcIj4mPC9zcGFuPiBkZXNpZ25pbmcgd2Vic2l0ZXMgZm9yIGhpcyA8YSBocmVmPVwiaHR0cDovL3dvcmxkb2Z0d2lsaWdodC5jb21cIiB0YXJnZXQ9XCJfYmxhbmtcIj5mcmllbmRzPC9hPiwgbWFraW5nIGEgdmFyaWV0eSA8YSBocmVmPVwiaHR0cHM6Ly9pbnN0YWdyYW0uY29tL2NhdmVybnNvZnVya1wiIHRhcmdldD1cIl9ibGFua1wiPm9mPC9hPiA8YSBocmVmPVwiaHR0cHM6Ly90d2l0dGVyLmNvbS9hdHVubmVsZ29vblwiIHRhcmdldD1cIl9ibGFua1wiPndlaXJkPC9hPiA8YSBocmVmPVwiaHR0cHM6Ly90d2l0dGVyLmNvbS9wYXJjaG1lbnR3aXRjaFwiIHRhcmdldD1cIl9ibGFua1wiPmJvdHM8L2E+LCBhcyB3ZWxsIGFzIGRlc2lnbmluZyBhbmFsb2d1ZSA8YSBocmVmPVwiaHR0cHM6Ly9kZXJla2tpbnNtYW4uaXRjaC5pb1wiIHRhcmdldD1cIl9ibGFua1wiPmdhbWVzIG9mIHLDtGxl4oCUcGxheTwvYT4uPC9wPlxuXG4gICAgPHN0eWxlIGpzeD57YFxuICAgICAgc2VjdGlvbiB7XG4gICAgICAgIHRleHQtYWxpZ246IGp1c3RpZnk7XG4gICAgICAgIG1hcmdpbjogODRweCBhdXRvIDA7XG4gICAgICAgIHdpZHRoOiA1MHZ3O1xuICAgICAgfVxuXG4gICAgICAuaXRhbGljcyB7XG4gICAgICAgIGZvbnQtc3R5bGU6IGl0YWxpYztcbiAgICAgIH1cblxuICAgICAgQG1lZGlhIHNjcmVlbiBhbmQgKG1heC13aWR0aDogNjUwcHgpIHtcbiAgICAgICAgc2VjdGlvbiB7XG4gICAgICAgICAgbWFyZ2luOiA2M3B4IGF1dG87XG4gICAgICAgICAgd2lkdGg6IDc1dnc7XG4gICAgICAgIH1cbiAgICAgIH1cbiAgICBgfTwvc3R5bGU+XG4gIDwvc2VjdGlvbj5cbilcblxuZXhwb3J0IGRlZmF1bHQgQmlvZ3JhcGh5XG4iXX0= */\n/*@ sourceURL=/Users/derekkinsman/Documents/Cosmonaut Industries/derekkinsman-web/components/biography.js */"));
+  }, "section.jsx-3951310688{text-align:justify;margin:84px auto 0;width:50vw;}.italics.jsx-3951310688{font-style:italic;}@media screen and (max-width:650px){section.jsx-3951310688{margin:63px auto;width:75vw;}}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9kZXJla2tpbnNtYW4vRG9jdW1lbnRzL0Nvc21vbmF1dCBJbmR1c3RyaWVzL2RlcmVra2luc21hbi13ZWIvY29tcG9uZW50cy9iaW9ncmFwaHkuanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBU2dCLEFBRzRCLEFBTUQsQUFLQyxpQkFDTixDQUxmLENBTnFCLFNBWW5CLFVBWFcsV0FDYiIsImZpbGUiOiIvVXNlcnMvZGVyZWtraW5zbWFuL0RvY3VtZW50cy9Db3Ntb25hdXQgSW5kdXN0cmllcy9kZXJla2tpbnNtYW4td2ViL2NvbXBvbmVudHMvYmlvZ3JhcGh5LmpzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0J1xuXG5jb25zdCBCaW9ncmFwaHkgPSAoKSA9PiAoXG4gIDxzZWN0aW9uPlxuICAgIDxwPkRlcmVrIEouIEtpbnNtYW4gaXMgYSBtYWtlciBvZiB0aGluZ3MgcmVzaWRpbmcgaW4gPGEgaHJlZj1cImh0dHBzOi8vZ29vLmdsL21hcHMvakVMaTVub29UUDYyXCIgdGFyZ2V0PVwiX2JsYW5rXCI+R3VlbHBoLCBPTiwgQ2FuYWRhPC9hPi4gVXN1YWxseSB0aG9zZSA8c3BhbiBjbGFzc05hbWU9XCJpdGFsaWNzXCI+dGhpbmdzPC9zcGFuPiByZXF1aXJlIGNvZGUsIHNvbWV0aW1lcyBwb3dlciB0b29scyBhbmQgaGFuZCB0b29scywgbW9zdCBvZiB0aGUgdGltZSBpdCdzIGZvciBvdGhlciBwZW9wbGUsIGFuZCBvZnRlbiBpdCdzIGRvbmUgd2l0aCBvdGhlcnMuIERlcmVrIHNwZWNpYWxpc2VzIGluIHJhZGljYWwgZ2VuZXJhbGlzbSAodGhhbmtzIGZvciB0aGUgdGVybSA8YSBocmVmPVwiaHR0cHM6Ly90d2l0dGVyLmNvbS9hYmxlcmlzbVwiIHRhcmdldD1cIl9ibGFua1wiPlNhcmEgSGVuZHJlbjwvYT4pLCBoYXMgYSBrZWVuIGZvY3VzIG9uIGV0aGljcyBpbiB0ZWNobm9sb2d5ICh0aGFua3MgdG8gdGhlIDxhIGhyZWY9XCJodHRwOi8vZXllb2Zlc3RpdmFsLmNvbS9cIiB0YXJnZXQ9XCJfYmxhbmtcIj5FeWVvIEZlc3RpdmFsPC9hPiBjb21tdW5pdHkpLCBhbmQgaXMgbW9yZSBjb25jZXJuZWQgd2l0aCB3aHkgd2UgbWFrZSB0aGUgPHNwYW4gY2xhc3NOYW1lPVwiaXRhbGljc1wiPnRoaW5nPC9zcGFuPiBvdmVyIGhvdyB3ZSBtYWtlIGl0LiBXaGlsZSBoZSBkZWVwbHkgZW5qb3lzIHRoZSBwcm9vZiBvZiBsaWZlIHN0YWdlIG9mIGEgcHJvamVjdCwgaGUncyBqdXN0IGFzIGNvbWZvcnRhYmxlIHdyaXRpbmcgY29kZSwgZG9pbmcgcmVzZWFyY2gsIGZpeGluZyA8c3BhbiBjbGFzc05hbWU9XCJpdGFsaWNzXCI+Jjwvc3Bhbj4gbG9nZ2luZyBidWdzLCB3cml0aW5nIGRvY3VtZW50YXRpb24sIG1ha2luZyBmbG93Y2hhcnRzLCBhbmQgd29ya2luZyBpbiBzcHJlYWRzaGVldHMuPC9wPlxuICAgIDxwPkN1cnJlbnRseSwgRGVyZWsgaXMgbG9va2luZyBmb3IgcmVtb3RlIG9wcG9ydHVuaXRpZXMgd29ya2luZyBpbiBkaWdpdGFsIHByb2R1Y3QgZGVzaWduIGluIGEgdGVjaG5pY2FsIGNhcGFjaXR5IDxzcGFuIGNsYXNzTmFtZT1cIml0YWxpY3NcIj4oaW4gb2ZmaWNlIGFuZC9vciBwYXJ0aWFsIHJlbW90ZSBsb2NhdGVkIGlmIGluIHRoZSBXYXRlcmxvb+KAlFRvcm9udG8gY29ycmlkb3IpPC9zcGFuPi4gSGUgaXMgY3VycmVudGx5IGNvbnRyYWN0aW5nIHdpdGggdGhlIHdvbmRlcmZ1bCB0ZWFtLCA8YSBocmVmPVwiaHR0cDovL2NvZm9ybWEuaW8vXCIgdGFyZ2V0PVwiX2JsYW5rXCI+Q29mb3JtYTwvYT4gKGZvcm1lcmx5ICZQYXJ0bmVycykuIFByaW9yIHRvIHRoYXQgaGUgaGFzIHdvcmtlZCB3aXRoIHRoZSBtaWdodHkgZmluZSBmb2xrcyBhdCA8YSBocmVmPVwiaHR0cDovL3NpYmVyaWEuaW8vXCIgdGFyZ2V0PVwiX2JsYW5rXCI+U2liZXJpYTwvYT4sIGFuZCA8YSBocmVmPVwiaHR0cDovL3RlZWhhbmxheC5jb20vXCIgdGFyZ2V0PVwiX2JsYW5rXCI+VGVlaGFuK0xheDwvYT4g4oCUIG9uIHRoZSA8YSBocmVmPVwiaHR0cHM6Ly92aW1lby5jb20vdGxsYWJzXCIgdGFyZ2V0PVwiX2JsYW5rXCI+TGFiczwvYT4gdGVhbS48L3A+XG4gICAgPHA+TXVjaCBvZiB0aGUgd29yayBoZSBoYXMgYmVlbiBpbnZvbHZlZCB3aXRoIGluIHJlY2VudCB5ZWFycyB3YXMgY29tcGxldGVkIHVuZGVyIE5EQS4gUHJldmlvdXMgY2xpZW50cyBjb21lIGZyb20gYSBkaXZlcnNlIHNldCBvZiBpbmR1c3RyaWVzIGluY2x1ZGluZyBzb2NpYWwgaW1wYWN0IDxzcGFuIGNsYXNzTmFtZT1cIml0YWxpY3NcIj4mPC9zcGFuPiBjaXZpYyB0ZWNoLCBtdXNpYyBwcm9kdWN0aW9uLCBhY3RpdmUgYXBwYXJlbCA8c3BhbiBjbGFzc05hbWU9XCJpdGFsaWNzXCI+Jjwvc3Bhbj4gaGlnaCBmYXNoaW9uLCB0ZWxlY29tbXVuaWNhdGlvbnMsIHNtYXJ0IGhvbWUsIGhvbWUgYXV0b21hdGlvbiwgaG9tZSBzZWN1cml0eSwgYXV0b21vdGl2ZSwgYWR2ZXJ0aXNpbmcsIHdlbGxuZXNzIDxzcGFuIGNsYXNzTmFtZT1cIml0YWxpY3NcIj4mPC9zcGFuPiBmaXRuZXNzLCBoZWFsdGhjYXJlLCBhbmQgbWVkaWNhbCBjYW5uYWJpcy4gSWYgeW91IHdvdWxkIGxpa2UgdG8gbGVhcm4gbW9yZSBhYm91dCBEZXJlaydzIGludm9sdmVtZW50IGluIHRoZXNlIHByb2plY3RzIHJlYWNoIG91dCB1c2luZyB5b3VyIHByZWZlcnJlZCBjb250YWN0IGRldGFpbHMgYmVsb3cuPC9wPlxuICAgIDxwPkRlcmVrIGNhbiBhbHNvIGJlIGZvdW5kIGJ1aWxkaW5nIDxzcGFuIGNsYXNzTmFtZT1cIml0YWxpY3NcIj4mPC9zcGFuPiBkZXNpZ25pbmcgd2Vic2l0ZXMgZm9yIGhpcyA8YSBocmVmPVwiaHR0cDovL3dvcmxkb2Z0d2lsaWdodC5jb21cIiB0YXJnZXQ9XCJfYmxhbmtcIj5mcmllbmRzPC9hPiwgbWFraW5nIGEgdmFyaWV0eSA8YSBocmVmPVwiaHR0cHM6Ly9pbnN0YWdyYW0uY29tL2NhdmVybnNvZnVya1wiIHRhcmdldD1cIl9ibGFua1wiPm9mPC9hPiA8YSBocmVmPVwiaHR0cHM6Ly90d2l0dGVyLmNvbS9hdHVubmVsZ29vblwiIHRhcmdldD1cIl9ibGFua1wiPndlaXJkPC9hPiA8YSBocmVmPVwiaHR0cHM6Ly90d2l0dGVyLmNvbS9wYXJjaG1lbnR3aXRjaFwiIHRhcmdldD1cIl9ibGFua1wiPmJvdHM8L2E+LCBhcyB3ZWxsIGFzIGRlc2lnbmluZyBhbmFsb2d1ZSA8YSBocmVmPVwiaHR0cHM6Ly9kZXJla2tpbnNtYW4uaXRjaC5pb1wiIHRhcmdldD1cIl9ibGFua1wiPmdhbWVzPC9hPiBvZiA8YSBocmVmPVwiaHR0cHM6Ly9ndW1yb2FkLmNvbS9kZXJla2tpbnNtYW5cIiB0YXJnZXQ9XCJfYmxhbmtcIj5yw7RsZeKAlHBsYXk8L2E+LjwvcD5cblxuICAgIDxzdHlsZSBqc3g+e2BcbiAgICAgIHNlY3Rpb24ge1xuICAgICAgICB0ZXh0LWFsaWduOiBqdXN0aWZ5O1xuICAgICAgICBtYXJnaW46IDg0cHggYXV0byAwO1xuICAgICAgICB3aWR0aDogNTB2dztcbiAgICAgIH1cblxuICAgICAgLml0YWxpY3Mge1xuICAgICAgICBmb250LXN0eWxlOiBpdGFsaWM7XG4gICAgICB9XG5cbiAgICAgIEBtZWRpYSBzY3JlZW4gYW5kIChtYXgtd2lkdGg6IDY1MHB4KSB7XG4gICAgICAgIHNlY3Rpb24ge1xuICAgICAgICAgIG1hcmdpbjogNjNweCBhdXRvO1xuICAgICAgICAgIHdpZHRoOiA3NXZ3O1xuICAgICAgICB9XG4gICAgICB9XG4gICAgYH08L3N0eWxlPlxuICA8L3NlY3Rpb24+XG4pXG5cbmV4cG9ydCBkZWZhdWx0IEJpb2dyYXBoeVxuIl19 */\n/*@ sourceURL=/Users/derekkinsman/Documents/Cosmonaut Industries/derekkinsman-web/components/biography.js */"));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Biography);
@@ -342,7 +367,7 @@ var Contact = function Contact() {
     className: "jsx-711032293",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 43
+      lineNumber: 42
     },
     __self: this
   }, resume.map(function (_ref) {
@@ -354,7 +379,7 @@ var Contact = function Contact() {
       className: "jsx-711032293",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 45
+        lineNumber: 44
       },
       __self: this
     }, __jsx("a", {
@@ -362,7 +387,7 @@ var Contact = function Contact() {
       className: "jsx-711032293",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 46
+        lineNumber: 45
       },
       __self: this
     }, label));
@@ -370,36 +395,36 @@ var Contact = function Contact() {
     className: "jsx-711032293",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 49
+      lineNumber: 48
     },
     __self: this
   }, __jsx("a", {
-    href: "/resume_derekkinsman_2020.pdf",
+    href: "/resume_derekkinsman_2021.pdf",
     className: "jsx-711032293",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 50
+      lineNumber: 49
     },
     __self: this
   }, "PDF"))), __jsx("h3", {
     className: "jsx-711032293",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 54
+      lineNumber: 53
     },
     __self: this
   }, "Contact"), __jsx("h4", {
     className: "jsx-711032293",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 55
+      lineNumber: 54
     },
     __self: this
   }, "\u2014via Email:"), __jsx("ul", {
     className: "jsx-711032293",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 56
+      lineNumber: 55
     },
     __self: this
   }, email.map(function (_ref2) {
@@ -411,7 +436,7 @@ var Contact = function Contact() {
       className: "jsx-711032293",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 58
+        lineNumber: 57
       },
       __self: this
     }, __jsx("a", {
@@ -419,7 +444,7 @@ var Contact = function Contact() {
       className: "jsx-711032293",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 59
+        lineNumber: 58
       },
       __self: this
     }, label));
@@ -427,14 +452,14 @@ var Contact = function Contact() {
     className: "jsx-711032293",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 64
+      lineNumber: 63
     },
     __self: this
   }, "\u2014via Telephony:"), __jsx("ul", {
     className: "jsx-711032293",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 65
+      lineNumber: 64
     },
     __self: this
   }, phone.map(function (_ref3) {
@@ -446,7 +471,7 @@ var Contact = function Contact() {
       className: "jsx-711032293",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 67
+        lineNumber: 66
       },
       __self: this
     }, __jsx("a", {
@@ -454,7 +479,7 @@ var Contact = function Contact() {
       className: "jsx-711032293",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 68
+        lineNumber: 67
       },
       __self: this
     }, label));
@@ -462,14 +487,14 @@ var Contact = function Contact() {
     className: "jsx-711032293",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 73
+      lineNumber: 72
     },
     __self: this
   }, "\u2014via the Internet:"), __jsx("ul", {
     className: "jsx-711032293",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 74
+      lineNumber: 73
     },
     __self: this
   }, links.map(function (_ref4) {
@@ -481,7 +506,7 @@ var Contact = function Contact() {
       className: "jsx-711032293",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 76
+        lineNumber: 75
       },
       __self: this
     }, __jsx("a", {
@@ -489,14 +514,14 @@ var Contact = function Contact() {
       className: "jsx-711032293",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 77
+        lineNumber: 76
       },
       __self: this
     }, label));
   })), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
     id: "711032293",
     __self: this
-  }, "section.jsx-711032293{text-align:center;margin:0 auto;width:50vw;}@media screen and (max-width:650px){section.jsx-711032293{width:75vw;}}h3.jsx-711032293{margin:0;}h3.jsx-711032293:last-of-type{margin-top:42px;}h4.jsx-711032293{font-size:1rem;font-weight:400;margin:0;}.italics.jsx-711032293{font-style:italic;}ul.jsx-711032293{list-style-type:none;margin:0 auto 21px;padding:0;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9kZXJla2tpbnNtYW4vRG9jdW1lbnRzL0Nvc21vbmF1dCBJbmR1c3RyaWVzL2RlcmVra2luc21hbi13ZWIvY29tcG9uZW50cy9jb250YWN0LmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQWlGZ0IsQUFHMkIsQUFPTCxBQUtKLEFBSU8sQUFJRCxBQU1HLEFBSUcsU0FqQnZCLEVBTEUsSUFhZ0IsQ0FKbEIsRUFoQmdCLEFBMEJoQixHQUlxQixVQVRWLENBcEJFLFFBcUJiLEFBU1ksR0E3QlosT0E4QkEiLCJmaWxlIjoiL1VzZXJzL2RlcmVra2luc21hbi9Eb2N1bWVudHMvQ29zbW9uYXV0IEluZHVzdHJpZXMvZGVyZWtraW5zbWFuLXdlYi9jb21wb25lbnRzL2NvbnRhY3QuanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgUmVhY3QgZnJvbSAncmVhY3QnXG5cbmNvbnN0IHJlc3VtZSA9IFtcbiAgeyBocmVmOiAnaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2luL2RlcmVra2luc21hbi8nLCBsYWJlbDogJ0xpbmtlZEluJyB9XG5dLm1hcChsaW5rID0+IHtcbiAgbGluay5rZXkgPSBgbmF2LWxpbmstJHtsaW5rLmhyZWZ9LSR7bGluay5sYWJlbH1gXG4gIHJldHVybiBsaW5rXG59KVxuXG5jb25zdCBlbWFpbCA9IFtcbiAgeyBocmVmOiAnbWFpbHRvOmRlcmVra2luc21hbkBwcm90b25tYWlsLmNvbScsIGxhYmVsOiAnZGVyZWtraW5zbWFuQHByb3Rvbm1haWwuY29tJyB9XG5dLm1hcChsaW5rID0+IHtcbiAgbGluay5rZXkgPSBgbmF2LWxpbmstJHtsaW5rLmhyZWZ9LSR7bGluay5sYWJlbH1gXG4gIHJldHVybiBsaW5rXG59KVxuXG5jb25zdCBwaG9uZSA9IFtcbiAgeyBocmVmOiAndGVsOjE0MTYzNzE1NjUyJywgbGFiZWw6ICcrMSAoNDE2KSAzNzEtNTY1MicgfVxuXS5tYXAobGluayA9PiB7XG4gIGxpbmsua2V5ID0gYG5hdi1saW5rLSR7bGluay5ocmVmfS0ke2xpbmsubGFiZWx9YFxuICByZXR1cm4gbGlua1xufSlcblxuY29uc3QgbGlua3MgPSBbXG4gIHsgaHJlZjogJ2h0dHBzOi8vZ2l0aHViLmNvbS9kZXJla2tpbnNtYW4nLCBsYWJlbDogJ0dpdGh1YicgfSxcbiAgeyBocmVmOiAnaHR0cHM6Ly93d3cucHJvZHVjdGh1bnQuY29tL0BkZXJla19raW5zbWFuJywgbGFiZWw6ICdQcm9kdWN0SHVudCcgfSxcbiAgeyBocmVmOiAnaHR0cHM6Ly9tZWRpdW0uY29tL0BkZXJla2tpbnNtYW4nLCBsYWJlbDogJ01lZGl1bScgfSxcbiAgeyBocmVmOiAnaHR0cDovL3d3dy5tZWV0dXAuY29tL21lbWJlcnMvMTA0NTk4ODgyLycsIGxhYmVsOiAnTWVldHVwJyB9LFxuICB7IGhyZWY6ICdodHRwczovL2RlcmVra2luc21hbi5pdGNoLmlvLycsIGxhYmVsOiAnSXRjaCcgfSxcbiAgeyBocmVmOiAnaHR0cHM6Ly93d3cuZ29vZHJlYWRzLmNvbS91c2VyL3Nob3cvNTQ0OTg3Mi1kZXJlay1raW5zbWFuJywgbGFiZWw6ICdHb29kcmVhZHMnIH0sXG4gIHsgaHJlZjogJ2h0dHBzOi8vdHdpdHRlci5jb20vZGVyZWtraW5zbWFuJywgbGFiZWw6ICdUd2l0dGVyJyB9LFxuICB7IGhyZWY6ICdodHRwczovL3d3dy5mYWNlYm9vay5jb20vZGVyZWsua2luc21hbicsIGxhYmVsOiAnRmFjZWJvb2snIH0sXG4gIHsgaHJlZjogJ2h0dHA6Ly9pbnN0YWdyYW0uY29tL2RlcmVra2luc21hbicsIGxhYmVsOiAnSW5zdGFncmFtJyB9XG5dLm1hcChsaW5rID0+IHtcbiAgbGluay5rZXkgPSBgbmF2LWxpbmstJHtsaW5rLmhyZWZ9LSR7bGluay5sYWJlbH1gXG4gIHJldHVybiBsaW5rXG59KVxuXG5jb25zdCBDb250YWN0ID0gKCkgPT4gKFxuICA8c2VjdGlvbj5cbiAgICA8aDM+SW50ZXJuZXQgUsOpc3Vtw6k8L2gzPlxuICAgIHsvKiA8aDQ+PHNwYW4gY2xhc3NOYW1lPVwiaXRhbGljc1wiPuKAlFBERiBhdmFpbGFibGUgYnkgcmVxdWVzdC48L3NwYW4+PC9oND4gKi99XG4gICAgPHVsPlxuICAgICAge3Jlc3VtZS5tYXAoKHsga2V5LCBocmVmLCBsYWJlbCB9KSA9PiAoXG4gICAgICAgIDxsaSBrZXk9e2tleX0+XG4gICAgICAgICAgPGEgaHJlZj17aHJlZn0+e2xhYmVsfTwvYT5cbiAgICAgICAgPC9saT5cbiAgICAgICkpfVxuICAgICAgPGxpPlxuICAgICAgICA8YSBocmVmPVwiL3Jlc3VtZV9kZXJla2tpbnNtYW5fMjAyMC5wZGZcIj5QREY8L2E+XG4gICAgICA8L2xpPlxuICAgIDwvdWw+XG5cbiAgICA8aDM+Q29udGFjdDwvaDM+XG4gICAgPGg0PuKAlHZpYSBFbWFpbDo8L2g0PlxuICAgIDx1bD5cbiAgICAgIHtlbWFpbC5tYXAoKHsga2V5LCBocmVmLCBsYWJlbCB9KSA9PiAoXG4gICAgICAgIDxsaSBrZXk9e2tleX0+XG4gICAgICAgICAgPGEgaHJlZj17aHJlZn0+e2xhYmVsfTwvYT5cbiAgICAgICAgPC9saT5cbiAgICAgICkpfVxuICAgIDwvdWw+XG5cbiAgICA8aDQ+4oCUdmlhIFRlbGVwaG9ueTo8L2g0PlxuICAgIDx1bD5cbiAgICAgIHtwaG9uZS5tYXAoKHsga2V5LCBocmVmLCBsYWJlbCB9KSA9PiAoXG4gICAgICAgIDxsaSBrZXk9e2tleX0+XG4gICAgICAgICAgPGEgaHJlZj17aHJlZn0+e2xhYmVsfTwvYT5cbiAgICAgICAgPC9saT5cbiAgICAgICkpfVxuICAgIDwvdWw+XG5cbiAgICA8aDQ+4oCUdmlhIHRoZSBJbnRlcm5ldDo8L2g0PlxuICAgIDx1bD5cbiAgICAgIHtsaW5rcy5tYXAoKHsga2V5LCBocmVmLCBsYWJlbCB9KSA9PiAoXG4gICAgICAgIDxsaSBrZXk9e2tleX0+XG4gICAgICAgICAgPGEgaHJlZj17aHJlZn0+e2xhYmVsfTwvYT5cbiAgICAgICAgPC9saT5cbiAgICAgICkpfVxuICAgIDwvdWw+XG5cbiAgICA8c3R5bGUganN4PntgXG4gICAgICBzZWN0aW9uIHtcbiAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyO1xuICAgICAgICBtYXJnaW46IDAgYXV0bztcbiAgICAgICAgd2lkdGg6IDUwdnc7XG4gICAgICB9XG5cbiAgICAgIEBtZWRpYSBzY3JlZW4gYW5kIChtYXgtd2lkdGg6IDY1MHB4KSB7XG4gICAgICAgIHNlY3Rpb24ge1xuICAgICAgICAgIHdpZHRoOiA3NXZ3O1xuICAgICAgICB9XG4gICAgICB9XG5cbiAgICAgIGgzIHtcbiAgICAgICAgbWFyZ2luOiAwO1xuICAgICAgfVxuXG4gICAgICBoMzpsYXN0LW9mLXR5cGUge1xuICAgICAgICBtYXJnaW4tdG9wOiA0MnB4O1xuICAgICAgfVxuXG4gICAgICBoNCB7XG4gICAgICAgIGZvbnQtc2l6ZTogMXJlbTtcbiAgICAgICAgZm9udC13ZWlnaHQ6IDQwMDtcbiAgICAgICAgbWFyZ2luOiAwO1xuICAgICAgfVxuXG4gICAgICAuaXRhbGljcyB7XG4gICAgICAgIGZvbnQtc3R5bGU6IGl0YWxpYztcbiAgICAgIH1cblxuICAgICAgdWwge1xuICAgICAgICBsaXN0LXN0eWxlLXR5cGU6IG5vbmU7XG4gICAgICAgIG1hcmdpbjogMCBhdXRvIDIxcHg7XG4gICAgICAgIHBhZGRpbmc6IDA7XG4gICAgICB9XG5cbiAgICAgIG5hdiA+IHVsIHtcbiAgICAgIH1cblxuICAgICAgbGkge1xuICAgICAgfVxuICAgIGB9PC9zdHlsZT5cbiAgPC9zZWN0aW9uPlxuKVxuXG5leHBvcnQgZGVmYXVsdCBDb250YWN0XG4iXX0= */\n/*@ sourceURL=/Users/derekkinsman/Documents/Cosmonaut Industries/derekkinsman-web/components/contact.js */"));
+  }, "section.jsx-711032293{text-align:center;margin:0 auto;width:50vw;}@media screen and (max-width:650px){section.jsx-711032293{width:75vw;}}h3.jsx-711032293{margin:0;}h3.jsx-711032293:last-of-type{margin-top:42px;}h4.jsx-711032293{font-size:1rem;font-weight:400;margin:0;}.italics.jsx-711032293{font-style:italic;}ul.jsx-711032293{list-style-type:none;margin:0 auto 21px;padding:0;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9kZXJla2tpbnNtYW4vRG9jdW1lbnRzL0Nvc21vbmF1dCBJbmR1c3RyaWVzL2RlcmVra2luc21hbi13ZWIvY29tcG9uZW50cy9jb250YWN0LmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQWdGZ0IsQUFHMkIsQUFPTCxBQUtKLEFBSU8sQUFJRCxBQU1HLEFBSUcsU0FqQnZCLEVBTEUsSUFhZ0IsQ0FKbEIsRUFoQmdCLEFBMEJoQixHQUlxQixVQVRWLENBcEJFLFFBcUJiLEFBU1ksR0E3QlosT0E4QkEiLCJmaWxlIjoiL1VzZXJzL2RlcmVra2luc21hbi9Eb2N1bWVudHMvQ29zbW9uYXV0IEluZHVzdHJpZXMvZGVyZWtraW5zbWFuLXdlYi9jb21wb25lbnRzL2NvbnRhY3QuanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgUmVhY3QgZnJvbSAncmVhY3QnXG5cbmNvbnN0IHJlc3VtZSA9IFtcbiAgeyBocmVmOiAnaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2luL2RlcmVra2luc21hbi8nLCBsYWJlbDogJ0xpbmtlZEluJyB9XG5dLm1hcChsaW5rID0+IHtcbiAgbGluay5rZXkgPSBgbmF2LWxpbmstJHtsaW5rLmhyZWZ9LSR7bGluay5sYWJlbH1gXG4gIHJldHVybiBsaW5rXG59KVxuXG5jb25zdCBlbWFpbCA9IFtcbiAgeyBocmVmOiAnbWFpbHRvOmRlcmVra2luc21hbkBwcm90b25tYWlsLmNvbScsIGxhYmVsOiAnZGVyZWtraW5zbWFuQHByb3Rvbm1haWwuY29tJyB9XG5dLm1hcChsaW5rID0+IHtcbiAgbGluay5rZXkgPSBgbmF2LWxpbmstJHtsaW5rLmhyZWZ9LSR7bGluay5sYWJlbH1gXG4gIHJldHVybiBsaW5rXG59KVxuXG5jb25zdCBwaG9uZSA9IFtcbiAgeyBocmVmOiAndGVsOjE0MTYzNzE1NjUyJywgbGFiZWw6ICcrMSAoNDE2KSAzNzEtNTY1MicgfVxuXS5tYXAobGluayA9PiB7XG4gIGxpbmsua2V5ID0gYG5hdi1saW5rLSR7bGluay5ocmVmfS0ke2xpbmsubGFiZWx9YFxuICByZXR1cm4gbGlua1xufSlcblxuY29uc3QgbGlua3MgPSBbXG4gIHsgaHJlZjogJ2h0dHBzOi8vZ2l0aHViLmNvbS9kZXJla2tpbnNtYW4nLCBsYWJlbDogJ0dpdGh1YicgfSxcbiAgeyBocmVmOiAnaHR0cHM6Ly93d3cucHJvZHVjdGh1bnQuY29tL0BkZXJla19raW5zbWFuJywgbGFiZWw6ICdQcm9kdWN0SHVudCcgfSxcbiAgeyBocmVmOiAnaHR0cHM6Ly9tZWRpdW0uY29tL0BkZXJla2tpbnNtYW4nLCBsYWJlbDogJ01lZGl1bScgfSxcbiAgeyBocmVmOiAnaHR0cDovL3d3dy5tZWV0dXAuY29tL21lbWJlcnMvMTA0NTk4ODgyLycsIGxhYmVsOiAnTWVldHVwJyB9LFxuICB7IGhyZWY6ICdodHRwczovL2RlcmVra2luc21hbi5pdGNoLmlvLycsIGxhYmVsOiAnSXRjaCcgfSxcbiAgeyBocmVmOiAnaHR0cHM6Ly93d3cuZ29vZHJlYWRzLmNvbS91c2VyL3Nob3cvNTQ0OTg3Mi1kZXJlay1raW5zbWFuJywgbGFiZWw6ICdHb29kcmVhZHMnIH0sXG4gIHsgaHJlZjogJ2h0dHBzOi8vdHdpdHRlci5jb20vZGVyZWtraW5zbWFuJywgbGFiZWw6ICdUd2l0dGVyJyB9LFxuICB7IGhyZWY6ICdodHRwczovL3d3dy5mYWNlYm9vay5jb20vZGVyZWsua2luc21hbicsIGxhYmVsOiAnRmFjZWJvb2snIH0sXG4gIHsgaHJlZjogJ2h0dHA6Ly9pbnN0YWdyYW0uY29tL2RlcmVra2luc21hbicsIGxhYmVsOiAnSW5zdGFncmFtJyB9XG5dLm1hcChsaW5rID0+IHtcbiAgbGluay5rZXkgPSBgbmF2LWxpbmstJHtsaW5rLmhyZWZ9LSR7bGluay5sYWJlbH1gXG4gIHJldHVybiBsaW5rXG59KVxuXG5jb25zdCBDb250YWN0ID0gKCkgPT4gKFxuICA8c2VjdGlvbj5cbiAgICA8aDM+SW50ZXJuZXQgUsOpc3Vtw6k8L2gzPlxuICAgIDx1bD5cbiAgICAgIHtyZXN1bWUubWFwKCh7IGtleSwgaHJlZiwgbGFiZWwgfSkgPT4gKFxuICAgICAgICA8bGkga2V5PXtrZXl9PlxuICAgICAgICAgIDxhIGhyZWY9e2hyZWZ9PntsYWJlbH08L2E+XG4gICAgICAgIDwvbGk+XG4gICAgICApKX1cbiAgICAgIDxsaT5cbiAgICAgICAgPGEgaHJlZj1cIi9yZXN1bWVfZGVyZWtraW5zbWFuXzIwMjEucGRmXCI+UERGPC9hPlxuICAgICAgPC9saT5cbiAgICA8L3VsPlxuXG4gICAgPGgzPkNvbnRhY3Q8L2gzPlxuICAgIDxoND7igJR2aWEgRW1haWw6PC9oND5cbiAgICA8dWw+XG4gICAgICB7ZW1haWwubWFwKCh7IGtleSwgaHJlZiwgbGFiZWwgfSkgPT4gKFxuICAgICAgICA8bGkga2V5PXtrZXl9PlxuICAgICAgICAgIDxhIGhyZWY9e2hyZWZ9PntsYWJlbH08L2E+XG4gICAgICAgIDwvbGk+XG4gICAgICApKX1cbiAgICA8L3VsPlxuXG4gICAgPGg0PuKAlHZpYSBUZWxlcGhvbnk6PC9oND5cbiAgICA8dWw+XG4gICAgICB7cGhvbmUubWFwKCh7IGtleSwgaHJlZiwgbGFiZWwgfSkgPT4gKFxuICAgICAgICA8bGkga2V5PXtrZXl9PlxuICAgICAgICAgIDxhIGhyZWY9e2hyZWZ9PntsYWJlbH08L2E+XG4gICAgICAgIDwvbGk+XG4gICAgICApKX1cbiAgICA8L3VsPlxuXG4gICAgPGg0PuKAlHZpYSB0aGUgSW50ZXJuZXQ6PC9oND5cbiAgICA8dWw+XG4gICAgICB7bGlua3MubWFwKCh7IGtleSwgaHJlZiwgbGFiZWwgfSkgPT4gKFxuICAgICAgICA8bGkga2V5PXtrZXl9PlxuICAgICAgICAgIDxhIGhyZWY9e2hyZWZ9PntsYWJlbH08L2E+XG4gICAgICAgIDwvbGk+XG4gICAgICApKX1cbiAgICA8L3VsPlxuXG4gICAgPHN0eWxlIGpzeD57YFxuICAgICAgc2VjdGlvbiB7XG4gICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgICAgICAgbWFyZ2luOiAwIGF1dG87XG4gICAgICAgIHdpZHRoOiA1MHZ3O1xuICAgICAgfVxuXG4gICAgICBAbWVkaWEgc2NyZWVuIGFuZCAobWF4LXdpZHRoOiA2NTBweCkge1xuICAgICAgICBzZWN0aW9uIHtcbiAgICAgICAgICB3aWR0aDogNzV2dztcbiAgICAgICAgfVxuICAgICAgfVxuXG4gICAgICBoMyB7XG4gICAgICAgIG1hcmdpbjogMDtcbiAgICAgIH1cblxuICAgICAgaDM6bGFzdC1vZi10eXBlIHtcbiAgICAgICAgbWFyZ2luLXRvcDogNDJweDtcbiAgICAgIH1cblxuICAgICAgaDQge1xuICAgICAgICBmb250LXNpemU6IDFyZW07XG4gICAgICAgIGZvbnQtd2VpZ2h0OiA0MDA7XG4gICAgICAgIG1hcmdpbjogMDtcbiAgICAgIH1cblxuICAgICAgLml0YWxpY3Mge1xuICAgICAgICBmb250LXN0eWxlOiBpdGFsaWM7XG4gICAgICB9XG5cbiAgICAgIHVsIHtcbiAgICAgICAgbGlzdC1zdHlsZS10eXBlOiBub25lO1xuICAgICAgICBtYXJnaW46IDAgYXV0byAyMXB4O1xuICAgICAgICBwYWRkaW5nOiAwO1xuICAgICAgfVxuXG4gICAgICBuYXYgPiB1bCB7XG4gICAgICB9XG5cbiAgICAgIGxpIHtcbiAgICAgIH1cbiAgICBgfTwvc3R5bGU+XG4gIDwvc2VjdGlvbj5cbilcblxuZXhwb3J0IGRlZmF1bHQgQ29udGFjdFxuIl19 */\n/*@ sourceURL=/Users/derekkinsman/Documents/Cosmonaut Industries/derekkinsman-web/components/contact.js */"));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Contact);
@@ -584,143 +609,67 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var react_twitter_embed__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react-twitter-embed */ "./node_modules/react-twitter-embed/dist/index.es.js");
 var _jsxFileName = "/Users/derekkinsman/Documents/Cosmonaut Industries/derekkinsman-web/components/twitter.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
-var links = [{
-  href: 'https://github.com/derekkinsman',
-  label: 'Github'
+
+var tweets = [{
+  tweetId: '405174155760267265'
 }, {
-  href: 'https://www.producthunt.com/@derek_kinsman',
-  label: 'ProductHunt'
-}, {
-  href: 'https://medium.com/@derekkinsman',
-  label: 'Medium'
-}, {
-  href: 'http://www.meetup.com/members/104598882/',
-  label: 'Meetup'
-}, {
-  href: 'https://derekkinsman.itch.io/',
-  label: 'Itch'
-}, {
-  href: 'https://www.goodreads.com/user/show/5449872-derek-kinsman',
-  label: 'Goodreads'
-}, {
-  href: 'http://twitter.com/derekkinsman',
-  label: 'Twitter'
-}, {
-  href: 'https://www.facebook.com/derek.kinsman',
-  label: 'Facebook'
-}, {
-  href: 'http://instagram.com/derekkinsman',
-  label: 'Instagram'
+  tweetId: '405744509465526272'
 }].map(function (link) {
-  link.key = "nav-link-".concat(link.href, "-").concat(link.label);
+  link.key = "nav-link-".concat(link.tweetId);
   return link;
 });
 
 var Twitter = function Twitter() {
   return __jsx("section", {
-    className: "jsx-3472338650",
+    className: "jsx-3938385413",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 19
+      lineNumber: 13
     },
     __self: this
   }, __jsx("h3", {
-    className: "jsx-3472338650",
+    className: "jsx-3938385413",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 20
+      lineNumber: 14
     },
     __self: this
-  }, "Nice Things People On The Internet Have Said"), __jsx("blockquote", {
-    className: "jsx-3472338650" + " " + "twitter-tweet",
+  }, "Nice Things People On The Internet Have Said"), __jsx("div", {
+    className: "jsx-3938385413" + " " + "tweets",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 21
+      lineNumber: 15
     },
     __self: this
-  }, __jsx("p", {
-    lang: "en",
-    dir: "ltr",
-    className: "jsx-3472338650",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 21
-    },
+  }, tweets.map(function (_ref) {
+    var key = _ref.key,
+        tweetId = _ref.tweetId;
+    return __jsx("div", {
+      key: key,
+      className: "jsx-3938385413" + " " + "tweet-wrapper",
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 17
+      },
+      __self: this
+    }, __jsx(react_twitter_embed__WEBPACK_IMPORTED_MODULE_2__["TwitterTweetEmbed"], {
+      tweetId: tweetId,
+      placeholder: "Loading",
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 17
+      },
+      __self: this
+    }));
+  })), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
+    id: "3938385413",
     __self: this
-  }, "These guys do cool stuff. I want some of the things they build. Tho I suspect they're not for sale. ", __jsx("a", {
-    href: "http://t.co/v4PYUrbyWp",
-    className: "jsx-3472338650",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 21
-    },
-    __self: this
-  }, "http://t.co/v4PYUrbyWp")), "\u2014 Adam Savage (@donttrythis) ", __jsx("a", {
-    href: "https://twitter.com/donttrythis/status/405174155760267265?ref_src=twsrc%5Etfw",
-    className: "jsx-3472338650",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 21
-    },
-    __self: this
-  }, "November 26, 2013")), __jsx("blockquote", {
-    className: "jsx-3472338650" + " " + "twitter-tweet",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 22
-    },
-    __self: this
-  }, __jsx("p", {
-    lang: "en",
-    dir: "ltr",
-    className: "jsx-3472338650",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 22
-    },
-    __self: this
-  }, "Did I tell y'all that I love this D.I.G.I.T display from ", __jsx("a", {
-    href: "https://twitter.com/tllabs?ref_src=twsrc%5Etfw",
-    className: "jsx-3472338650",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 22
-    },
-    __self: this
-  }, "@tllabs"), " ? ", __jsx("a", {
-    href: "http://t.co/2HC3MSe4K3",
-    className: "jsx-3472338650",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 22
-    },
-    __self: this
-  }, "http://t.co/2HC3MSe4K3"), " Now, are they phyxels or not?"), "\u2014 jared ficklin (@jaredrawk) ", __jsx("a", {
-    href: "https://twitter.com/jaredrawk/status/405744509465526272?ref_src=twsrc%5Etfw",
-    className: "jsx-3472338650",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 22
-    },
-    __self: this
-  }, "November 27, 2013")), __jsx("script", {
-    async: true,
-    src: "https://platform.twitter.com/widgets.js",
-    charSet: "utf-8",
-    className: "jsx-3472338650",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 24
-    },
-    __self: this
-  }), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
-    id: "3472338650",
-    __self: this
-  }, "section.jsx-3472338650{text-align:center;margin:0 auto;width:50vw;}@media screen and (max-width:650px){section.jsx-3472338650{width:75vw;}}h3.jsx-3472338650{margin-bottom:0;}.twitter-tweet.jsx-3472338650{display:inline-block !important;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9kZXJla2tpbnNtYW4vRG9jdW1lbnRzL0Nvc21vbmF1dCBJbmR1c3RyaWVzL2RlcmVra2luc21hbi13ZWIvY29tcG9uZW50cy90d2l0dGVyLmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQXlCZ0IsQUFHMkIsQUFPTCxBQUtHLEFBSWdCLFdBUmhDLEtBS0YsRUFaZ0IsY0FDSCxBQWViLFdBZEEiLCJmaWxlIjoiL1VzZXJzL2RlcmVra2luc21hbi9Eb2N1bWVudHMvQ29zbW9uYXV0IEluZHVzdHJpZXMvZGVyZWtraW5zbWFuLXdlYi9jb21wb25lbnRzL3R3aXR0ZXIuanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgUmVhY3QgZnJvbSAncmVhY3QnXG5cbmNvbnN0IGxpbmtzID0gW1xuICB7IGhyZWY6ICdodHRwczovL2dpdGh1Yi5jb20vZGVyZWtraW5zbWFuJywgbGFiZWw6ICdHaXRodWInIH0sXG4gIHsgaHJlZjogJ2h0dHBzOi8vd3d3LnByb2R1Y3RodW50LmNvbS9AZGVyZWtfa2luc21hbicsIGxhYmVsOiAnUHJvZHVjdEh1bnQnIH0sXG4gIHsgaHJlZjogJ2h0dHBzOi8vbWVkaXVtLmNvbS9AZGVyZWtraW5zbWFuJywgbGFiZWw6ICdNZWRpdW0nIH0sXG4gIHsgaHJlZjogJ2h0dHA6Ly93d3cubWVldHVwLmNvbS9tZW1iZXJzLzEwNDU5ODg4Mi8nLCBsYWJlbDogJ01lZXR1cCcgfSxcbiAgeyBocmVmOiAnaHR0cHM6Ly9kZXJla2tpbnNtYW4uaXRjaC5pby8nLCBsYWJlbDogJ0l0Y2gnIH0sXG4gIHsgaHJlZjogJ2h0dHBzOi8vd3d3Lmdvb2RyZWFkcy5jb20vdXNlci9zaG93LzU0NDk4NzItZGVyZWsta2luc21hbicsIGxhYmVsOiAnR29vZHJlYWRzJyB9LFxuICB7IGhyZWY6ICdodHRwOi8vdHdpdHRlci5jb20vZGVyZWtraW5zbWFuJywgbGFiZWw6ICdUd2l0dGVyJyB9LFxuICB7IGhyZWY6ICdodHRwczovL3d3dy5mYWNlYm9vay5jb20vZGVyZWsua2luc21hbicsIGxhYmVsOiAnRmFjZWJvb2snIH0sXG4gIHsgaHJlZjogJ2h0dHA6Ly9pbnN0YWdyYW0uY29tL2RlcmVra2luc21hbicsIGxhYmVsOiAnSW5zdGFncmFtJyB9XG5dLm1hcChsaW5rID0+IHtcbiAgbGluay5rZXkgPSBgbmF2LWxpbmstJHtsaW5rLmhyZWZ9LSR7bGluay5sYWJlbH1gXG4gIHJldHVybiBsaW5rXG59KVxuXG5jb25zdCBUd2l0dGVyID0gKCkgPT4gKFxuICA8c2VjdGlvbj5cbiAgICA8aDM+TmljZSBUaGluZ3MgUGVvcGxlIE9uIFRoZSBJbnRlcm5ldCBIYXZlIFNhaWQ8L2gzPlxuICAgIDxibG9ja3F1b3RlIGNsYXNzTmFtZT1cInR3aXR0ZXItdHdlZXRcIj48cCBsYW5nPVwiZW5cIiBkaXI9XCJsdHJcIj5UaGVzZSBndXlzIGRvIGNvb2wgc3R1ZmYuIEkgd2FudCBzb21lIG9mIHRoZSB0aGluZ3MgdGhleSBidWlsZC4gVGhvIEkgc3VzcGVjdCB0aGV5JiMzOTtyZSBub3QgZm9yIHNhbGUuIDxhIGhyZWY9XCJodHRwOi8vdC5jby92NFBZVXJieVdwXCI+aHR0cDovL3QuY28vdjRQWVVyYnlXcDwvYT48L3A+Jm1kYXNoOyBBZGFtIFNhdmFnZSAoQGRvbnR0cnl0aGlzKSA8YSBocmVmPVwiaHR0cHM6Ly90d2l0dGVyLmNvbS9kb250dHJ5dGhpcy9zdGF0dXMvNDA1MTc0MTU1NzYwMjY3MjY1P3JlZl9zcmM9dHdzcmMlNUV0ZndcIj5Ob3ZlbWJlciAyNiwgMjAxMzwvYT48L2Jsb2NrcXVvdGU+XG4gICAgPGJsb2NrcXVvdGUgY2xhc3NOYW1lPVwidHdpdHRlci10d2VldFwiPjxwIGxhbmc9XCJlblwiIGRpcj1cImx0clwiPkRpZCBJIHRlbGwgeSYjMzk7YWxsIHRoYXQgSSBsb3ZlIHRoaXMgRC5JLkcuSS5UIGRpc3BsYXkgZnJvbSA8YSBocmVmPVwiaHR0cHM6Ly90d2l0dGVyLmNvbS90bGxhYnM/cmVmX3NyYz10d3NyYyU1RXRmd1wiPkB0bGxhYnM8L2E+ID8gPGEgaHJlZj1cImh0dHA6Ly90LmNvLzJIQzNNU2U0SzNcIj5odHRwOi8vdC5jby8ySEMzTVNlNEszPC9hPiBOb3csIGFyZSB0aGV5IHBoeXhlbHMgb3Igbm90PzwvcD4mbWRhc2g7IGphcmVkIGZpY2tsaW4gKEBqYXJlZHJhd2spIDxhIGhyZWY9XCJodHRwczovL3R3aXR0ZXIuY29tL2phcmVkcmF3ay9zdGF0dXMvNDA1NzQ0NTA5NDY1NTI2MjcyP3JlZl9zcmM9dHdzcmMlNUV0ZndcIj5Ob3ZlbWJlciAyNywgMjAxMzwvYT48L2Jsb2NrcXVvdGU+XG5cbiAgICA8c2NyaXB0IGFzeW5jIHNyYz1cImh0dHBzOi8vcGxhdGZvcm0udHdpdHRlci5jb20vd2lkZ2V0cy5qc1wiIGNoYXJTZXQ9XCJ1dGYtOFwiPjwvc2NyaXB0PlxuXG4gICAgPHN0eWxlIGpzeD57YFxuICAgICAgc2VjdGlvbiB7XG4gICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgICAgICAgbWFyZ2luOiAwIGF1dG87XG4gICAgICAgIHdpZHRoOiA1MHZ3O1xuICAgICAgfVxuXG4gICAgICBAbWVkaWEgc2NyZWVuIGFuZCAobWF4LXdpZHRoOiA2NTBweCkge1xuICAgICAgICBzZWN0aW9uIHtcbiAgICAgICAgICB3aWR0aDogNzV2dztcbiAgICAgICAgfVxuICAgICAgfVxuXG4gICAgICBoMyB7XG4gICAgICAgIG1hcmdpbi1ib3R0b206IDA7XG4gICAgICB9XG5cbiAgICAgIC50d2l0dGVyLXR3ZWV0IHtcbiAgICAgICAgZGlzcGxheTogaW5saW5lLWJsb2NrICFpbXBvcnRhbnQ7XG4gICAgICB9XG4gICAgYH08L3N0eWxlPlxuICA8L3NlY3Rpb24+XG4pXG5cbmV4cG9ydCBkZWZhdWx0IFR3aXR0ZXJcbiJdfQ== */\n/*@ sourceURL=/Users/derekkinsman/Documents/Cosmonaut Industries/derekkinsman-web/components/twitter.js */"));
+  }, "section.jsx-3938385413{text-align:center;margin:0 auto;width:520px;}@media screen and (max-width:650px){section.jsx-3938385413{width:250px;}}.tweets.jsx-3938385413{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;}h3.jsx-3938385413{margin-bottom:0;}.tweet-wrapper.jsx-3938385413{width:250px;margin:0 10px;}.tweet-wrapper.jsx-3938385413:first-of-type{margin-left:0;}.tweet-wrapper.jsx-3938385413:last-of-type{margin-right:0;}@media screen and (max-width:650px){.tweets.jsx-3938385413{-webkit-flex-flow:column;-ms-flex-flow:column;flex-flow:column;}.tweet-wrapper.jsx-3938385413{width:250px;margin:0;}}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9kZXJla2tpbnNtYW4vRG9jdW1lbnRzL0Nvc21vbmF1dCBJbmR1c3RyaWVzL2RlcmVra2luc21hbi13ZWIvY29tcG9uZW50cy90d2l0dGVyLmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQW9CZ0IsQUFHMkIsQUFPSixBQUtELEFBSUcsQUFJSixBQUtFLEFBSUMsQUFLSSxBQUlMLFlBOUJkLEFBYWMsQUFrQkgsRUFiYixDQUlBLENBYkEsRUFoQmdCLEdBdUNkLEtBbEJGLE1BcEJjLFlBQ2QsbUJBZ0NFLFdBdEJGIiwiZmlsZSI6Ii9Vc2Vycy9kZXJla2tpbnNtYW4vRG9jdW1lbnRzL0Nvc21vbmF1dCBJbmR1c3RyaWVzL2RlcmVra2luc21hbi13ZWIvY29tcG9uZW50cy90d2l0dGVyLmpzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0J1xuaW1wb3J0IHsgVHdpdHRlclR3ZWV0RW1iZWQgfSBmcm9tICdyZWFjdC10d2l0dGVyLWVtYmVkJztcblxuY29uc3QgdHdlZXRzID0gW1xuICB7IHR3ZWV0SWQ6ICc0MDUxNzQxNTU3NjAyNjcyNjUnIH0sXG4gIHsgdHdlZXRJZDogJzQwNTc0NDUwOTQ2NTUyNjI3MicgfVxuXS5tYXAobGluayA9PiB7XG4gIGxpbmsua2V5ID0gYG5hdi1saW5rLSR7bGluay50d2VldElkfWBcbiAgcmV0dXJuIGxpbmtcbn0pXG5cbmNvbnN0IFR3aXR0ZXIgPSAoKSA9PiAoXG4gIDxzZWN0aW9uPlxuICAgIDxoMz5OaWNlIFRoaW5ncyBQZW9wbGUgT24gVGhlIEludGVybmV0IEhhdmUgU2FpZDwvaDM+XG4gICAgPGRpdiBjbGFzc05hbWU9XCJ0d2VldHNcIj5cbiAgICAgIHt0d2VldHMubWFwKCh7IGtleSwgdHdlZXRJZCB9KSA9PiAoXG4gICAgICAgIDxkaXYgIGtleT17a2V5fSBjbGFzc05hbWU9XCJ0d2VldC13cmFwcGVyXCI+PFR3aXR0ZXJUd2VldEVtYmVkIHR3ZWV0SWQ9e3R3ZWV0SWR9IHBsYWNlaG9sZGVyPVwiTG9hZGluZ1wiIC8+PC9kaXY+XG4gICAgICApKX1cbiAgICA8L2Rpdj5cblxuICAgIDxzdHlsZSBqc3g+e2BcbiAgICAgIHNlY3Rpb24ge1xuICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7XG4gICAgICAgIG1hcmdpbjogMCBhdXRvO1xuICAgICAgICB3aWR0aDogNTIwcHg7XG4gICAgICB9XG5cbiAgICAgIEBtZWRpYSBzY3JlZW4gYW5kIChtYXgtd2lkdGg6IDY1MHB4KSB7XG4gICAgICAgIHNlY3Rpb24ge1xuICAgICAgICAgIHdpZHRoOiAyNTBweDtcbiAgICAgICAgfVxuICAgICAgfVxuXG4gICAgICAudHdlZXRzIHtcbiAgICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgIH1cblxuICAgICAgaDMge1xuICAgICAgICBtYXJnaW4tYm90dG9tOiAwO1xuICAgICAgfVxuXG4gICAgICAudHdlZXQtd3JhcHBlciB7XG4gICAgICAgIHdpZHRoOiAyNTBweDtcbiAgICAgICAgbWFyZ2luOiAwIDEwcHg7XG4gICAgICB9XG5cbiAgICAgIC50d2VldC13cmFwcGVyOmZpcnN0LW9mLXR5cGUge1xuICAgICAgICBtYXJnaW4tbGVmdDogMDtcbiAgICAgIH1cblxuICAgICAgLnR3ZWV0LXdyYXBwZXI6bGFzdC1vZi10eXBlIHtcbiAgICAgICAgbWFyZ2luLXJpZ2h0OiAwO1xuICAgICAgfVxuXG4gICAgICBAbWVkaWEgc2NyZWVuIGFuZCAobWF4LXdpZHRoOiA2NTBweCkge1xuICAgICAgICAudHdlZXRzIHtcbiAgICAgICAgICBmbGV4LWZsb3c6IGNvbHVtbjtcbiAgICAgICAgfVxuXG4gICAgICAgIC50d2VldC13cmFwcGVyIHtcbiAgICAgICAgICB3aWR0aDogMjUwcHg7XG4gICAgICAgICAgbWFyZ2luOiAwO1xuICAgICAgICB9XG4gICAgICB9XG4gICAgYH08L3N0eWxlPlxuICA8L3NlY3Rpb24+XG4pXG5cbmV4cG9ydCBkZWZhdWx0IFR3aXR0ZXJcbiJdfQ== */\n/*@ sourceURL=/Users/derekkinsman/Documents/Cosmonaut Industries/derekkinsman-web/components/twitter.js */"));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Twitter);
@@ -1157,6 +1106,220 @@ function _typeof(obj) {
 }
 
 module.exports = _typeof;
+
+/***/ }),
+
+/***/ "./node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js":
+/*!**************************************************************************!*\
+  !*** ./node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js ***!
+  \**************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "default", function() { return _assertThisInitialized; });
+function _assertThisInitialized(self) {
+  if (self === void 0) {
+    throw new ReferenceError("this hasn't been initialised - super() hasn't been called");
+  }
+
+  return self;
+}
+
+/***/ }),
+
+/***/ "./node_modules/@babel/runtime/helpers/esm/classCallCheck.js":
+/*!*******************************************************************!*\
+  !*** ./node_modules/@babel/runtime/helpers/esm/classCallCheck.js ***!
+  \*******************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "default", function() { return _classCallCheck; });
+function _classCallCheck(instance, Constructor) {
+  if (!(instance instanceof Constructor)) {
+    throw new TypeError("Cannot call a class as a function");
+  }
+}
+
+/***/ }),
+
+/***/ "./node_modules/@babel/runtime/helpers/esm/createClass.js":
+/*!****************************************************************!*\
+  !*** ./node_modules/@babel/runtime/helpers/esm/createClass.js ***!
+  \****************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "default", function() { return _createClass; });
+function _defineProperties(target, props) {
+  for (var i = 0; i < props.length; i++) {
+    var descriptor = props[i];
+    descriptor.enumerable = descriptor.enumerable || false;
+    descriptor.configurable = true;
+    if ("value" in descriptor) descriptor.writable = true;
+    Object.defineProperty(target, descriptor.key, descriptor);
+  }
+}
+
+function _createClass(Constructor, protoProps, staticProps) {
+  if (protoProps) _defineProperties(Constructor.prototype, protoProps);
+  if (staticProps) _defineProperties(Constructor, staticProps);
+  return Constructor;
+}
+
+/***/ }),
+
+/***/ "./node_modules/@babel/runtime/helpers/esm/defineProperty.js":
+/*!*******************************************************************!*\
+  !*** ./node_modules/@babel/runtime/helpers/esm/defineProperty.js ***!
+  \*******************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "default", function() { return _defineProperty; });
+function _defineProperty(obj, key, value) {
+  if (key in obj) {
+    Object.defineProperty(obj, key, {
+      value: value,
+      enumerable: true,
+      configurable: true,
+      writable: true
+    });
+  } else {
+    obj[key] = value;
+  }
+
+  return obj;
+}
+
+/***/ }),
+
+/***/ "./node_modules/@babel/runtime/helpers/esm/getPrototypeOf.js":
+/*!*******************************************************************!*\
+  !*** ./node_modules/@babel/runtime/helpers/esm/getPrototypeOf.js ***!
+  \*******************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "default", function() { return _getPrototypeOf; });
+function _getPrototypeOf(o) {
+  _getPrototypeOf = Object.setPrototypeOf ? Object.getPrototypeOf : function _getPrototypeOf(o) {
+    return o.__proto__ || Object.getPrototypeOf(o);
+  };
+  return _getPrototypeOf(o);
+}
+
+/***/ }),
+
+/***/ "./node_modules/@babel/runtime/helpers/esm/inherits.js":
+/*!*************************************************************!*\
+  !*** ./node_modules/@babel/runtime/helpers/esm/inherits.js ***!
+  \*************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "default", function() { return _inherits; });
+/* harmony import */ var _setPrototypeOf__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./setPrototypeOf */ "./node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js");
+
+function _inherits(subClass, superClass) {
+  if (typeof superClass !== "function" && superClass !== null) {
+    throw new TypeError("Super expression must either be null or a function");
+  }
+
+  subClass.prototype = Object.create(superClass && superClass.prototype, {
+    constructor: {
+      value: subClass,
+      writable: true,
+      configurable: true
+    }
+  });
+  if (superClass) Object(_setPrototypeOf__WEBPACK_IMPORTED_MODULE_0__["default"])(subClass, superClass);
+}
+
+/***/ }),
+
+/***/ "./node_modules/@babel/runtime/helpers/esm/possibleConstructorReturn.js":
+/*!******************************************************************************!*\
+  !*** ./node_modules/@babel/runtime/helpers/esm/possibleConstructorReturn.js ***!
+  \******************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "default", function() { return _possibleConstructorReturn; });
+/* harmony import */ var _helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../helpers/esm/typeof */ "./node_modules/@babel/runtime/helpers/esm/typeof.js");
+/* harmony import */ var _assertThisInitialized__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./assertThisInitialized */ "./node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js");
+
+
+function _possibleConstructorReturn(self, call) {
+  if (call && (Object(_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__["default"])(call) === "object" || typeof call === "function")) {
+    return call;
+  }
+
+  return Object(_assertThisInitialized__WEBPACK_IMPORTED_MODULE_1__["default"])(self);
+}
+
+/***/ }),
+
+/***/ "./node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js":
+/*!*******************************************************************!*\
+  !*** ./node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js ***!
+  \*******************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "default", function() { return _setPrototypeOf; });
+function _setPrototypeOf(o, p) {
+  _setPrototypeOf = Object.setPrototypeOf || function _setPrototypeOf(o, p) {
+    o.__proto__ = p;
+    return o;
+  };
+
+  return _setPrototypeOf(o, p);
+}
+
+/***/ }),
+
+/***/ "./node_modules/@babel/runtime/helpers/esm/typeof.js":
+/*!***********************************************************!*\
+  !*** ./node_modules/@babel/runtime/helpers/esm/typeof.js ***!
+  \***********************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "default", function() { return _typeof; });
+function _typeof2(obj) { if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof2 = function _typeof2(obj) { return typeof obj; }; } else { _typeof2 = function _typeof2(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof2(obj); }
+
+function _typeof(obj) {
+  if (typeof Symbol === "function" && _typeof2(Symbol.iterator) === "symbol") {
+    _typeof = function _typeof(obj) {
+      return _typeof2(obj);
+    };
+  } else {
+    _typeof = function _typeof(obj) {
+      return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : _typeof2(obj);
+    };
+  }
+
+  return _typeof(obj);
+}
 
 /***/ }),
 
@@ -3882,6 +4045,54 @@ for (var i = 0; i < DOMIterables.length; i++) {
 
 /***/ }),
 
+/***/ "./node_modules/exenv/index.js":
+/*!*************************************!*\
+  !*** ./node_modules/exenv/index.js ***!
+  \*************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+var __WEBPACK_AMD_DEFINE_RESULT__;/*!
+  Copyright (c) 2015 Jed Watson.
+  Based on code that is Copyright 2013-2015, Facebook, Inc.
+  All rights reserved.
+*/
+/* global define */
+
+(function () {
+	'use strict';
+
+	var canUseDOM = !!(
+		typeof window !== 'undefined' &&
+		window.document &&
+		window.document.createElement
+	);
+
+	var ExecutionEnvironment = {
+
+		canUseDOM: canUseDOM,
+
+		canUseWorkers: typeof Worker !== 'undefined',
+
+		canUseEventListeners:
+			canUseDOM && !!(window.addEventListener || window.attachEvent),
+
+		canUseViewport: canUseDOM && !!window.screen
+
+	};
+
+	if (true) {
+		!(__WEBPACK_AMD_DEFINE_RESULT__ = (function () {
+			return ExecutionEnvironment;
+		}).call(exports, __webpack_require__, exports, module),
+				__WEBPACK_AMD_DEFINE_RESULT__ !== undefined && (module.exports = __WEBPACK_AMD_DEFINE_RESULT__));
+	} else {}
+
+}());
+
+
+/***/ }),
+
 /***/ "./node_modules/next/dist/build/polyfills/object-assign.js":
 /*!***********************************************************************************************************************!*\
   !*** delegated ./node_modules/next/dist/build/polyfills/object-assign.js from dll-reference dll_ef0ff7c60362f24a921f ***!
@@ -6486,6 +6697,1121 @@ function trim(s) {
 
 /***/ }),
 
+/***/ "./node_modules/react-proptype-conditional-require/dist/isRequiredIf.js":
+/*!******************************************************************************!*\
+  !*** ./node_modules/react-proptype-conditional-require/dist/isRequiredIf.js ***!
+  \******************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(exports,'__esModule',{value:!0});var VALIDATOR_ARG_ERROR_MESSAGE='The typeValidator argument must be a function with the signature function(props, propName, componentName).',MESSAGE_ARG_ERROR_MESSAGE='The error message is optional, but must be a string if provided.',propIsRequired=function propIsRequired(a,b,c,d){if('boolean'==typeof a)return a;return'function'==typeof a?a(b,c,d):!(!0!==!!a)&&!!a},propExists=function propExists(a,b){return Object.hasOwnProperty.call(a,b)},missingPropError=function missingPropError(a,b,c,d){return d?new Error(d):new Error('Required '+a[b]+' `'+b+'`'+(' was not specified in `'+c+'`.'))},guardAgainstInvalidArgTypes=function guardAgainstInvalidArgTypes(a,b){if('function'!=typeof a)throw new TypeError(VALIDATOR_ARG_ERROR_MESSAGE);if(!!b&&'string'!=typeof b)throw new TypeError(MESSAGE_ARG_ERROR_MESSAGE)},isRequiredIf=function isRequiredIf(a,b,c){return guardAgainstInvalidArgTypes(a,c),function(d,e,f){for(var _len=arguments.length,g=Array(3<_len?_len-3:0),_key=3;_key<_len;_key++)g[_key-3]=arguments[_key];return propIsRequired(b,d,e,f)?propExists(d,e)?a.apply(void 0,[d,e,f].concat(g)):missingPropError(d,e,f,c):a.apply(void 0,[d,e,f].concat(g));// Is not required, so just run typeValidator.
+}};exports.default=isRequiredIf;
+
+//# sourceMappingURL=isRequiredIf.js.map
+
+/***/ }),
+
+/***/ "./node_modules/react-twitter-embed/dist/index.es.js":
+/*!***********************************************************!*\
+  !*** ./node_modules/react-twitter-embed/dist/index.es.js ***!
+  \***********************************************************/
+/*! exports provided: TwitterTimelineEmbed, TwitterShareButton, TwitterFollowButton, TwitterHashtagButton, TwitterMentionButton, TwitterTweetEmbed, TwitterMomentShare, TwitterDMButton, TwitterVideoEmbed, TwitterOnAirButton */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "TwitterTimelineEmbed", function() { return TwitterTimelineEmbed; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "TwitterShareButton", function() { return TwitterShareButton; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "TwitterFollowButton", function() { return TwitterFollowButton; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "TwitterHashtagButton", function() { return TwitterHashtagButton; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "TwitterMentionButton", function() { return TwitterMentionButton; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "TwitterTweetEmbed", function() { return TwitterTweetEmbed; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "TwitterMomentShare", function() { return TwitterMomentShare; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "TwitterDMButton", function() { return TwitterDMButton; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "TwitterVideoEmbed", function() { return TwitterVideoEmbed; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "TwitterOnAirButton", function() { return TwitterOnAirButton; });
+/* harmony import */ var _babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime/helpers/esm/classCallCheck */ "./node_modules/@babel/runtime/helpers/esm/classCallCheck.js");
+/* harmony import */ var _babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @babel/runtime/helpers/esm/createClass */ "./node_modules/@babel/runtime/helpers/esm/createClass.js");
+/* harmony import */ var _babel_runtime_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @babel/runtime/helpers/esm/possibleConstructorReturn */ "./node_modules/@babel/runtime/helpers/esm/possibleConstructorReturn.js");
+/* harmony import */ var _babel_runtime_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @babel/runtime/helpers/esm/getPrototypeOf */ "./node_modules/@babel/runtime/helpers/esm/getPrototypeOf.js");
+/* harmony import */ var _babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @babel/runtime/helpers/esm/inherits */ "./node_modules/@babel/runtime/helpers/esm/inherits.js");
+/* harmony import */ var _babel_runtime_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @babel/runtime/helpers/esm/defineProperty */ "./node_modules/@babel/runtime/helpers/esm/defineProperty.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_6__);
+/* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! prop-types */ "./node_modules/prop-types/index.js");
+/* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_7__);
+/* harmony import */ var react_proptype_conditional_require__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! react-proptype-conditional-require */ "./node_modules/react-proptype-conditional-require/dist/isRequiredIf.js");
+/* harmony import */ var react_proptype_conditional_require__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(react_proptype_conditional_require__WEBPACK_IMPORTED_MODULE_8__);
+/* harmony import */ var exenv__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! exenv */ "./node_modules/exenv/index.js");
+/* harmony import */ var exenv__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(exenv__WEBPACK_IMPORTED_MODULE_9__);
+
+
+
+
+
+
+
+
+
+
+
+var twitterWidgetJs = 'https://platform.twitter.com/widgets.js';
+
+var TwitterTimelineEmbed =
+/*#__PURE__*/
+function (_Component) {
+  Object(_babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_4__["default"])(TwitterTimelineEmbed, _Component);
+
+  function TwitterTimelineEmbed(props) {
+    var _this;
+
+    Object(_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_0__["default"])(this, TwitterTimelineEmbed);
+
+    _this = Object(_babel_runtime_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_2__["default"])(this, Object(_babel_runtime_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_3__["default"])(TwitterTimelineEmbed).call(this, props));
+    _this.state = {
+      isLoading: true
+    };
+    return _this;
+  }
+
+  Object(_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_1__["default"])(TwitterTimelineEmbed, [{
+    key: "buildChromeOptions",
+    value: function buildChromeOptions(options) {
+      options.chrome = '';
+
+      if (this.props.noHeader) {
+        options.chrome = options.chrome + ' noheader';
+      }
+
+      if (this.props.noFooter) {
+        options.chrome = options.chrome + ' nofooter';
+      }
+
+      if (this.props.noBorders) {
+        options.chrome = options.chrome + ' noborders';
+      }
+
+      if (this.props.noScrollbar) {
+        options.chrome = options.chrome + ' noscrollbar';
+      }
+
+      if (this.props.transparent) {
+        options.chrome = options.chrome + ' transparent';
+      }
+
+      return options;
+    }
+  }, {
+    key: "buildOptions",
+    value: function buildOptions() {
+      var options = Object.assign({}, this.props.options);
+
+      if (this.props.autoHeight) {
+        options.height = this.refs.embedContainer.parentNode.offsetHeight;
+      }
+
+      options = Object.assign({}, options, {
+        theme: this.props.theme,
+        linkColor: this.props.linkColor,
+        borderColor: this.props.borderColor,
+        lang: this.props.lang
+      });
+      return options;
+    }
+  }, {
+    key: "renderWidget",
+    value: function renderWidget(options) {
+      var _this2 = this;
+
+      var onLoad = this.props.onLoad;
+
+      if (!this.isMountCanceled) {
+        window.twttr.widgets.createTimeline({
+          sourceType: this.props.sourceType,
+          screenName: this.props.screenName,
+          userId: this.props.userId,
+          ownerScreenName: this.props.ownerScreenName,
+          slug: this.props.slug,
+          id: this.props.id || this.props.widgetId,
+          url: this.props.url
+        }, this.refs.embedContainer, options).then(function (element) {
+          _this2.setState({
+            isLoading: false
+          });
+
+          if (onLoad) {
+            onLoad(element);
+          }
+        });
+      }
+    }
+  }, {
+    key: "componentDidMount",
+    value: function componentDidMount() {
+      var _this3 = this;
+
+      if (exenv__WEBPACK_IMPORTED_MODULE_9___default.a.canUseDOM) {
+        var script = __webpack_require__(/*! scriptjs */ "./node_modules/scriptjs/dist/script.js");
+
+        script(twitterWidgetJs, 'twitter-embed', function () {
+          if (!window.twttr) {
+            console.error('Failure to load window.twttr in TwitterTimelineEmbed, aborting load.');
+            return;
+          }
+
+          var options = _this3.buildOptions();
+          /** Append chrome options */
+
+
+          options = _this3.buildChromeOptions(options);
+
+          _this3.renderWidget(options);
+        });
+      }
+    }
+  }, {
+    key: "componentWillUnmount",
+    value: function componentWillUnmount() {
+      this.isMountCanceled = true;
+    }
+  }, {
+    key: "render",
+    value: function render() {
+      var isLoading = this.state.isLoading;
+      var placeholder = this.props.placeholder;
+      return react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_6___default.a.Fragment, null, isLoading && placeholder, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
+        ref: "embedContainer"
+      }));
+    }
+  }]);
+
+  return TwitterTimelineEmbed;
+}(react__WEBPACK_IMPORTED_MODULE_6__["Component"]);
+
+Object(_babel_runtime_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_5__["default"])(TwitterTimelineEmbed, "propTypes", {
+  /**
+       * This can be either of profile, likes, list, collection, URL, widget
+       */
+  sourceType: prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.oneOf(['profile', 'likes', 'list', 'collection', 'url', 'widget']).isRequired,
+
+  /**
+       * username of twitter handle as String
+       */
+  screenName: react_proptype_conditional_require__WEBPACK_IMPORTED_MODULE_8___default()(prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.string, function (props) {
+    return !props.hasOwnProperty('userId') && (props.sourceType === 'profile' || props.sourceType === 'likes');
+  }),
+
+  /**
+       * UserId of twitter handle as number
+       */
+  userId: react_proptype_conditional_require__WEBPACK_IMPORTED_MODULE_8___default()(prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.number, function (props) {
+    return !props.hasOwnProperty('screenName') && (props.sourceType === 'profile' || props.sourceType === 'likes');
+  }),
+
+  /**
+       * To show list, used along with slug
+       */
+  ownerScreenName: react_proptype_conditional_require__WEBPACK_IMPORTED_MODULE_8___default()(prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.string, function (props) {
+    return props.sourceType === 'list' && !props.hasOwnProperty('id');
+  }),
+
+  /**
+       * To show list, used along with ownerScreenName
+       */
+  slug: react_proptype_conditional_require__WEBPACK_IMPORTED_MODULE_8___default()(prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.string, function (props) {
+    return props.sourceType === 'list' && !props.hasOwnProperty('id');
+  }),
+
+  /**
+       * To show list, unique list id
+       * Also used with collections, in that case its valid collection id
+       */
+  id: react_proptype_conditional_require__WEBPACK_IMPORTED_MODULE_8___default()(prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.oneOfType([prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.number, prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.string]), function (props) {
+    return props.sourceType === 'list' && !props.hasOwnProperty('ownerScreenName') && !props.hasOwnProperty('slug') || props.sourceType === 'collection';
+  }),
+
+  /**
+       * To show twitter content with url.
+       * Supported content includes profiles, likes, lists, and collections.
+       */
+  url: react_proptype_conditional_require__WEBPACK_IMPORTED_MODULE_8___default()(prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.string, function (props) {
+    return props.sourceType === 'url';
+  }),
+
+  /**
+       * To show custom widget
+       */
+  widgetId: react_proptype_conditional_require__WEBPACK_IMPORTED_MODULE_8___default()(prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.string, function (props) {
+    return props.sourceType === 'widget';
+  }),
+
+  /**
+       * Additional options to pass to twitter widget plugin
+       */
+  options: prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.object,
+
+  /**
+       * Automatically fit into parent container height
+       */
+  autoHeight: prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.bool,
+
+  /**
+       * With dark or light theme
+       */
+  theme: prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.oneOf(['dark', 'light']),
+
+  /**
+       * With custom link colors. Note: Only Hex colors are supported.
+       */
+  linkColor: prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.string,
+
+  /**
+       * With custom border colors. Note: Only Hex colors are supported.
+       */
+  borderColor: prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.string,
+
+  /**
+       * Hide the header from timeline
+       */
+  noHeader: prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.bool,
+
+  /**
+       * Hide the footer from timeline
+       */
+  noFooter: prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.bool,
+
+  /**
+       * Hide the border from timeline
+       */
+  noBorders: prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.bool,
+
+  /**
+       * Hide the scrollbars
+       */
+  noScrollbar: prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.bool,
+
+  /**
+       * Enable Transparancy
+       */
+  transparent: prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.bool,
+
+  /**
+       * Custom language code. Supported codes here: https://developer.twitter.com/en/docs/twitter-for-websites/twitter-for-websites-supported-languages/overview.html
+       */
+  lang: prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.string,
+
+  /**
+   * Placeholder while tweet is loading
+   */
+  placeholder: prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.oneOfType([prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.string, prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.element]),
+
+  /**
+   * Function to execute after load, return html element
+   */
+  onLoad: prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.func
+});
+
+var TwitterShareButton =
+/*#__PURE__*/
+function (_Component) {
+  Object(_babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_4__["default"])(TwitterShareButton, _Component);
+
+  function TwitterShareButton(props) {
+    var _this;
+
+    Object(_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_0__["default"])(this, TwitterShareButton);
+
+    _this = Object(_babel_runtime_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_2__["default"])(this, Object(_babel_runtime_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_3__["default"])(TwitterShareButton).call(this, props));
+    _this.state = {
+      isLoading: true
+    };
+    return _this;
+  }
+
+  Object(_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_1__["default"])(TwitterShareButton, [{
+    key: "componentDidMount",
+    value: function componentDidMount() {
+      var _this2 = this;
+
+      var onLoad = this.props.onLoad;
+
+      if (exenv__WEBPACK_IMPORTED_MODULE_9___default.a.canUseDOM) {
+        var script = __webpack_require__(/*! scriptjs */ "./node_modules/scriptjs/dist/script.js");
+
+        script(twitterWidgetJs, 'twitter-embed', function () {
+          if (!window.twttr) {
+            console.error('Failure to load window.twttr in TwitterShareButton, aborting load.');
+            return;
+          }
+
+          if (!_this2.isMountCanceled) {
+            window.twttr.widgets.createShareButton(_this2.props.url, _this2.refs.embedContainer, _this2.props.options).then(function (element) {
+              _this2.setState({
+                isLoading: false
+              });
+
+              if (onLoad) {
+                onLoad(element);
+              }
+            });
+          }
+        });
+      }
+    }
+  }, {
+    key: "componentWillUnmount",
+    value: function componentWillUnmount() {
+      this.isMountCanceled = true;
+    }
+  }, {
+    key: "render",
+    value: function render() {
+      var isLoading = this.state.isLoading;
+      var placeholder = this.props.placeholder;
+      return react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_6___default.a.Fragment, null, isLoading && placeholder, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
+        ref: "embedContainer"
+      }));
+    }
+  }]);
+
+  return TwitterShareButton;
+}(react__WEBPACK_IMPORTED_MODULE_6__["Component"]);
+
+Object(_babel_runtime_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_5__["default"])(TwitterShareButton, "propTypes", {
+  /**
+  * Url for sharing
+  */
+  url: prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.string.isRequired,
+
+  /**
+  * Additional options for overriding config. Details at : https://dev.twitter.com/web/tweet-button/parameters
+  */
+  options: prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.object,
+
+  /**
+   * Placeholder while tweet is loading
+   */
+  placeholder: prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.oneOfType([prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.string, prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.element]),
+
+  /**
+   * Function to execute after load, return html element
+   */
+  onLoad: prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.func
+});
+
+var TwitterFollowButton =
+/*#__PURE__*/
+function (_Component) {
+  Object(_babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_4__["default"])(TwitterFollowButton, _Component);
+
+  function TwitterFollowButton(props) {
+    var _this;
+
+    Object(_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_0__["default"])(this, TwitterFollowButton);
+
+    _this = Object(_babel_runtime_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_2__["default"])(this, Object(_babel_runtime_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_3__["default"])(TwitterFollowButton).call(this, props));
+    _this.state = {
+      isLoading: true
+    };
+    return _this;
+  }
+
+  Object(_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_1__["default"])(TwitterFollowButton, [{
+    key: "componentDidMount",
+    value: function componentDidMount() {
+      var _this2 = this;
+
+      var onLoad = this.props.onLoad;
+
+      if (exenv__WEBPACK_IMPORTED_MODULE_9___default.a.canUseDOM) {
+        var script = __webpack_require__(/*! scriptjs */ "./node_modules/scriptjs/dist/script.js");
+
+        script(twitterWidgetJs, 'twitter-embed', function () {
+          if (!window.twttr) {
+            console.error('Failure to load window.twttr in TwitterFollowButton, aborting load.');
+            return;
+          }
+
+          if (!_this2.isMountCanceled) {
+            window.twttr.widgets.createFollowButton(_this2.props.screenName, _this2.refs.embedContainer, _this2.props.options).then(function (element) {
+              _this2.setState({
+                isLoading: false
+              });
+
+              if (onLoad) {
+                onLoad(element);
+              }
+            });
+          }
+        });
+      }
+    }
+  }, {
+    key: "componentWillUnmount",
+    value: function componentWillUnmount() {
+      this.isMountCanceled = true;
+    }
+  }, {
+    key: "render",
+    value: function render() {
+      var isLoading = this.state.isLoading;
+      var placeholder = this.props.placeholder;
+      return react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_6___default.a.Fragment, null, isLoading && placeholder, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
+        ref: "embedContainer"
+      }));
+    }
+  }]);
+
+  return TwitterFollowButton;
+}(react__WEBPACK_IMPORTED_MODULE_6__["Component"]);
+
+Object(_babel_runtime_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_5__["default"])(TwitterFollowButton, "propTypes", {
+  /**
+       * Username of twitter user which will be followed on click
+       */
+  screenName: prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.string.isRequired,
+
+  /**
+       * Additional options to be added to the button
+       */
+  options: prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.object,
+
+  /**
+   * Placeholder while tweet is loading
+   */
+  placeholder: prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.oneOfType([prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.string, prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.element]),
+
+  /**
+   * Function to execute after load, return html element
+   */
+  onLoad: prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.func
+});
+
+var TwitterHashtagButton =
+/*#__PURE__*/
+function (_Component) {
+  Object(_babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_4__["default"])(TwitterHashtagButton, _Component);
+
+  function TwitterHashtagButton(props) {
+    var _this;
+
+    Object(_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_0__["default"])(this, TwitterHashtagButton);
+
+    _this = Object(_babel_runtime_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_2__["default"])(this, Object(_babel_runtime_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_3__["default"])(TwitterHashtagButton).call(this, props));
+    _this.state = {
+      isLoading: true
+    };
+    return _this;
+  }
+
+  Object(_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_1__["default"])(TwitterHashtagButton, [{
+    key: "componentDidMount",
+    value: function componentDidMount() {
+      var _this2 = this;
+
+      var onLoad = this.props.onLoad;
+
+      if (exenv__WEBPACK_IMPORTED_MODULE_9___default.a.canUseDOM) {
+        var script = __webpack_require__(/*! scriptjs */ "./node_modules/scriptjs/dist/script.js");
+
+        script(twitterWidgetJs, 'twitter-embed', function () {
+          if (!window.twttr) {
+            console.error('Failure to load window.twttr in TwitterHashtagButton, aborting load.');
+            return;
+          }
+
+          if (!_this2.isMountCanceled) {
+            window.twttr.widgets.createHashtagButton(_this2.props.tag, _this2.refs.embedContainer, _this2.props.options).then(function (element) {
+              _this2.setState({
+                isLoading: false
+              });
+
+              if (onLoad) {
+                onLoad(element);
+              }
+            });
+          }
+        });
+      }
+    }
+  }, {
+    key: "componentWillUnmount",
+    value: function componentWillUnmount() {
+      this.isMountCanceled = true;
+    }
+  }, {
+    key: "render",
+    value: function render() {
+      var isLoading = this.state.isLoading;
+      var placeholder = this.props.placeholder;
+      return react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_6___default.a.Fragment, null, isLoading && placeholder, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
+        ref: "embedContainer"
+      }));
+    }
+  }]);
+
+  return TwitterHashtagButton;
+}(react__WEBPACK_IMPORTED_MODULE_6__["Component"]);
+
+Object(_babel_runtime_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_5__["default"])(TwitterHashtagButton, "propTypes", {
+  /**
+       * Tag name for hashtag button
+       */
+  tag: prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.string.isRequired,
+
+  /**
+       * Additional options to be added to the button
+       */
+  options: prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.object,
+
+  /**
+   * Placeholder while tweet is loading
+   */
+  placeholder: prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.oneOfType([prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.string, prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.element]),
+
+  /**
+   * Function to execute after load, return html element
+   */
+  onLoad: prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.func
+});
+
+var TwitterMentionButton =
+/*#__PURE__*/
+function (_Component) {
+  Object(_babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_4__["default"])(TwitterMentionButton, _Component);
+
+  function TwitterMentionButton(props) {
+    var _this;
+
+    Object(_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_0__["default"])(this, TwitterMentionButton);
+
+    _this = Object(_babel_runtime_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_2__["default"])(this, Object(_babel_runtime_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_3__["default"])(TwitterMentionButton).call(this, props));
+    _this.state = {
+      isLoading: true
+    };
+    return _this;
+  }
+
+  Object(_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_1__["default"])(TwitterMentionButton, [{
+    key: "componentDidMount",
+    value: function componentDidMount() {
+      var _this2 = this;
+
+      var onLoad = this.props.onLoad;
+
+      if (exenv__WEBPACK_IMPORTED_MODULE_9___default.a.canUseDOM) {
+        var script = __webpack_require__(/*! scriptjs */ "./node_modules/scriptjs/dist/script.js");
+
+        script(twitterWidgetJs, 'twitter-embed', function () {
+          if (!window.twttr) {
+            console.error('Failure to load window.twttr in TwitterMentionButton, aborting load.');
+            return;
+          }
+
+          if (!_this2.isMountCanceled) {
+            window.twttr.widgets.createMentionButton(_this2.props.screenName, _this2.refs.embedContainer, _this2.props.options).then(function (element) {
+              _this2.setState({
+                isLoading: false
+              });
+
+              if (onLoad) {
+                onLoad(element);
+              }
+            });
+          }
+        });
+      }
+    }
+  }, {
+    key: "componentWillUnmount",
+    value: function componentWillUnmount() {
+      this.isMountCanceled = true;
+    }
+  }, {
+    key: "render",
+    value: function render() {
+      var isLoading = this.state.isLoading;
+      var placeholder = this.props.placeholder;
+      return react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_6___default.a.Fragment, null, isLoading && placeholder, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
+        ref: "embedContainer"
+      }));
+    }
+  }]);
+
+  return TwitterMentionButton;
+}(react__WEBPACK_IMPORTED_MODULE_6__["Component"]);
+
+Object(_babel_runtime_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_5__["default"])(TwitterMentionButton, "propTypes", {
+  /**
+   * Username to which you will need to tweet
+   */
+  screenName: prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.string.isRequired,
+
+  /**
+   * Additional options for overriding config.
+   */
+  options: prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.object,
+
+  /**
+   * Placeholder while tweet is loading
+   */
+  placeholder: prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.oneOfType([prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.string, prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.element]),
+
+  /**
+   * Function to execute after load, return html element
+   */
+  onLoad: prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.func
+});
+
+var TwitterTweetEmbed =
+/*#__PURE__*/
+function (_Component) {
+  Object(_babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_4__["default"])(TwitterTweetEmbed, _Component);
+
+  function TwitterTweetEmbed(props) {
+    var _this;
+
+    Object(_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_0__["default"])(this, TwitterTweetEmbed);
+
+    _this = Object(_babel_runtime_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_2__["default"])(this, Object(_babel_runtime_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_3__["default"])(TwitterTweetEmbed).call(this, props));
+    _this.state = {
+      isLoading: true
+    };
+    return _this;
+  }
+
+  Object(_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_1__["default"])(TwitterTweetEmbed, [{
+    key: "renderWidget",
+    value: function renderWidget() {
+      var _this2 = this;
+
+      var onLoad = this.props.onLoad;
+
+      if (!window.twttr) {
+        console.error('Failure to load window.twttr in TwitterTweetEmbed, aborting load.');
+        return;
+      }
+
+      if (!this.isMountCanceled) {
+        window.twttr.widgets.createTweet(this.props.tweetId, this.refs.embedContainer, this.props.options).then(function (element) {
+          _this2.setState({
+            isLoading: false
+          });
+
+          if (onLoad) {
+            onLoad(element);
+          }
+        });
+      }
+    }
+  }, {
+    key: "componentDidMount",
+    value: function componentDidMount() {
+      var _this3 = this;
+
+      if (exenv__WEBPACK_IMPORTED_MODULE_9___default.a.canUseDOM) {
+        var script = __webpack_require__(/*! scriptjs */ "./node_modules/scriptjs/dist/script.js");
+
+        script(twitterWidgetJs, 'twitter-embed', function () {
+          _this3.renderWidget();
+        });
+      }
+    }
+  }, {
+    key: "componentWillUnmount",
+    value: function componentWillUnmount() {
+      this.isMountCanceled = true;
+    }
+  }, {
+    key: "render",
+    value: function render() {
+      var isLoading = this.state.isLoading;
+      var placeholder = this.props.placeholder;
+      return react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_6___default.a.Fragment, null, isLoading && placeholder, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
+        ref: "embedContainer"
+      }));
+    }
+  }]);
+
+  return TwitterTweetEmbed;
+}(react__WEBPACK_IMPORTED_MODULE_6__["Component"]);
+
+Object(_babel_runtime_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_5__["default"])(TwitterTweetEmbed, "propTypes", {
+  /**
+       * Tweet id that needs to be shown
+       */
+  tweetId: prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.string.isRequired,
+
+  /**
+       * Additional options to pass to twitter widget plugin
+       */
+  options: prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.object,
+
+  /**
+   * Placeholder while tweet is loading
+   */
+  placeholder: prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.oneOfType([prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.string, prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.element]),
+
+  /**
+   * Function to execute after load, return html element
+   */
+  onLoad: prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.func
+});
+
+var TwitterMomentShare =
+/*#__PURE__*/
+function (_Component) {
+  Object(_babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_4__["default"])(TwitterMomentShare, _Component);
+
+  function TwitterMomentShare(props) {
+    var _this;
+
+    Object(_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_0__["default"])(this, TwitterMomentShare);
+
+    _this = Object(_babel_runtime_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_2__["default"])(this, Object(_babel_runtime_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_3__["default"])(TwitterMomentShare).call(this, props));
+    _this.state = {
+      isLoading: true
+    };
+    return _this;
+  }
+
+  Object(_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_1__["default"])(TwitterMomentShare, [{
+    key: "componentDidMount",
+    value: function componentDidMount() {
+      var _this2 = this;
+
+      var onLoad = this.props.onLoad;
+
+      if (exenv__WEBPACK_IMPORTED_MODULE_9___default.a.canUseDOM) {
+        var script = __webpack_require__(/*! scriptjs */ "./node_modules/scriptjs/dist/script.js");
+
+        script(twitterWidgetJs, 'twitter-embed', function () {
+          if (!window.twttr) {
+            console.error('Failure to load window.twttr in TwitterMomentShare, aborting load.');
+            return;
+          }
+
+          if (!_this2.isMountCanceled) {
+            window.twttr.widgets.createMoment(_this2.props.momentId, _this2.refs.shareMoment, _this2.props.options).then(function (element) {
+              _this2.setState({
+                isLoading: false
+              });
+
+              if (onLoad) {
+                onLoad(element);
+              }
+            });
+          }
+        });
+      }
+    }
+  }, {
+    key: "componentWillUnmount",
+    value: function componentWillUnmount() {
+      this.isMountCanceled = true;
+    }
+  }, {
+    key: "render",
+    value: function render() {
+      var isLoading = this.state.isLoading;
+      var placeholder = this.props.placeholder;
+      return react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_6___default.a.Fragment, null, isLoading && placeholder, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
+        ref: "shareMoment"
+      }));
+    }
+  }]);
+
+  return TwitterMomentShare;
+}(react__WEBPACK_IMPORTED_MODULE_6__["Component"]);
+
+Object(_babel_runtime_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_5__["default"])(TwitterMomentShare, "propTypes", {
+  /**
+   * id of Twitter moment to show
+   */
+  momentId: prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.string.isRequired,
+
+  /**
+   * Additional options for overriding config.
+   */
+  options: prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.object,
+
+  /**
+   * Placeholder while tweet is loading
+   */
+  placeholder: prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.oneOfType([prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.string, prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.element]),
+
+  /**
+   * Function to execute after load, return html element
+   */
+  onLoad: prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.func
+});
+
+var TwitterDMButton =
+/*#__PURE__*/
+function (_Component) {
+  Object(_babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_4__["default"])(TwitterDMButton, _Component);
+
+  function TwitterDMButton(props) {
+    var _this;
+
+    Object(_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_0__["default"])(this, TwitterDMButton);
+
+    _this = Object(_babel_runtime_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_2__["default"])(this, Object(_babel_runtime_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_3__["default"])(TwitterDMButton).call(this, props));
+    _this.state = {
+      isLoading: true
+    };
+    return _this;
+  }
+
+  Object(_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_1__["default"])(TwitterDMButton, [{
+    key: "componentDidMount",
+    value: function componentDidMount() {
+      var _this2 = this;
+
+      var onLoad = this.props.onLoad;
+
+      if (exenv__WEBPACK_IMPORTED_MODULE_9___default.a.canUseDOM) {
+        var script = __webpack_require__(/*! scriptjs */ "./node_modules/scriptjs/dist/script.js");
+
+        script(twitterWidgetJs, 'twitter-embed', function () {
+          if (!window.twttr) {
+            console.error('Failure to load window.twttr in TwitterDMButton, aborting load.');
+            return;
+          }
+
+          if (!_this2.isMountCanceled) {
+            window.twttr.widgets.createDMButton(_this2.props.id, _this2.refs.embedContainer, _this2.props.options).then(function (element) {
+              _this2.setState({
+                isLoading: false
+              });
+
+              if (onLoad) {
+                onLoad(element);
+              }
+            });
+          }
+        });
+      }
+    }
+  }, {
+    key: "componentWillUnmount",
+    value: function componentWillUnmount() {
+      this.isMountCanceled = true;
+    }
+  }, {
+    key: "render",
+    value: function render() {
+      var isLoading = this.state.isLoading;
+      var placeholder = this.props.placeholder;
+      return react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_6___default.a.Fragment, null, isLoading && placeholder, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
+        ref: "embedContainer"
+      }));
+    }
+  }]);
+
+  return TwitterDMButton;
+}(react__WEBPACK_IMPORTED_MODULE_6__["Component"]);
+
+Object(_babel_runtime_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_5__["default"])(TwitterDMButton, "propTypes", {
+  /**
+  * Twitter user id for DM button
+  */
+  id: prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.number.isRequired,
+
+  /**
+  * Additional options to be added to the button
+  */
+  options: prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.object,
+
+  /**
+   * Placeholder while tweet is loading
+   */
+  placeholder: prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.oneOfType([prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.string, prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.element]),
+
+  /**
+   * Function to execute after load, return html element
+   */
+  onLoad: prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.func
+});
+
+var TwitterVideoEmbed =
+/*#__PURE__*/
+function (_Component) {
+  Object(_babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_4__["default"])(TwitterVideoEmbed, _Component);
+
+  function TwitterVideoEmbed(props) {
+    var _this;
+
+    Object(_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_0__["default"])(this, TwitterVideoEmbed);
+
+    _this = Object(_babel_runtime_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_2__["default"])(this, Object(_babel_runtime_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_3__["default"])(TwitterVideoEmbed).call(this, props));
+    _this.state = {
+      isLoading: true
+    };
+    return _this;
+  }
+
+  Object(_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_1__["default"])(TwitterVideoEmbed, [{
+    key: "componentDidMount",
+    value: function componentDidMount() {
+      var _this2 = this;
+
+      var onLoad = this.props.onLoad;
+
+      if (exenv__WEBPACK_IMPORTED_MODULE_9___default.a.canUseDOM) {
+        var script = __webpack_require__(/*! scriptjs */ "./node_modules/scriptjs/dist/script.js");
+
+        script(twitterWidgetJs, 'twitter-embed', function () {
+          if (!window.twttr) {
+            console.error('Failure to load window.twttr in TwitterVideoEmbed, aborting load.');
+            return;
+          }
+
+          if (!_this2.isMountCanceled) {
+            window.twttr.widgets.createVideo(_this2.props.id, _this2.refs.embedContainer).then(function (element) {
+              _this2.setState({
+                isLoading: false
+              });
+
+              if (onLoad) {
+                onLoad(element);
+              }
+            });
+          }
+        });
+      }
+    }
+  }, {
+    key: "componentWillUnmount",
+    value: function componentWillUnmount() {
+      this.isMountCanceled = true;
+    }
+  }, {
+    key: "render",
+    value: function render() {
+      var isLoading = this.state.isLoading;
+      var placeholder = this.props.placeholder;
+      return react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_6___default.a.Fragment, null, isLoading && placeholder, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
+        ref: "embedContainer"
+      }));
+    }
+  }]);
+
+  return TwitterVideoEmbed;
+}(react__WEBPACK_IMPORTED_MODULE_6__["Component"]);
+
+Object(_babel_runtime_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_5__["default"])(TwitterVideoEmbed, "propTypes", {
+  /**
+       * Id of video tweet.
+       */
+  id: prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.string.isRequired,
+
+  /**
+   * Placeholder while tweet is loading
+   */
+  placeholder: prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.oneOfType([prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.string, prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.element]),
+
+  /**
+   * Function to execute after load, return html element
+   */
+  onLoad: prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.func
+});
+
+var TwitterOnAirButton =
+/*#__PURE__*/
+function (_Component) {
+  Object(_babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_4__["default"])(TwitterOnAirButton, _Component);
+
+  function TwitterOnAirButton(props) {
+    var _this;
+
+    Object(_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_0__["default"])(this, TwitterOnAirButton);
+
+    _this = Object(_babel_runtime_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_2__["default"])(this, Object(_babel_runtime_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_3__["default"])(TwitterOnAirButton).call(this, props));
+    _this.state = {
+      isLoading: true
+    };
+    return _this;
+  }
+
+  Object(_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_1__["default"])(TwitterOnAirButton, [{
+    key: "componentDidMount",
+    value: function componentDidMount() {
+      var _this2 = this;
+
+      var onLoad = this.props.onLoad;
+
+      if (exenv__WEBPACK_IMPORTED_MODULE_9___default.a.canUseDOM) {
+        var script = __webpack_require__(/*! scriptjs */ "./node_modules/scriptjs/dist/script.js");
+
+        script(twitterWidgetJs, 'twitter-embed', function () {
+          if (!window.twttr) {
+            console.error('Failure to load window.twttr in TwitterOnAirButton, aborting load.');
+            return;
+          }
+
+          if (!_this2.isMountCanceled) {
+            window.twttr.widgets.createPeriscopeOnAirButton(_this2.props.username, _this2.refs.embedContainer, _this2.props.options).then(function (element) {
+              _this2.setState({
+                isLoading: false
+              });
+
+              if (onLoad) {
+                onLoad(element);
+              }
+            });
+          }
+        });
+      }
+    }
+  }, {
+    key: "componentWillUnmount",
+    value: function componentWillUnmount() {
+      this.isMountCanceled = true;
+    }
+  }, {
+    key: "render",
+    value: function render() {
+      var isLoading = this.state.isLoading;
+      var placeholder = this.props.placeholder;
+      return react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_6___default.a.Fragment, null, isLoading && placeholder, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
+        ref: "embedContainer"
+      }));
+    }
+  }]);
+
+  return TwitterOnAirButton;
+}(react__WEBPACK_IMPORTED_MODULE_6__["Component"]);
+
+Object(_babel_runtime_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_5__["default"])(TwitterOnAirButton, "propTypes", {
+  /**
+   * Username for which you require periscope on air button
+   */
+  username: prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.string.isRequired,
+
+  /**
+   * Additional options for overriding config.
+   */
+  options: prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.object,
+
+  /**
+   * Placeholder while tweet is loading
+   */
+  placeholder: prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.oneOfType([prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.string, prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.element]),
+
+  /**
+   * Function to execute after load, return html element
+   */
+  onLoad: prop_types__WEBPACK_IMPORTED_MODULE_7___default.a.func
+});
+
+
+//# sourceMappingURL=index.es.js.map
+
+
+/***/ }),
+
 /***/ "./node_modules/react/index.js":
 /*!*******************************************************************************************!*\
   !*** delegated ./node_modules/react/index.js from dll-reference dll_ef0ff7c60362f24a921f ***!
@@ -6494,6 +7820,145 @@ function trim(s) {
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = (__webpack_require__(/*! dll-reference dll_ef0ff7c60362f24a921f */ "dll-reference dll_ef0ff7c60362f24a921f"))("./node_modules/react/index.js");
+
+/***/ }),
+
+/***/ "./node_modules/scriptjs/dist/script.js":
+/*!**********************************************!*\
+  !*** ./node_modules/scriptjs/dist/script.js ***!
+  \**********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_RESULT__;/*!
+  * $script.js JS loader & dependency manager
+  * https://github.com/ded/script.js
+  * (c) Dustin Diaz 2014 | License MIT
+  */
+
+(function (name, definition) {
+  if ( true && module.exports) module.exports = definition()
+  else if (true) !(__WEBPACK_AMD_DEFINE_FACTORY__ = (definition),
+				__WEBPACK_AMD_DEFINE_RESULT__ = (typeof __WEBPACK_AMD_DEFINE_FACTORY__ === 'function' ?
+				(__WEBPACK_AMD_DEFINE_FACTORY__.call(exports, __webpack_require__, exports, module)) :
+				__WEBPACK_AMD_DEFINE_FACTORY__),
+				__WEBPACK_AMD_DEFINE_RESULT__ !== undefined && (module.exports = __WEBPACK_AMD_DEFINE_RESULT__))
+  else {}
+})('$script', function () {
+  var doc = document
+    , head = doc.getElementsByTagName('head')[0]
+    , s = 'string'
+    , f = false
+    , push = 'push'
+    , readyState = 'readyState'
+    , onreadystatechange = 'onreadystatechange'
+    , list = {}
+    , ids = {}
+    , delay = {}
+    , scripts = {}
+    , scriptpath
+    , urlArgs
+
+  function every(ar, fn) {
+    for (var i = 0, j = ar.length; i < j; ++i) if (!fn(ar[i])) return f
+    return 1
+  }
+  function each(ar, fn) {
+    every(ar, function (el) {
+      fn(el)
+      return 1
+    })
+  }
+
+  function $script(paths, idOrDone, optDone) {
+    paths = paths[push] ? paths : [paths]
+    var idOrDoneIsDone = idOrDone && idOrDone.call
+      , done = idOrDoneIsDone ? idOrDone : optDone
+      , id = idOrDoneIsDone ? paths.join('') : idOrDone
+      , queue = paths.length
+    function loopFn(item) {
+      return item.call ? item() : list[item]
+    }
+    function callback() {
+      if (!--queue) {
+        list[id] = 1
+        done && done()
+        for (var dset in delay) {
+          every(dset.split('|'), loopFn) && !each(delay[dset], loopFn) && (delay[dset] = [])
+        }
+      }
+    }
+    setTimeout(function () {
+      each(paths, function loading(path, force) {
+        if (path === null) return callback()
+        
+        if (!force && !/^https?:\/\//.test(path) && scriptpath) {
+          path = (path.indexOf('.js') === -1) ? scriptpath + path + '.js' : scriptpath + path;
+        }
+        
+        if (scripts[path]) {
+          if (id) ids[id] = 1
+          return (scripts[path] == 2) ? callback() : setTimeout(function () { loading(path, true) }, 0)
+        }
+
+        scripts[path] = 1
+        if (id) ids[id] = 1
+        create(path, callback)
+      })
+    }, 0)
+    return $script
+  }
+
+  function create(path, fn) {
+    var el = doc.createElement('script'), loaded
+    el.onload = el.onerror = el[onreadystatechange] = function () {
+      if ((el[readyState] && !(/^c|loade/.test(el[readyState]))) || loaded) return;
+      el.onload = el[onreadystatechange] = null
+      loaded = 1
+      scripts[path] = 2
+      fn()
+    }
+    el.async = 1
+    el.src = urlArgs ? path + (path.indexOf('?') === -1 ? '?' : '&') + urlArgs : path;
+    head.insertBefore(el, head.lastChild)
+  }
+
+  $script.get = create
+
+  $script.order = function (scripts, id, done) {
+    (function callback(s) {
+      s = scripts.shift()
+      !scripts.length ? $script(s, id, done) : $script(s, callback)
+    }())
+  }
+
+  $script.path = function (p) {
+    scriptpath = p
+  }
+  $script.urlArgs = function (str) {
+    urlArgs = str;
+  }
+  $script.ready = function (deps, ready, req) {
+    deps = deps[push] ? deps : [deps]
+    var missing = [];
+    !each(deps, function (dep) {
+      list[dep] || missing[push](dep);
+    }) && every(deps, function (dep) {return list[dep]}) ?
+      ready() : !function (key) {
+      delay[key] = delay[key] || []
+      delay[key][push](ready)
+      req && req(missing)
+    }(deps.join('|'))
+    return $script
+  }
+
+  $script.done = function (idOrDone) {
+    $script([null], idOrDone)
+  }
+
+  return $script
+});
+
 
 /***/ }),
 
@@ -7223,244 +8688,241 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 function Home() {
   _components_analytics__WEBPACK_IMPORTED_MODULE_7__["Analytics"].logPageView("/");
-  return (// const Home = () => (
-    __jsx("div", {
-      className: "jsx-976634604",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 15
-      },
-      __self: this
-    }, __jsx(next_head__WEBPACK_IMPORTED_MODULE_2___default.a, {
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 16
-      },
-      __self: this
-    }, __jsx("title", {
-      className: "jsx-976634604",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 17
-      },
-      __self: this
-    }, "Derek Kinsman. Maker of things."), __jsx("link", {
-      rel: "icon",
-      type: "image/png",
-      href: "/favicon-16.png",
-      sizes: "16x16",
-      className: "jsx-976634604",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 18
-      },
-      __self: this
-    }), __jsx("link", {
-      rel: "icon",
-      type: "image/png",
-      href: "/favicon-32.png",
-      sizes: "32x32",
-      className: "jsx-976634604",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 19
-      },
-      __self: this
-    }), __jsx("link", {
-      rel: "icon",
-      type: "image/png",
-      href: "/favicon-96.png",
-      sizes: "96x96",
-      className: "jsx-976634604",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 20
-      },
-      __self: this
-    }), __jsx("link", {
-      href: "https://fonts.googleapis.com/css?family=Crimson+Text:400,400i,600,600i,700,700i&display=swap",
-      rel: "stylesheet",
-      className: "jsx-976634604",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 22
-      },
-      __self: this
-    }), __jsx("meta", {
-      property: "og:type",
-      content: "profile",
-      className: "jsx-976634604",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 24
-      },
-      __self: this
-    }), __jsx("meta", {
-      property: "og:title",
-      content: "Derek Kinsman",
-      className: "jsx-976634604",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 25
-      },
-      __self: this
-    }), __jsx("meta", {
-      property: "og:description",
-      content: "Rude mechanical. Maker of things.",
-      className: "jsx-976634604",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 26
-      },
-      __self: this
-    }), __jsx("meta", {
-      property: "og:url",
-      content: "https://derekkinsman.com/",
-      className: "jsx-976634604",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 27
-      },
-      __self: this
-    }), __jsx("meta", {
-      property: "og:image",
-      content: "https://derekkinsman.com/meta-fb.png",
-      className: "jsx-976634604",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 28
-      },
-      __self: this
-    }), __jsx("meta", {
-      name: "twitter:card",
-      content: "summary_large_image",
-      className: "jsx-976634604",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 30
-      },
-      __self: this
-    }), __jsx("meta", {
-      name: "twitter:title",
-      content: "Derek Kinsman",
-      className: "jsx-976634604",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 31
-      },
-      __self: this
-    }), __jsx("meta", {
-      name: "twitter:description",
-      content: "Rude mechanical. Maker of things.",
-      className: "jsx-976634604",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 32
-      },
-      __self: this
-    }), __jsx("meta", {
-      name: "twitter:image",
-      content: "https://derekkinsman.com/meta-tw.png",
-      className: "jsx-976634604",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 33
-      },
-      __self: this
-    })), __jsx(_components_masthead__WEBPACK_IMPORTED_MODULE_3__["default"], {
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 36
-      },
-      __self: this
-    }), __jsx(_components_biography__WEBPACK_IMPORTED_MODULE_4__["default"], {
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 37
-      },
-      __self: this
-    }), __jsx("div", {
-      className: "jsx-976634604" + " " + "seperator",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 38
-      },
-      __self: this
-    }, "\xD7"), __jsx(_components_contact__WEBPACK_IMPORTED_MODULE_6__["default"], {
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 39
-      },
-      __self: this
-    }), __jsx("div", {
-      className: "jsx-976634604" + " " + "seperator",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 40
-      },
-      __self: this
-    }, "\xD7"), __jsx(_components_twitter__WEBPACK_IMPORTED_MODULE_5__["default"], {
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 41
-      },
-      __self: this
-    }), __jsx("div", {
-      className: "jsx-976634604" + " " + "seperator",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 42
-      },
-      __self: this
-    }, "\xD7"), __jsx("footer", {
-      className: "jsx-976634604",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 44
-      },
-      __self: this
-    }, __jsx("p", {
-      className: "jsx-976634604",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 45
-      },
-      __self: this
-    }, "\xA9 2019 Derek Kinsman. Handmade with", __jsx("span", {
-      className: "jsx-976634604" + " " + "emoji",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 45
-      },
-      __self: this
-    }, "\uD83D\uDDA4"), "on ", __jsx("a", {
-      href: "https://downiewenjack.ca/support-us/donate/",
-      target: "_blank",
-      className: "jsx-976634604",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 45
-      },
-      __self: this
-    }, "Treaty 3 Territory"), ", Turtle Island."), __jsx("img", {
-      src: "black.svg",
-      className: "jsx-976634604" + " " + "logo",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 46
-      },
-      __self: this
-    })), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
-      id: "976634604",
-      __self: this
-    }, ".seperator.jsx-976634604{margin:42px 0;text-align:center;}footer.jsx-976634604{font-size:0.8rem;line-height:0.9rem;text-align:center;margin:0 auto;width:50vw;}.emoji.jsx-976634604{margin-left:5px;margin-right:0px;vertical-align:middle;}.logo.jsx-976634604{height:50px;margin:21px auto 42px;}@media screen and (max-width:650px){footer.jsx-976634604{width:75vw;}.logo.jsx-976634604{height:50px;}}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9kZXJla2tpbnNtYW4vRG9jdW1lbnRzL0Nvc21vbmF1dCBJbmR1c3RyaWVzL2RlcmVra2luc21hbi13ZWIvcGFnZXMvaW5kZXguanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBZ0RnQixBQUd1QixBQUtHLEFBUUQsQUFNSixBQU9DLEFBSUMsV0FIZCxDQVBzQixBQVd0QixFQTlCa0IsRUFhRCxDQVJFLGVBSnJCLENBYXdCLENBTXhCLEVBZG9CLGtCQUNKLENBUWhCLGFBUGEsV0FDYiIsImZpbGUiOiIvVXNlcnMvZGVyZWtraW5zbWFuL0RvY3VtZW50cy9Db3Ntb25hdXQgSW5kdXN0cmllcy9kZXJla2tpbnNtYW4td2ViL3BhZ2VzL2luZGV4LmpzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0J1xuaW1wb3J0IEhlYWQgZnJvbSAnbmV4dC9oZWFkJ1xuaW1wb3J0IE1hc3RoZWFkIGZyb20gJy4uL2NvbXBvbmVudHMvbWFzdGhlYWQnXG5pbXBvcnQgQmlvZ3JhcGh5IGZyb20gJy4uL2NvbXBvbmVudHMvYmlvZ3JhcGh5J1xuaW1wb3J0IFR3aXR0ZXIgZnJvbSAnLi4vY29tcG9uZW50cy90d2l0dGVyJ1xuaW1wb3J0IENvbnRhY3QgZnJvbSAnLi4vY29tcG9uZW50cy9jb250YWN0J1xuaW1wb3J0IHtBbmFseXRpY3N9IGZyb20gJy4uL2NvbXBvbmVudHMvYW5hbHl0aWNzJ1xuXG5leHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBIb21lKCkge1xuXG4gIEFuYWx5dGljcy5sb2dQYWdlVmlldyhcIi9cIilcblxuICByZXR1cm4gKFxuLy8gY29uc3QgSG9tZSA9ICgpID0+IChcbiAgPGRpdj5cbiAgICA8SGVhZD5cbiAgICAgIDx0aXRsZT5EZXJlayBLaW5zbWFuLiBNYWtlciBvZiB0aGluZ3MuPC90aXRsZT5cbiAgICAgIDxsaW5rIHJlbD1cImljb25cIiB0eXBlPVwiaW1hZ2UvcG5nXCIgaHJlZj1cIi9mYXZpY29uLTE2LnBuZ1wiIHNpemVzPVwiMTZ4MTZcIiAvPlxuICAgICAgPGxpbmsgcmVsPVwiaWNvblwiIHR5cGU9XCJpbWFnZS9wbmdcIiBocmVmPVwiL2Zhdmljb24tMzIucG5nXCIgc2l6ZXM9XCIzMngzMlwiIC8+XG4gICAgICA8bGluayByZWw9XCJpY29uXCIgdHlwZT1cImltYWdlL3BuZ1wiIGhyZWY9XCIvZmF2aWNvbi05Ni5wbmdcIiBzaXplcz1cIjk2eDk2XCIgLz5cblxuICAgICAgPGxpbmsgaHJlZj1cImh0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzP2ZhbWlseT1Dcmltc29uK1RleHQ6NDAwLDQwMGksNjAwLDYwMGksNzAwLDcwMGkmZGlzcGxheT1zd2FwXCIgcmVsPVwic3R5bGVzaGVldFwiIC8+XG5cbiAgICAgIDxtZXRhIHByb3BlcnR5PVwib2c6dHlwZVwiIGNvbnRlbnQ9XCJwcm9maWxlXCIgLz5cbiAgICAgIDxtZXRhIHByb3BlcnR5PVwib2c6dGl0bGVcIiBjb250ZW50PVwiRGVyZWsgS2luc21hblwiIC8+XG4gICAgICA8bWV0YSBwcm9wZXJ0eT1cIm9nOmRlc2NyaXB0aW9uXCIgY29udGVudD1cIlJ1ZGUgbWVjaGFuaWNhbC4gTWFrZXIgb2YgdGhpbmdzLlwiIC8+XG4gICAgICA8bWV0YSBwcm9wZXJ0eT1cIm9nOnVybFwiIGNvbnRlbnQ9XCJodHRwczovL2RlcmVra2luc21hbi5jb20vXCIgLz5cbiAgICAgIDxtZXRhIHByb3BlcnR5PVwib2c6aW1hZ2VcIiBjb250ZW50PVwiaHR0cHM6Ly9kZXJla2tpbnNtYW4uY29tL21ldGEtZmIucG5nXCIgLz5cblxuICAgICAgPG1ldGEgbmFtZT1cInR3aXR0ZXI6Y2FyZFwiIGNvbnRlbnQ9XCJzdW1tYXJ5X2xhcmdlX2ltYWdlXCIgLz5cbiAgICAgIDxtZXRhIG5hbWU9XCJ0d2l0dGVyOnRpdGxlXCIgY29udGVudD1cIkRlcmVrIEtpbnNtYW5cIiAvPlxuICAgICAgPG1ldGEgbmFtZT1cInR3aXR0ZXI6ZGVzY3JpcHRpb25cIiBjb250ZW50PVwiUnVkZSBtZWNoYW5pY2FsLiBNYWtlciBvZiB0aGluZ3MuXCIgLz5cbiAgICAgIDxtZXRhIG5hbWU9XCJ0d2l0dGVyOmltYWdlXCIgY29udGVudD1cImh0dHBzOi8vZGVyZWtraW5zbWFuLmNvbS9tZXRhLXR3LnBuZ1wiIC8+XG4gICAgPC9IZWFkPlxuXG4gICAgPE1hc3RoZWFkIC8+XG4gICAgPEJpb2dyYXBoeSAvPlxuICAgIDxkaXYgY2xhc3NOYW1lPVwic2VwZXJhdG9yXCI+w5c8L2Rpdj5cbiAgICA8Q29udGFjdCAvPlxuICAgIDxkaXYgY2xhc3NOYW1lPVwic2VwZXJhdG9yXCI+w5c8L2Rpdj5cbiAgICA8VHdpdHRlciAvPlxuICAgIDxkaXYgY2xhc3NOYW1lPVwic2VwZXJhdG9yXCI+w5c8L2Rpdj5cblxuICAgIDxmb290ZXI+XG4gICAgICA8cD4mY29weTsgMjAxOSBEZXJlayBLaW5zbWFuLiBIYW5kbWFkZSB3aXRoPHNwYW4gY2xhc3NOYW1lPVwiZW1vamlcIj7wn5akPC9zcGFuPm9uIDxhIGhyZWY9XCJodHRwczovL2Rvd25pZXdlbmphY2suY2Evc3VwcG9ydC11cy9kb25hdGUvXCIgdGFyZ2V0PVwiX2JsYW5rXCI+VHJlYXR5IDMgVGVycml0b3J5PC9hPiwgVHVydGxlIElzbGFuZC48L3A+XG4gICAgICA8aW1nIGNsYXNzTmFtZT1cImxvZ29cIiBzcmM9XCJibGFjay5zdmdcIiAvPlxuICAgIDwvZm9vdGVyPlxuXG4gICAgPHN0eWxlIGpzeD57YFxuICAgICAgLnNlcGVyYXRvciB7XG4gICAgICAgIG1hcmdpbjogNDJweCAwO1xuICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7XG4gICAgICB9XG5cbiAgICAgIGZvb3RlciB7XG4gICAgICAgIGZvbnQtc2l6ZTogMC44cmVtO1xuICAgICAgICBsaW5lLWhlaWdodDogMC45cmVtO1xuICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7XG4gICAgICAgIG1hcmdpbjogMCBhdXRvO1xuICAgICAgICB3aWR0aDogNTB2dztcbiAgICAgIH1cblxuICAgICAgLmVtb2ppIHtcbiAgICAgICAgbWFyZ2luLWxlZnQ6IDVweDtcbiAgICAgICAgbWFyZ2luLXJpZ2h0OiAwcHg7XG4gICAgICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7XG4gICAgICB9XG5cbiAgICAgIC5sb2dvIHtcbiAgICAgICAgaGVpZ2h0OiA1MHB4O1xuICAgICAgICBtYXJnaW46IDIxcHggYXV0byA0MnB4O1xuICAgICAgfVxuXG4gICAgICBAbWVkaWEgc2NyZWVuIGFuZCAobWF4LXdpZHRoOiA2NTBweCkge1xuXG4gICAgICAgIGZvb3RlciB7XG4gICAgICAgICAgd2lkdGg6IDc1dnc7XG4gICAgICAgIH1cblxuICAgICAgICAubG9nbyB7XG4gICAgICAgICAgaGVpZ2h0OiA1MHB4O1xuICAgICAgICB9XG4gICAgICB9XG4gICAgYH08L3N0eWxlPlxuICA8L2Rpdj5cbi8vIClcbiAgKVxufVxuXG4vLyBleHBvcnQgZGVmYXVsdCBIb21lXG4iXX0= */\n/*@ sourceURL=/Users/derekkinsman/Documents/Cosmonaut Industries/derekkinsman-web/pages/index.js */")) // )
-
-  );
+  return __jsx("div", {
+    className: "jsx-976634604",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 14
+    },
+    __self: this
+  }, __jsx(next_head__WEBPACK_IMPORTED_MODULE_2___default.a, {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 15
+    },
+    __self: this
+  }, __jsx("title", {
+    className: "jsx-976634604",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 16
+    },
+    __self: this
+  }, "Derek Kinsman. Maker of things."), __jsx("link", {
+    rel: "icon",
+    type: "image/png",
+    href: "/favicon-16.png",
+    sizes: "16x16",
+    className: "jsx-976634604",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 17
+    },
+    __self: this
+  }), __jsx("link", {
+    rel: "icon",
+    type: "image/png",
+    href: "/favicon-32.png",
+    sizes: "32x32",
+    className: "jsx-976634604",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 18
+    },
+    __self: this
+  }), __jsx("link", {
+    rel: "icon",
+    type: "image/png",
+    href: "/favicon-96.png",
+    sizes: "96x96",
+    className: "jsx-976634604",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 19
+    },
+    __self: this
+  }), __jsx("link", {
+    href: "https://fonts.googleapis.com/css?family=Crimson+Text:400,400i,600,600i,700,700i&display=swap",
+    rel: "stylesheet",
+    className: "jsx-976634604",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 21
+    },
+    __self: this
+  }), __jsx("meta", {
+    property: "og:type",
+    content: "profile",
+    className: "jsx-976634604",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 23
+    },
+    __self: this
+  }), __jsx("meta", {
+    property: "og:title",
+    content: "Derek Kinsman",
+    className: "jsx-976634604",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 24
+    },
+    __self: this
+  }), __jsx("meta", {
+    property: "og:description",
+    content: "Rude mechanical. Maker of things.",
+    className: "jsx-976634604",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 25
+    },
+    __self: this
+  }), __jsx("meta", {
+    property: "og:url",
+    content: "https://derekkinsman.com/",
+    className: "jsx-976634604",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 26
+    },
+    __self: this
+  }), __jsx("meta", {
+    property: "og:image",
+    content: "https://derekkinsman.com/meta-fb.png",
+    className: "jsx-976634604",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 27
+    },
+    __self: this
+  }), __jsx("meta", {
+    name: "twitter:card",
+    content: "summary_large_image",
+    className: "jsx-976634604",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 29
+    },
+    __self: this
+  }), __jsx("meta", {
+    name: "twitter:title",
+    content: "Derek Kinsman",
+    className: "jsx-976634604",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 30
+    },
+    __self: this
+  }), __jsx("meta", {
+    name: "twitter:description",
+    content: "Rude mechanical. Maker of things.",
+    className: "jsx-976634604",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 31
+    },
+    __self: this
+  }), __jsx("meta", {
+    name: "twitter:image",
+    content: "https://derekkinsman.com/meta-tw.png",
+    className: "jsx-976634604",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 32
+    },
+    __self: this
+  })), __jsx(_components_masthead__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 35
+    },
+    __self: this
+  }), __jsx(_components_biography__WEBPACK_IMPORTED_MODULE_4__["default"], {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 36
+    },
+    __self: this
+  }), __jsx("div", {
+    className: "jsx-976634604" + " " + "seperator",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 37
+    },
+    __self: this
+  }, "\xD7"), __jsx(_components_contact__WEBPACK_IMPORTED_MODULE_6__["default"], {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 38
+    },
+    __self: this
+  }), __jsx("div", {
+    className: "jsx-976634604" + " " + "seperator",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 39
+    },
+    __self: this
+  }, "\xD7"), __jsx(_components_twitter__WEBPACK_IMPORTED_MODULE_5__["default"], {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 40
+    },
+    __self: this
+  }), __jsx("div", {
+    className: "jsx-976634604" + " " + "seperator",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 41
+    },
+    __self: this
+  }, "\xD7"), __jsx("footer", {
+    className: "jsx-976634604",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 43
+    },
+    __self: this
+  }, __jsx("p", {
+    className: "jsx-976634604",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 44
+    },
+    __self: this
+  }, "\xA9 2020 Derek Kinsman. Handmade with", __jsx("span", {
+    className: "jsx-976634604" + " " + "emoji",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 44
+    },
+    __self: this
+  }, "\uD83D\uDDA4"), "on ", __jsx("a", {
+    href: "https://downiewenjack.ca/support-us/donate/",
+    target: "_blank",
+    className: "jsx-976634604",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 44
+    },
+    __self: this
+  }, "Treaty 3 Territory"), ", Turtle Island."), __jsx("img", {
+    src: "black.svg",
+    className: "jsx-976634604" + " " + "logo",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 45
+    },
+    __self: this
+  })), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
+    id: "976634604",
+    __self: this
+  }, ".seperator.jsx-976634604{margin:42px 0;text-align:center;}footer.jsx-976634604{font-size:0.8rem;line-height:0.9rem;text-align:center;margin:0 auto;width:50vw;}.emoji.jsx-976634604{margin-left:5px;margin-right:0px;vertical-align:middle;}.logo.jsx-976634604{height:50px;margin:21px auto 42px;}@media screen and (max-width:650px){footer.jsx-976634604{width:75vw;}.logo.jsx-976634604{height:50px;}}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9kZXJla2tpbnNtYW4vRG9jdW1lbnRzL0Nvc21vbmF1dCBJbmR1c3RyaWVzL2RlcmVra2luc21hbi13ZWIvcGFnZXMvaW5kZXguanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBK0NnQixBQUd1QixBQUtHLEFBUUQsQUFNSixBQU9DLEFBSUMsV0FIZCxDQVBzQixBQVd0QixFQTlCa0IsRUFhRCxDQVJFLGVBSnJCLENBYXdCLENBTXhCLEVBZG9CLGtCQUNKLENBUWhCLGFBUGEsV0FDYiIsImZpbGUiOiIvVXNlcnMvZGVyZWtraW5zbWFuL0RvY3VtZW50cy9Db3Ntb25hdXQgSW5kdXN0cmllcy9kZXJla2tpbnNtYW4td2ViL3BhZ2VzL2luZGV4LmpzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0J1xuaW1wb3J0IEhlYWQgZnJvbSAnbmV4dC9oZWFkJ1xuaW1wb3J0IE1hc3RoZWFkIGZyb20gJy4uL2NvbXBvbmVudHMvbWFzdGhlYWQnXG5pbXBvcnQgQmlvZ3JhcGh5IGZyb20gJy4uL2NvbXBvbmVudHMvYmlvZ3JhcGh5J1xuaW1wb3J0IFR3aXR0ZXIgZnJvbSAnLi4vY29tcG9uZW50cy90d2l0dGVyJ1xuaW1wb3J0IENvbnRhY3QgZnJvbSAnLi4vY29tcG9uZW50cy9jb250YWN0J1xuaW1wb3J0IHsgQW5hbHl0aWNzIH0gZnJvbSAnLi4vY29tcG9uZW50cy9hbmFseXRpY3MnXG5cbmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIEhvbWUoKSB7XG5cbiAgQW5hbHl0aWNzLmxvZ1BhZ2VWaWV3KFwiL1wiKVxuXG4gIHJldHVybiAoXG4gIDxkaXY+XG4gICAgPEhlYWQ+XG4gICAgICA8dGl0bGU+RGVyZWsgS2luc21hbi4gTWFrZXIgb2YgdGhpbmdzLjwvdGl0bGU+XG4gICAgICA8bGluayByZWw9XCJpY29uXCIgdHlwZT1cImltYWdlL3BuZ1wiIGhyZWY9XCIvZmF2aWNvbi0xNi5wbmdcIiBzaXplcz1cIjE2eDE2XCIgLz5cbiAgICAgIDxsaW5rIHJlbD1cImljb25cIiB0eXBlPVwiaW1hZ2UvcG5nXCIgaHJlZj1cIi9mYXZpY29uLTMyLnBuZ1wiIHNpemVzPVwiMzJ4MzJcIiAvPlxuICAgICAgPGxpbmsgcmVsPVwiaWNvblwiIHR5cGU9XCJpbWFnZS9wbmdcIiBocmVmPVwiL2Zhdmljb24tOTYucG5nXCIgc2l6ZXM9XCI5Nng5NlwiIC8+XG5cbiAgICAgIDxsaW5rIGhyZWY9XCJodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2Nzcz9mYW1pbHk9Q3JpbXNvbitUZXh0OjQwMCw0MDBpLDYwMCw2MDBpLDcwMCw3MDBpJmRpc3BsYXk9c3dhcFwiIHJlbD1cInN0eWxlc2hlZXRcIiAvPlxuXG4gICAgICA8bWV0YSBwcm9wZXJ0eT1cIm9nOnR5cGVcIiBjb250ZW50PVwicHJvZmlsZVwiIC8+XG4gICAgICA8bWV0YSBwcm9wZXJ0eT1cIm9nOnRpdGxlXCIgY29udGVudD1cIkRlcmVrIEtpbnNtYW5cIiAvPlxuICAgICAgPG1ldGEgcHJvcGVydHk9XCJvZzpkZXNjcmlwdGlvblwiIGNvbnRlbnQ9XCJSdWRlIG1lY2hhbmljYWwuIE1ha2VyIG9mIHRoaW5ncy5cIiAvPlxuICAgICAgPG1ldGEgcHJvcGVydHk9XCJvZzp1cmxcIiBjb250ZW50PVwiaHR0cHM6Ly9kZXJla2tpbnNtYW4uY29tL1wiIC8+XG4gICAgICA8bWV0YSBwcm9wZXJ0eT1cIm9nOmltYWdlXCIgY29udGVudD1cImh0dHBzOi8vZGVyZWtraW5zbWFuLmNvbS9tZXRhLWZiLnBuZ1wiIC8+XG5cbiAgICAgIDxtZXRhIG5hbWU9XCJ0d2l0dGVyOmNhcmRcIiBjb250ZW50PVwic3VtbWFyeV9sYXJnZV9pbWFnZVwiIC8+XG4gICAgICA8bWV0YSBuYW1lPVwidHdpdHRlcjp0aXRsZVwiIGNvbnRlbnQ9XCJEZXJlayBLaW5zbWFuXCIgLz5cbiAgICAgIDxtZXRhIG5hbWU9XCJ0d2l0dGVyOmRlc2NyaXB0aW9uXCIgY29udGVudD1cIlJ1ZGUgbWVjaGFuaWNhbC4gTWFrZXIgb2YgdGhpbmdzLlwiIC8+XG4gICAgICA8bWV0YSBuYW1lPVwidHdpdHRlcjppbWFnZVwiIGNvbnRlbnQ9XCJodHRwczovL2RlcmVra2luc21hbi5jb20vbWV0YS10dy5wbmdcIiAvPlxuICAgIDwvSGVhZD5cblxuICAgIDxNYXN0aGVhZCAvPlxuICAgIDxCaW9ncmFwaHkgLz5cbiAgICA8ZGl2IGNsYXNzTmFtZT1cInNlcGVyYXRvclwiPsOXPC9kaXY+XG4gICAgPENvbnRhY3QgLz5cbiAgICA8ZGl2IGNsYXNzTmFtZT1cInNlcGVyYXRvclwiPsOXPC9kaXY+XG4gICAgPFR3aXR0ZXIgLz5cbiAgICA8ZGl2IGNsYXNzTmFtZT1cInNlcGVyYXRvclwiPsOXPC9kaXY+XG5cbiAgICA8Zm9vdGVyPlxuICAgICAgPHA+JmNvcHk7IDIwMjAgRGVyZWsgS2luc21hbi4gSGFuZG1hZGUgd2l0aDxzcGFuIGNsYXNzTmFtZT1cImVtb2ppXCI+8J+WpDwvc3Bhbj5vbiA8YSBocmVmPVwiaHR0cHM6Ly9kb3duaWV3ZW5qYWNrLmNhL3N1cHBvcnQtdXMvZG9uYXRlL1wiIHRhcmdldD1cIl9ibGFua1wiPlRyZWF0eSAzIFRlcnJpdG9yeTwvYT4sIFR1cnRsZSBJc2xhbmQuPC9wPlxuICAgICAgPGltZyBjbGFzc05hbWU9XCJsb2dvXCIgc3JjPVwiYmxhY2suc3ZnXCIgLz5cbiAgICA8L2Zvb3Rlcj5cblxuICAgIDxzdHlsZSBqc3g+e2BcbiAgICAgIC5zZXBlcmF0b3Ige1xuICAgICAgICBtYXJnaW46IDQycHggMDtcbiAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyO1xuICAgICAgfVxuXG4gICAgICBmb290ZXIge1xuICAgICAgICBmb250LXNpemU6IDAuOHJlbTtcbiAgICAgICAgbGluZS1oZWlnaHQ6IDAuOXJlbTtcbiAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyO1xuICAgICAgICBtYXJnaW46IDAgYXV0bztcbiAgICAgICAgd2lkdGg6IDUwdnc7XG4gICAgICB9XG5cbiAgICAgIC5lbW9qaSB7XG4gICAgICAgIG1hcmdpbi1sZWZ0OiA1cHg7XG4gICAgICAgIG1hcmdpbi1yaWdodDogMHB4O1xuICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlO1xuICAgICAgfVxuXG4gICAgICAubG9nbyB7XG4gICAgICAgIGhlaWdodDogNTBweDtcbiAgICAgICAgbWFyZ2luOiAyMXB4IGF1dG8gNDJweDtcbiAgICAgIH1cblxuICAgICAgQG1lZGlhIHNjcmVlbiBhbmQgKG1heC13aWR0aDogNjUwcHgpIHtcblxuICAgICAgICBmb290ZXIge1xuICAgICAgICAgIHdpZHRoOiA3NXZ3O1xuICAgICAgICB9XG5cbiAgICAgICAgLmxvZ28ge1xuICAgICAgICAgIGhlaWdodDogNTBweDtcbiAgICAgICAgfVxuICAgICAgfVxuICAgIGB9PC9zdHlsZT5cbiAgPC9kaXY+XG4gIClcbn1cblxuLy8gZXhwb3J0IGRlZmF1bHQgSG9tZVxuIl19 */\n/*@ sourceURL=/Users/derekkinsman/Documents/Cosmonaut Industries/derekkinsman-web/pages/index.js */"));
 } // export default Home
 
 /***/ }),
 
-/***/ 0:
+/***/ 1:
 /*!*******************************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fderekkinsman%2FDocuments%2FCosmonaut%20Industries%2Fderekkinsman-web%2Fpages%2Findex.js ***!
   \*******************************************************************************************************************************************************************/
@@ -7483,5 +8945,5 @@ module.exports = dll_ef0ff7c60362f24a921f;
 
 /***/ })
 
-},[[0,"static/runtime/webpack.js"]]]);
+},[[1,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map

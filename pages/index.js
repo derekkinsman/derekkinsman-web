@@ -4,14 +4,13 @@ import Masthead from '../components/masthead'
 import Biography from '../components/biography'
 import Twitter from '../components/twitter'
 import Contact from '../components/contact'
-import {Analytics} from '../components/analytics'
+import { Analytics } from '../components/analytics'
 
 export default function Home() {
 
   Analytics.logPageView("/")
 
   return (
-// const Home = () => (
   <div>
     <Head>
       <title>Derek Kinsman. Maker of things.</title>
@@ -42,7 +41,7 @@ export default function Home() {
     <div className="seperator">×</div>
 
     <footer>
-      <p>&copy; 2019 Derek Kinsman. Handmade with<span className="emoji">🖤</span>on <a href="https://downiewenjack.ca/support-us/donate/" target="_blank">Treaty 3 Territory</a>, Turtle Island.</p>
+      <p>&copy; 2020 Derek Kinsman. Handmade with<span className="emoji">🖤</span>on <a href="https://downiewenjack.ca/support-us/donate/" target="_blank">Treaty 3 Territory</a>, Turtle Island.</p>
       <img className="logo" src="black.svg" />
     </footer>
 
@@ -83,7 +82,6 @@ export default function Home() {
       }
     `}</style>
   </div>
-// )
   )
 }
 

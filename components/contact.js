@@ -39,7 +39,6 @@ const links = [
 const Contact = () => (
   <section>
     <h3>Internet Résumé</h3>
-    {/* <h4><span className="italics">—PDF available by request.</span></h4> */}
     <ul>
       {resume.map(({ key, href, label }) => (
         <li key={key}>
@@ -47,7 +46,7 @@ const Contact = () => (
         </li>
       ))}
       <li>
-        <a href="/resume_derekkinsman_2020.pdf">PDF</a>
+        <a href="/resume_derekkinsman_2021.pdf">PDF</a>
       </li>
     </ul>
 

@@ -1,18 +1,25 @@
 {
+  "engines": {
+    "yarn": "please-use-npm"
+  },
   "name": "internet-website",
   "version": "0.1.0",
+  "description": "Website for Derek Kinsman.",
+  "main": "index.js",
+  "author": "Derek Kinsman",
+  "license": "MIT",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev -p 8887",
     "build": "next build",
     "start": "next start",
     "export": "npm run build && next export -o docs"
   },
   "dependencies": {
-    "next": "9.1.4",
-    "react": "16.12.0",
-    "react-dom": "16.12.0",
-    "react-ga": "^2.7.0",
-    "react-twitter-embed": "^3.0.3"
+    "next": "^12.0.10",
+    "prop-types": "^15.8.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "sass": "^1.32.12"
   }
 }

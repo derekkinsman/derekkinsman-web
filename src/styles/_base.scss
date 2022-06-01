@@ -1,0 +1,36 @@
+@import './vars.scss';
+
+.seperator {
+    margin: 42px 0;
+    text-align: center;
+  }
+
+  footer {
+    font-size: 0.8rem;
+    line-height: 0.9rem;
+    text-align: center;
+    margin: 0 auto;
+    width: 50vw;
+  }
+
+  .emoji {
+    margin-left: 5px;
+    margin-right: 0px;
+    vertical-align: middle;
+  }
+
+  .logo {
+    height: 50px;
+    margin: 21px auto 42px;
+  }
+
+  @media screen and (max-width: 650px) {
+
+    footer {
+      width: 75vw;
+    }
+
+    .logo {
+      height: 50px;
+    }
+  }

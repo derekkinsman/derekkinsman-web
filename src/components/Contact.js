@@ -29,8 +29,8 @@ const links = [
   { href: 'https://derekkinsman.itch.io/', label: 'Itch' },
   { href: 'https://www.goodreads.com/user/show/5449872-derek-kinsman', label: 'Goodreads' },
   { href: 'https://twitter.com/derekkinsman', label: 'Twitter' },
+  { href: 'http://instagram.com/derekkinsman', label: 'Instagram' },
   { href: 'https://www.facebook.com/derek.kinsman', label: 'Facebook' },
-  { href: 'http://instagram.com/derekkinsman', label: 'Instagram' }
 ].map(link => {
   link.key = `nav-link-${link.href}-${link.label}`
   return link

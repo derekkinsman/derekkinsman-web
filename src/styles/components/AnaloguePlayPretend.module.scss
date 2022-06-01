@@ -1,0 +1,51 @@
+@font-face {
+  font-family: 'PinkCoast';
+  src:  url('/fonts/pink-coast.eot');
+  src:  url('/fonts/pink-coast.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/pink-coast.woff2') format('woff2'),
+        url('/fonts/pink-coast.woff') format('woff'),
+        url('/fonts/pink-coast.ttf') format('truetype'),
+        url('/fonts/pink-coast.svg#youworkforthem') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.analogueplaypretend {
+  color: rgb(178, 223, 230);
+  text-align: justify;
+  margin: 0;
+  padding: 84px;
+  text-align: center;
+  background-image: url('/noise-and-gradient-0001.jpeg');
+  background-position: center;
+  background-size: cover;
+
+  h2 {
+    font-family: PinkCoast;
+    font-size: 100px;
+    font-feature-settings: 'aalt=0, ss01=0, ss02=0';
+    -moz-font-feature-settings: 'aalt=0, ss01=0, ss02=0';
+    -webkit-font-feature-settings: 'aalt=0, ss01=0, ss02=0';
+    font-weight: normal;
+    text-transform: uppercase;
+    margin: 0;
+    line-height: 100px;
+  }
+
+  p {
+    font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
+    margin: 0 auto;
+    width: 50vw;
+  }
+
+  a {
+    font-style: italic;
+    font-weight: 600;
+    transition: color 0.5s ease;
+    color: rgb(178, 223, 230);
+  }
+  
+  a:hover {
+    color: rgb(66, 182, 198);
+  }
+}

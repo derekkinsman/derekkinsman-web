@@ -1,0 +1,123 @@
+// VARIABLES
+$color-black:       #3A3A3A;
+$color-primary:     #DE6CB3;
+$color-secondary:   #BEEFEA;
+$color-tertiary:    #FFF9F8;
+$color-quaternary:  #FFF142;
+
+// FONTS
+/*
+Font:       Viva Kaiva
+Styles:     Thin, Light, Regular, Medium, Bold
+URL:        https://www.youworkforthem.com/font/T13789/viva-kaiva
+Foundry:    Kadek Mahardika
+Foundry:    https://www.youworkforthem.com/designer/1418/kadek-mahardika
+Copyright:  Copyright © 2021 by Kadek Mahardika. All rights reserved.
+Version:    17
+Created:    March 07, 2021
+License:    https://www.youworkforthem.com/font-license 
+License:    The WebFont(s) listed in this document must follow the YouWorkForThem
+            WebFont license rules. All other parties are strictly restricted 
+            from using the WebFonts(s) listed without a purchased license. 
+            All details above must always remain unaltered and visible in your CSS.
+*/
+@font-face {
+	font-family: 'VivaKaiva-Thin';
+	src:  url('/fonts/viva-kaiva/100/viva-kaiva-thin.eot');
+	src:  url('/fonts/viva-kaiva/100/viva-kaiva-thin.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/viva-kaiva/100/viva-kaiva-thin.woff2') format('woff2'),
+	      url('/fonts/viva-kaiva/100/viva-kaiva-thin.woff') format('woff'),
+	      url('/fonts/viva-kaiva/100/viva-kaiva-thin.ttf') format('truetype'),
+	      url('/fonts/viva-kaiva/100/viva-kaiva-thin.svg#youworkforthem') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'VivaKaiva-Light';
+	src:  url('/fonts/viva-kaiva/300/viva-kaiva-light.eot');
+	src:  url('/fonts/viva-kaiva/300/viva-kaiva-light.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/viva-kaiva/300/viva-kaiva-light.woff2') format('woff2'),
+	      url('/fonts/viva-kaiva/300/viva-kaiva-light.woff') format('woff'),
+	      url('/fonts/viva-kaiva/300/viva-kaiva-light.ttf') format('truetype'),
+	      url('/fonts/viva-kaiva/300/viva-kaiva-light.svg#youworkforthem') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'VivaKaiva-Regular';
+	src:  url('/fonts/viva-kaiva/400/viva-kaiva-regular.eot');
+	src:  url('/fonts/viva-kaiva/400/viva-kaiva-regular.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/viva-kaiva/400/viva-kaiva-regular.woff2') format('woff2'),
+	      url('/fonts/viva-kaiva/400/viva-kaiva-regular.woff') format('woff'),
+	      url('/fonts/viva-kaiva/400/viva-kaiva-regular.ttf') format('truetype'),
+	      url('/fonts/viva-kaiva/400/viva-kaiva-regular.svg#youworkforthem') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'VivaKaiva-Medium';
+	src:  url('/fonts/viva-kaiva/500/viva-kaiva-medium.eot');
+	src:  url('/fonts/viva-kaiva/500/viva-kaiva-medium.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/viva-kaiva/500/viva-kaiva-medium.woff2') format('woff2'),
+	      url('/fonts/viva-kaiva/500/viva-kaiva-medium.woff') format('woff'),
+	      url('/fonts/viva-kaiva/500/viva-kaiva-medium.ttf') format('truetype'),
+	      url('/fonts/viva-kaiva/500/viva-kaiva-medium.svg#youworkforthem') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'VivaKaiva-Bold';
+	src:  url('/fonts/viva-kaiva/700/viva-kaiva-bold.eot');
+	src:  url('/fonts/viva-kaiva/700/viva-kaiva-bold.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/viva-kaiva/700/viva-kaiva-bold.woff2') format('woff2'),
+	      url('/fonts/viva-kaiva/700/viva-kaiva-bold.woff') format('woff'),
+	      url('/fonts/viva-kaiva/700/viva-kaiva-bold.ttf') format('truetype'),
+	      url('/fonts/viva-kaiva/700/viva-kaiva-bold.svg#youworkforthem') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+.unttld {
+  color: $color-tertiary;
+  text-align: justify;
+  margin: 0;
+  padding: 63px;
+  text-align: center;
+  background-image: url('/images/aura.gif');
+  background-position: center;
+  background-size: cover;
+
+  h2 {
+    font-family: 'VivaKaiva-Bold', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 100px;
+    font-feature-settings: 'aalt=0, ss01=0, ss02=0';
+    -moz-font-feature-settings: 'aalt=0, ss01=0, ss02=0';
+    -webkit-font-feature-settings: 'aalt=0, ss01=0, ss02=0';
+    font-weight: normal;
+    text-transform: uppercase;
+    margin: 0;
+    line-height: 100px;
+  }
+
+  p {
+    font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
+    margin: 0 auto;
+    width: 50vw;
+    color: $color-tertiary;
+  }
+
+  a {
+    font-style: italic;
+    font-weight: 600;
+    transition: color 0.5s ease;
+    color: $color-tertiary;
+  }
+  
+  a:hover {
+    color: $color-secondary;
+  }
+}

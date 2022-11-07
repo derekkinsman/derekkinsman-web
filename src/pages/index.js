@@ -1,6 +1,7 @@
 import React from 'react'
 import Head from 'next/head'
 import Analogue from '../components/AnaloguePlayPretend'
+import Unttld from '../components/Unttld'
 import Biography from '../components/Biography'
 import Contact from '../components/Contact'
 import Footer from '../components/Footer'
@@ -33,6 +34,7 @@ export default function Home() {
 
     <Masthead />
     <Analogue />
+    <Unttld />
     <Biography />
     <div className="seperator">×</div>
     <Contact />

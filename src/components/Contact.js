@@ -26,11 +26,16 @@ const links = [
   { href: 'https://www.producthunt.com/@derek_kinsman', label: 'ProductHunt' },
   { href: 'https://medium.com/@derekkinsman', label: 'Medium' },
   { href: 'http://www.meetup.com/members/104598882/', label: 'Meetup' },
+  { href: 'https://analogueplaypretend.games', label: 'Analogue Play Pretend Laboratory' },
+  { href: 'https://ko-fi.com/derekkinsman/shop', label: 'Ko-Fi RPG Shop' },
   { href: 'https://derekkinsman.itch.io/', label: 'Itch' },
+  { href: 'https://www.kickstarter.com/profile/derekkinsman', label: 'Kickstarter' },
+  { href: 'https://cohost.org/derekkinsman', label: 'Cohost' },
   { href: 'https://www.goodreads.com/user/show/5449872-derek-kinsman', label: 'Goodreads' },
-  { href: 'https://twitter.com/derekkinsman', label: 'Twitter' },
+  { href: 'https://app.thestorygraph.com/profile/derekkinsman', label: 'The StoryGraph' },
   { href: 'http://instagram.com/derekkinsman', label: 'Instagram' },
-  { href: 'https://www.facebook.com/derek.kinsman', label: 'Facebook' },
+  { href: 'https://twitter.com/derekkinsman', label: 'Twitter — for now…' },
+  { href: 'https://www.facebook.com/derek.kinsman', label: 'Facebook — for now…' },
 ].map(link => {
   link.key = `nav-link-${link.href}-${link.label}`
   return link

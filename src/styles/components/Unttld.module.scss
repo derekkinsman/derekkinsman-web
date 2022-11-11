@@ -93,14 +93,21 @@ License:    The WebFont(s) listed in this document must follow the YouWorkForThe
 
   h2 {
     font-family: 'VivaKaiva-Bold', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 100px;
+    font-size: 60px;
     font-feature-settings: 'aalt=0, ss01=0, ss02=0';
     -moz-font-feature-settings: 'aalt=0, ss01=0, ss02=0';
     -webkit-font-feature-settings: 'aalt=0, ss01=0, ss02=0';
     font-weight: normal;
     text-transform: uppercase;
     margin: 0;
-    line-height: 100px;
+    line-height: 60px;
+  }
+
+  @media (min-width: 500px) {
+    h2 {
+      font-size: 100px;
+      line-height: 100px;
+    }
   }
 
   p {

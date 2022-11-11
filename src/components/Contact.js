@@ -31,6 +31,7 @@ const links = [
   { href: 'https://derekkinsman.itch.io/', label: 'Itch' },
   { href: 'https://www.kickstarter.com/profile/derekkinsman', label: 'Kickstarter' },
   { href: 'https://cohost.org/derekkinsman', label: 'Cohost' },
+  { href: 'https://vis.social/web/@derekkinsman', label: 'Mastodon - Vis.Social' },
   { href: 'https://www.goodreads.com/user/show/5449872-derek-kinsman', label: 'Goodreads' },
   { href: 'https://app.thestorygraph.com/profile/derekkinsman', label: 'The StoryGraph' },
   { href: 'http://instagram.com/derekkinsman', label: 'Instagram' },

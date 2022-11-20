@@ -80,6 +80,11 @@ const Contact = () => (
     <ul>
       {links.map(({ key, href, label }) => (
         <li key={key}>
+          {
+            label == 'Mastodon — Vis.Social'
+              ? <a target='_blank' rel='me'>{title}</a>
+              : <a target='_blank'>{title}</a>
+          }
           <a href={href}>{label}</a>
         </li>
       ))}

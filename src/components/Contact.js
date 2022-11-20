@@ -81,11 +81,11 @@ const Contact = () => (
       {links.map(({ key, href, label }) => (
         <li key={key}>
           {
-            label == 'Mastodon — Vis.Social'
-              ? <a target='_blank' rel='me'>{title}</a>
-              : <a target='_blank'>{title}</a>
+            label = 'Mastodon — Vis.Social'
+              ? <a href={href} target='_blank' rel='me'>{label}</a>
+              : <a href={href} target='_blank'>{label}</a>
           }
-          <a href={href}>{label}</a>
+          {/* <a href={href}>{label}</a> */}
         </li>
       ))}
     </ul>

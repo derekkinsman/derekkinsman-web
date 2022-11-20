@@ -32,7 +32,7 @@ const links = [
   { href: 'https://www.kickstarter.com/profile/derekkinsman', label: 'Kickstarter' },
   { href: 'https://discordapp.com/users/515576399369732097', label: 'Discord — Profile' },
   { href: 'https://cohost.org/derekkinsman', label: 'Cohost' },
-  { href: 'https://vis.social/web/@derekkinsman', label: 'Mastodon — Vis.Social' },
+  { href: 'https://vis.social/@derekkinsman', label: 'Mastodon' },
   { href: 'https://www.goodreads.com/user/show/5449872-derek-kinsman', label: 'Goodreads' },
   { href: 'https://app.thestorygraph.com/profile/derekkinsman', label: 'The StoryGraph' },
   { href: 'http://instagram.com/derekkinsman', label: 'Instagram' },
@@ -81,11 +81,10 @@ const Contact = () => (
       {links.map(({ key, href, label }) => (
         <li key={key}>
           {
-            label = 'Mastodon — Vis.Social'
+            label = 'Mastodon'
               ? <a href={href} target='_blank' rel='me'>{label}</a>
               : <a href={href} target='_blank'>{label}</a>
           }
-          {/* <a href={href}>{label}</a> */}
         </li>
       ))}
     </ul>

@@ -18,8 +18,6 @@ export default function Home() {
       <link rel="icon" type="image/png" href="/favicon-32.png" sizes="32x32" />
       <link rel="icon" type="image/png" href="/favicon-96.png" sizes="96x96" />
 
-      <link href="https://fonts.googleapis.com/css?family=Crimson+Text:400,400i,600,600i,700,700i&display=swap" rel="stylesheet" />
-
       <meta property="og:type" content="profile" />
       <meta property="og:title" content="Derek Kinsman" />
       <meta property="og:description" content="Rude mechanical. Maker of things." />
@@ -50,5 +48,3 @@ export default function Home() {
   </div>
   )
 }
-
-// export default Home

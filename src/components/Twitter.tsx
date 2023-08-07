@@ -1,12 +1,12 @@
-import React from 'react'
+import React from 'react';
 
 const tweets = [
-  { tweetId: '405174155760267265' },
+  { tweetId: '405174155760267265', key: '' },
   { tweetId: '405744509465526272' }
 ].map(link => {
-  link.key = `nav-link-${link.tweetId}`
-  return link
-})
+  link.key = `nav-link-${link.tweetId}`;
+  return link;
+});
 
 const Twitter = () => (
   <section>
@@ -63,6 +63,6 @@ const Twitter = () => (
       }
     `}</style>
   </section>
-)
+);
 
-export default Twitter
+export default Twitter;

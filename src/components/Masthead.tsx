@@ -1,9 +1,10 @@
-import React from 'react'
+import Image from 'next/image';
+import React from 'react';
 
 const Masthead = () => (
   <header>
-    <h1 className="logo-a"><img src="/logo-a.png" alt="Desktop Logo." /></h1>
-    <h1 className="logo-b"><img src="/logo-b.png" alt="Mobile Logo." /></h1>
+    <h1 className="logo-a"><Image src="/logo-a.png" alt="Desktop Logo." /></h1>
+    <h1 className="logo-b"><Image src="/logo-b.png" alt="Mobile Logo." /></h1>
 
     <style jsx>{`
       :global(html) {
@@ -83,6 +84,6 @@ const Masthead = () => (
       }
     `}</style>
   </header>
-)
+);
 
-export default Masthead
+export default Masthead;

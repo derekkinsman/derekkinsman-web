@@ -1,47 +1,47 @@
-import React from 'react'
+import React from 'react';
 
 const resume = [
-  { href: 'https://www.linkedin.com/in/derekkinsman/', label: 'LinkedIn' }
+  { href: 'https://www.linkedin.com/in/derekkinsman/', label: 'LinkedIn', key: '' }
 ].map(link => {
-  link.key = `nav-link-${link.href}-${link.label}`
-  return link
-})
+  link.key = `nav-link-${link.href}-${link.label}`;
+  return link;
+});
 
 const email = [
-  { href: 'mailto:derekkinsman@protonmail.com', label: 'derekkinsman@protonmail.com' }
+  { href: 'mailto:derekkinsman@protonmail.com', label: 'derekkinsman@protonmail.com', key: '' }
 ].map(link => {
-  link.key = `nav-link-${link.href}-${link.label}`
-  return link
-})
+  link.key = `nav-link-${link.href}-${link.label}`;
+  return link;
+});
 
 const phone = [
-  { href: 'tel:14163715652', label: '+1 (416) 371-5652' }
+  { href: 'tel:14163715652', label: '+1 (416) 371-5652', key: '' }
 ].map(link => {
-  link.key = `nav-link-${link.href}-${link.label}`
-  return link
-})
+  link.key = `nav-link-${link.href}-${link.label}`;
+  return link;
+});
 
 const links = [
-  { href: 'https://github.com/derekkinsman', label: 'Github' },
-  { href: 'https://www.producthunt.com/@derek_kinsman', label: 'ProductHunt' },
-  { href: 'https://medium.com/@derekkinsman', label: 'Medium' },
-  { href: 'http://www.meetup.com/members/104598882/', label: 'Meetup' },
-  { href: 'https://analogueplaypretend.games', label: 'Analogue Play Pretend Laboratory' },
-  { href: 'https://ko-fi.com/derekkinsman/shop', label: 'Ko-Fi RPG Shop' },
-  { href: 'https://derekkinsman.itch.io/', label: 'Itch' },
-  { href: 'https://www.kickstarter.com/profile/derekkinsman', label: 'Kickstarter' },
-  { href: 'https://discordapp.com/users/515576399369732097', label: 'Discord — Profile' },
-  { href: 'https://cohost.org/derekkinsman', label: 'Cohost' },
-  { href: 'https://vis.social/@derekkinsman', label: 'Mastodon' },
-  { href: 'https://www.goodreads.com/user/show/5449872-derek-kinsman', label: 'Goodreads' },
-  { href: 'https://app.thestorygraph.com/profile/derekkinsman', label: 'The StoryGraph' },
-  { href: 'http://instagram.com/derekkinsman', label: 'Instagram' },
-  { href: 'https://twitter.com/derekkinsman', label: 'Twitter — for now…' },
-  { href: 'https://www.facebook.com/derek.kinsman', label: 'Facebook — for now…' },
+  { href: 'https://github.com/derekkinsman', label: 'Github', key: '' },
+  { href: 'https://www.producthunt.com/@derek_kinsman', label: 'ProductHunt', key: '' },
+  { href: 'https://medium.com/@derekkinsman', label: 'Medium', key: '' },
+  { href: 'http://www.meetup.com/members/104598882/', label: 'Meetup', key: '' },
+  { href: 'https://analogueplaypretend.games', label: 'Analogue Play Pretend Laboratory', key: '' },
+  { href: 'https://ko-fi.com/derekkinsman/shop', label: 'Ko-Fi RPG Shop', key: '' },
+  { href: 'https://derekkinsman.itch.io/', label: 'Itch', key: '' },
+  { href: 'https://www.kickstarter.com/profile/derekkinsman', label: 'Kickstarter', key: '' },
+  { href: 'https://discordapp.com/users/515576399369732097', label: 'Discord — Profile', key: '' },
+  { href: 'https://cohost.org/derekkinsman', label: 'Cohost', key: '' },
+  { href: 'https://vis.social/@derekkinsman', label: 'Mastodon', key: '' },
+  { href: 'https://www.goodreads.com/user/show/5449872-derek-kinsman', label: 'Goodreads', key: '' },
+  { href: 'https://app.thestorygraph.com/profile/derekkinsman', label: 'The StoryGraph', key: '' },
+  { href: 'http://instagram.com/derekkinsman', label: 'Instagram', key: '' },
+  { href: 'https://twitter.com/derekkinsman', label: 'Twitter — for now…', key: '' },
+  { href: 'https://www.facebook.com/derek.kinsman', label: 'Facebook — for now…', key: '' },
 ].map(link => {
-  link.key = `nav-link-${link.href}-${link.label}`
-  return link
-})
+  link.key = `nav-link-${link.href}-${link.label}`;
+  return link;
+});
 
 const Contact = () => (
   <section>
@@ -133,6 +133,6 @@ const Contact = () => (
       }
     `}</style>
   </section>
-)
+);
 
-export default Contact
+export default Contact;

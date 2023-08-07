@@ -1,12 +1,12 @@
-import React from 'react'
-import Head from 'next/head'
-import Analogue from '../components/AnaloguePlayPretend'
-import Unttld from '../components/Unttld'
-import Biography from '../components/Biography'
-import Contact from '../components/Contact'
-import Footer from '../components/Footer'
-import Masthead from '../components/Masthead'
-import Twitter from '../components/Twitter'
+import React from 'react';
+import Head from 'next/head';
+import Analogue from '../components/AnaloguePlayPretend';
+import Unttld from '../components/Unttld';
+import Biography from '../components/Biography';
+import Contact from '../components/Contact';
+import Footer from '../components/Footer';
+import Masthead from '../components/Masthead';
+import Twitter from '../components/Twitter';
 
 export default function Home() {
 
@@ -46,5 +46,5 @@ export default function Home() {
 
     `}</style>
   </div>
-  )
+  );
 }

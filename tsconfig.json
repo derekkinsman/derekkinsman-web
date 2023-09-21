@@ -18,15 +18,34 @@
     "isolatedModules": true,
     "jsx": "preserve",
     "paths": {
-      "@components/*": ["./src/components/*"],
-      "@public/*": ["./public/*"],
-      "@styles/*": ["./src/styles/*"]
-    }
+      "@components/*": [
+        "./src/app/_components/*"
+      ],
+      "@lib/*": [
+        "./src/app/_lib/*"
+      ],
+      "@public/*": [
+        "./public/*"
+      ],
+      "@styles/*": [
+        "./src/styles/*"
+      ],
+      "@types": [
+        "./src/types/index.ts"
+      ],
+    },
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+    "strictNullChecks": true
   },
   "include": [
     "next-env.d.ts",
     "**/*.ts",
-    "**/*.tsx"
+    "**/*.tsx",
+    ".next/types/**/*.ts"
   ],
   "exclude": [
     "node_modules"

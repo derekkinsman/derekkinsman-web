@@ -45,6 +45,7 @@ Temporary Items
 # misc
 .DS_Store
 .env*
+!.env.sample
 
 # debug
 npm-debug.log*

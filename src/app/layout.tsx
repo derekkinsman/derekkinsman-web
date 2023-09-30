@@ -29,7 +29,7 @@ export default function DashboardLayout({
       <link rel="icon" type="image/png" href="https://derekkinsman.com/images/favicon/favicon-16.png" sizes="16x16" />
       <link rel="icon" type="image/png" href="https://derekkinsman.com/images/favicon/favicon-32.png" sizes="32x32" />
       <link rel="icon" type="image/png" href="https://derekkinsman.com/images/favicon/favicon-96.png" sizes="96x96" />
-    </Head>;
+    </Head>
     <section>{children}</section>
   </>;
 }

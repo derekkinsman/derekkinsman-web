@@ -1,36 +1,74 @@
-@import './vars.scss';
+@import '@styles/vars';
+@import '@styles/fonts';
 
-.seperator {
-    margin: 42px 0;
-    text-align: center;
+* {
+  font-size: 16px;
+  line-height: 24px;
+
+  @media only screen and (min-width: $max) {
+    font-size: 24px;
+    line-height: 32px;
+  }
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url('/assets/images/gradient.jpeg');
+  background-size: cover;
+}
+
+a {
+  color: $link;
+  text-decoration: none;
+  transition: color 0.5s ease;
+
+  &:hover {
+    color: $link-hover;
+  }
+}
+
+h2 {
+  font-family: $bold;
+  font-size: 1.0rem;
+
+  @media only screen and (min-width: calc($max * 0.25)) {
+    font-size: 1.1rem;
   }
 
-  footer {
-    font-size: 0.8rem;
-    line-height: 0.9rem;
-    text-align: center;
-    margin: 0 auto;
-    width: 50vw;
+  @media only screen and (min-width: calc($max * 0.5)) {
+    font-size: 1.4rem;
   }
 
-  .emoji {
-    margin-left: 5px;
-    margin-right: 0px;
-    vertical-align: middle;
+  @media only screen and (min-width: calc($max * 0.75)) {
+    font-size: 1.4rem;
   }
 
-  .logo {
-    height: 50px;
-    margin: 21px auto 42px;
+  @media only screen and (min-width: $max) {
+    font-size: 1.1rem;
+  }
+}
+
+h3 {
+  font-family: $bold-italic;
+  font-size: 1.0rem;
+
+  @media only screen and (min-width: calc($max * 0.25)) {
+    font-size: 1.1rem;
   }
 
-  @media screen and (max-width: 650px) {
-
-    footer {
-      width: 75vw;
-    }
-
-    .logo {
-      height: 50px;
-    }
+  @media only screen and (min-width: calc($max * 0.5)) {
+    font-size: 1.4rem;
   }
+
+  @media only screen and (min-width: calc($max * 0.75)) {
+    font-size: 1.4rem;
+  }
+
+  @media only screen and (min-width: $max) {
+    font-size: 1.1rem;
+  }
+}

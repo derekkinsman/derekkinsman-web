@@ -16,48 +16,48 @@ License: 	  The WebFont(s) listed in this document must follow the YouWorkForThe
 
 @font-face {
 	font-family: 'Analogue-Regular';
-	src:  url('@public/fonts/analogue/regular.eot');
-	src:  url('@public/fonts/analogue/regular.eot?#iefix') format('embedded-opentype'),
-        url('@public/fonts/analogue/regular.woff2') format('woff2'),
-	      url('@public/fonts/analogue/regular.woff') format('woff'),
-	      url('@public/fonts/analogue/regular.ttf') format('truetype'),
-	      url('@public/fonts/analogue/regular.svg#youworkforthem') format('svg');
+	src:  url('/assets/fonts/analogue/regular/regular.eot');
+	src:  url('/assets/fonts/analogue/regular/regular.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/analogue/regular/regular.woff2') format('woff2'),
+	      url('/assets/fonts/analogue/regular/regular.woff') format('woff'),
+	      url('/assets/fonts/analogue/regular/regular.ttf') format('truetype'),
+	      url('/assets/fonts/analogue/regular/regular.svg#youworkforthem') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'Analogue-Italic';
-	src:  url('@public/fonts/analogue/italic.eot');
-	src:  url('@public/fonts/analogue/italic.eot?#iefix') format('embedded-opentype'),
-        url('@public/fonts/analogue/italic.woff2') format('woff2'),
-	      url('@public/fonts/analogue/italic.woff') format('woff'),
-	      url('@public/fonts/analogue/italic.ttf') format('truetype'),
-	      url('@public/fonts/analogue/italic.svg#youworkforthem') format('svg');
+	src:  url('/assets/fonts/analogue/italic/italic.eot');
+	src:  url('/assets/fonts/analogue/italic/italic.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/analogue/italic/italic.woff2') format('woff2'),
+	      url('/assets/fonts/analogue/italic/italic.woff') format('woff'),
+	      url('/assets/fonts/analogue/italic/italic.ttf') format('truetype'),
+	      url('/assets/fonts/analogue/italic/italic.svg#youworkforthem') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'Analogue-Bold';
-	src:  url('@public/fonts/analogue/bold.eot');
-	src:  url('@public/fonts/analogue/bold.eot?#iefix') format('embedded-opentype'),
-        url('@public/fonts/analogue/bold.woff2') format('woff2'),
-	      url('@public/fonts/analogue/bold.woff') format('woff'),
-	      url('@public/fonts/analogue/bold.ttf') format('truetype'),
-	      url('@public/fonts/analogue/bold.svg#youworkforthem') format('svg');
+	src:  url('/assets/fonts/analogue/bold/bold.eot');
+	src:  url('/assets/fonts/analogue/bold/bold.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/analogue/bold/bold.woff2') format('woff2'),
+	      url('/assets/fonts/analogue/bold/bold.woff') format('woff'),
+	      url('/assets/fonts/analogue/bold/bold.ttf') format('truetype'),
+	      url('/assets/fonts/analogue/bold/bold.svg#youworkforthem') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'Analogue-BoldItalic';
-	src:  url('@public/fonts/analogue/bold-italic.eot');
-	src:  url('@public/fonts/analogue/bold-italic.eot?#iefix') format('embedded-opentype'),
-        url('@public/fonts/analogue/bold-italic.woff2') format('woff2'),
-	      url('@public/fonts/analogue/bold-italic.woff') format('woff'),
-	      url('@public/fonts/analogue/bold-italic.ttf') format('truetype'),
-	      url('@public/fonts/analogue/bold-italic.svg#youworkforthem') format('svg');
+	src:  url('/assets/fonts/analogue/bold-italic/bold-italic.eot');
+	src:  url('/assets/fonts/analogue/bold-italic/bold-italic.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/analogue/bold-italic/bold-italic.woff2') format('woff2'),
+	      url('/assets/fonts/analogue/bold-italic/bold-italic.woff') format('woff'),
+	      url('/assets/fonts/analogue/bold-italic/bold-italic.ttf') format('truetype'),
+	      url('/assets/fonts/analogue/bold-italic/bold-italic.svg#youworkforthem') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -80,12 +80,12 @@ License: 	  The WebFont(s) listed in this document must follow the YouWorkForThe
 
 @font-face {
 	font-family: 'PinkCoast';
-	src:  url('@public/fonts/pink-coast/pink-coast.eot');
-	src:  url('@public/fonts/pink-coast/pink-coast.eot?#iefix') format('embedded-opentype'),
-        url('@public/fonts/pink-coast/pink-coast.woff2') format('woff2'),
-	      url('@public/fonts/pink-coast/pink-coast.woff') format('woff'),
-	      url('@public/fonts/pink-coast/pink-coast.ttf') format('truetype'),
-	      url('@public/fonts/pink-coast/pink-coast.svg#youworkforthem') format('svg');
+	src:  url('/assets/fonts/pink-coast/pink-coast.eot');
+	src:  url('/assets/fonts/pink-coast/pink-coast.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/pink-coast/pink-coast.woff2') format('woff2'),
+	      url('/assets/fonts/pink-coast/pink-coast.woff') format('woff'),
+	      url('/assets/fonts/pink-coast/pink-coast.ttf') format('truetype'),
+	      url('/assets/fonts/pink-coast/pink-coast.svg#youworkforthem') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -107,60 +107,60 @@ License:    The WebFont(s) listed in this document must follow the YouWorkForThe
 */
 @font-face {
 	font-family: 'VivaKaiva-Thin';
-	src:  url('@public/fonts/viva-kaiva/100/viva-kaiva-thin.eot');
-	src:  url('@public/fonts/viva-kaiva/100/viva-kaiva-thin.eot?#iefix') format('embedded-opentype'),
-        url('@public/fonts/viva-kaiva/100/viva-kaiva-thin.woff2') format('woff2'),
-	      url('@public/fonts/viva-kaiva/100/viva-kaiva-thin.woff') format('woff'),
-	      url('@public/fonts/viva-kaiva/100/viva-kaiva-thin.ttf') format('truetype'),
-	      url('@public/fonts/viva-kaiva/100/viva-kaiva-thin.svg#youworkforthem') format('svg');
+	src:  url('/assets/fonts/viva-kaiva/100/viva-kaiva-thin.eot');
+	src:  url('/assets/fonts/viva-kaiva/100/viva-kaiva-thin.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/viva-kaiva/100/viva-kaiva-thin.woff2') format('woff2'),
+	      url('/assets/fonts/viva-kaiva/100/viva-kaiva-thin.woff') format('woff'),
+	      url('/assets/fonts/viva-kaiva/100/viva-kaiva-thin.ttf') format('truetype'),
+	      url('/assets/fonts/viva-kaiva/100/viva-kaiva-thin.svg#youworkforthem') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'VivaKaiva-Light';
-	src:  url('@public/fonts/viva-kaiva/300/viva-kaiva-light.eot');
-	src:  url('@public/fonts/viva-kaiva/300/viva-kaiva-light.eot?#iefix') format('embedded-opentype'),
-        url('@public/fonts/viva-kaiva/300/viva-kaiva-light.woff2') format('woff2'),
-	      url('@public/fonts/viva-kaiva/300/viva-kaiva-light.woff') format('woff'),
-	      url('@public/fonts/viva-kaiva/300/viva-kaiva-light.ttf') format('truetype'),
-	      url('@public/fonts/viva-kaiva/300/viva-kaiva-light.svg#youworkforthem') format('svg');
+	src:  url('/assets/fonts/viva-kaiva/300/viva-kaiva-light.eot');
+	src:  url('/assets/fonts/viva-kaiva/300/viva-kaiva-light.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/viva-kaiva/300/viva-kaiva-light.woff2') format('woff2'),
+	      url('/assets/fonts/viva-kaiva/300/viva-kaiva-light.woff') format('woff'),
+	      url('/assets/fonts/viva-kaiva/300/viva-kaiva-light.ttf') format('truetype'),
+	      url('/assets/fonts/viva-kaiva/300/viva-kaiva-light.svg#youworkforthem') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'VivaKaiva-Regular';
-	src:  url('@public/fonts/viva-kaiva/400/viva-kaiva-regular.eot');
-	src:  url('@public/fonts/viva-kaiva/400/viva-kaiva-regular.eot?#iefix') format('embedded-opentype'),
-        url('@public/fonts/viva-kaiva/400/viva-kaiva-regular.woff2') format('woff2'),
-	      url('@public/fonts/viva-kaiva/400/viva-kaiva-regular.woff') format('woff'),
-	      url('@public/fonts/viva-kaiva/400/viva-kaiva-regular.ttf') format('truetype'),
-	      url('@public/fonts/viva-kaiva/400/viva-kaiva-regular.svg#youworkforthem') format('svg');
+	src:  url('/assets/fonts/viva-kaiva/400/viva-kaiva-regular.eot');
+	src:  url('/assets/fonts/viva-kaiva/400/viva-kaiva-regular.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/viva-kaiva/400/viva-kaiva-regular.woff2') format('woff2'),
+	      url('/assets/fonts/viva-kaiva/400/viva-kaiva-regular.woff') format('woff'),
+	      url('/assets/fonts/viva-kaiva/400/viva-kaiva-regular.ttf') format('truetype'),
+	      url('/assets/fonts/viva-kaiva/400/viva-kaiva-regular.svg#youworkforthem') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'VivaKaiva-Medium';
-	src:  url('@public/fonts/viva-kaiva/500/viva-kaiva-medium.eot');
-	src:  url('@public/fonts/viva-kaiva/500/viva-kaiva-medium.eot?#iefix') format('embedded-opentype'),
-        url('@public/fonts/viva-kaiva/500/viva-kaiva-medium.woff2') format('woff2'),
-	      url('@public/fonts/viva-kaiva/500/viva-kaiva-medium.woff') format('woff'),
-	      url('@public/fonts/viva-kaiva/500/viva-kaiva-medium.ttf') format('truetype'),
-	      url('@public/fonts/viva-kaiva/500/viva-kaiva-medium.svg#youworkforthem') format('svg');
+	src:  url('/assets/fonts/viva-kaiva/500/viva-kaiva-medium.eot');
+	src:  url('/assets/fonts/viva-kaiva/500/viva-kaiva-medium.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/viva-kaiva/500/viva-kaiva-medium.woff2') format('woff2'),
+	      url('/assets/fonts/viva-kaiva/500/viva-kaiva-medium.woff') format('woff'),
+	      url('/assets/fonts/viva-kaiva/500/viva-kaiva-medium.ttf') format('truetype'),
+	      url('/assets/fonts/viva-kaiva/500/viva-kaiva-medium.svg#youworkforthem') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'VivaKaiva-Bold';
-	src:  url('@public/fonts/viva-kaiva/700/viva-kaiva-bold.eot');
-	src:  url('@public/fonts/viva-kaiva/700/viva-kaiva-bold.eot?#iefix') format('embedded-opentype'),
-        url('@public/fonts/viva-kaiva/700/viva-kaiva-bold.woff2') format('woff2'),
-	      url('@public/fonts/viva-kaiva/700/viva-kaiva-bold.woff') format('woff'),
-	      url('@public/fonts/viva-kaiva/700/viva-kaiva-bold.ttf') format('truetype'),
-	      url('@public/fonts/viva-kaiva/700/viva-kaiva-bold.svg#youworkforthem') format('svg');
+	src:  url('/assets/fonts/viva-kaiva/700/viva-kaiva-bold.eot');
+	src:  url('/assets/fonts/viva-kaiva/700/viva-kaiva-bold.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/viva-kaiva/700/viva-kaiva-bold.woff2') format('woff2'),
+	      url('/assets/fonts/viva-kaiva/700/viva-kaiva-bold.woff') format('woff'),
+	      url('/assets/fonts/viva-kaiva/700/viva-kaiva-bold.ttf') format('truetype'),
+	      url('/assets/fonts/viva-kaiva/700/viva-kaiva-bold.svg#youworkforthem') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }

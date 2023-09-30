@@ -2,8 +2,8 @@
 @import '@styles/utils';
 @import '@styles/fonts';
 
-.contact {
-  font-family: $regular;
+.kindness {
+  font-family: $italic;
   -moz-font-feature-settings: $settings;
   font-feature-settings: $settings;
 
@@ -20,16 +20,15 @@
   }
 }
 
-.contact h2,
-.contact h3 {
+.kindness h2 {
   margin: 0;
   margin-bottom: $devil;
   padding: 0;
 }
 
-.contact ul {
+.kindness ul {
   margin: 0;
-  margin-left: 0.5rem;
+  margin-left: $devil;
   padding: 0;
 
   @media only screen and (min-width: $max) {
@@ -37,33 +36,22 @@
   }
 }
 
-.contact li {
-  color: $magenta;
+.kindness li {
+  color: $black;
   list-style-type: circle;
+  margin-bottom: $devil;
   transition: all 0.5s ease;
+
+  &:last-of-type {
+    margin-bottom: 0;
+  }
 }
 
-.contact li:hover.work,
-.contact li:hover.hobby,
-.contact li:hover.personal {
-  list-style-type: disc;
-}
+.kindness a {
+  color: $magenta;
+  font-family: $regular;
 
-.contact li:hover.hobby,
-.contact li.hobby a:hover {
-  color: $link-hover-hobby;
-}
-
-.contact li:hover.personal,
-.contact li.personal a:hover {
-  color: $link-hover-personal;
-}
-
-.contact li:hover.work,
-.contact li.work a:hover {
-  color: $link-hover-work;
-}
-
-.contact a {
-  display: block;
+  &:hover {
+    color: $link-hover;
+  }
 }

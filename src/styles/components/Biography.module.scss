@@ -1,0 +1,38 @@
+@import '@styles/vars';
+@import '@styles/utils';
+@import '@styles/fonts';
+
+.biography {
+  font-family: $regular;
+  -moz-font-feature-settings: $settings;
+  font-feature-settings: $settings;
+
+  font-variant-ligatures: common-ligatures discretionary-ligatures contextual;
+
+  hyphens: auto;
+  text-align: justify;
+
+  margin: 0 $devil;
+
+  @media only screen and (min-width: $max) {
+    margin: calc($life * 0.5) 0 0 0;
+    max-width: 100%;
+  }
+}
+
+.biography em {
+  font-family: $italic;
+
+  strong {
+    color: $magenta;
+    background: linear-gradient(90deg, $magenta 0%, $cyan 100%);
+    font-family: $bold-italic;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+}
+
+.biography strong {
+  font-family: $bold;
+}

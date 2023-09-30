@@ -1,6 +1,8 @@
 import { performRequest } from '@lib/datocms';
 import Image from 'next/image';
 
+import masthead from '@styles/components/Masthead.module.scss';
+
 const MASTHEAD_CONTENT_QUERY = `
   query Masthead {
     internetWebsite {
@@ -53,12 +55,17 @@ export default async function Masthead() {
   });
 
   return <>
-    <h1>{internetWebsite.mast[0].title}</h1>
-    <Image
-      src={internetWebsite.mast[0].portrait.responsiveImage.src}
-      width={internetWebsite.mast[0].portrait.responsiveImage.width}
-      height={internetWebsite.mast[0].portrait.responsiveImage.height}
-      alt={internetWebsite.mast[0].portrait.responsiveImage.title}
-    />
+    <section className={masthead.masthead}>
+      <div className={masthead.wrapper}>
+        <h1 className={masthead.title}>{internetWebsite.mast[0].title}</h1>
+        <Image
+          className={masthead.photograph}
+          src={internetWebsite.mast[0].portrait.responsiveImage.src}
+          width={internetWebsite.mast[0].portrait.responsiveImage.width}
+          height={internetWebsite.mast[0].portrait.responsiveImage.height}
+          alt={internetWebsite.mast[0].portrait.responsiveImage.title}
+        />
+      </div>
+    </section>
   </>;
 };

@@ -1,6 +1,6 @@
 {
   "engines": {
-    "node": "~18.16",
+    "node": "~18.17",
     "yarn": "please-use-npm"
   },
   "name": "internet-website",

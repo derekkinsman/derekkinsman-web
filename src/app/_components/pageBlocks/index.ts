@@ -1,6 +1,6 @@
-export type { Biography } from './Biography';
-export type { Copyright } from './Copyright';
-export type { Elsewhere } from './Elsewhere';
-export type { Kindness } from './Kindness';
-export type { Masthead } from './Masthead';
-export type { Place } from './Place';
+export { Biography } from '@components/pageBlocks/Biography';
+export { Copyright } from '@components/pageBlocks/Copyright';
+export { Elsewhere } from '@components/pageBlocks/Elsewhere';
+export { Kindness } from '@components/pageBlocks/Kindness';
+export { Masthead } from '@components/pageBlocks/Masthead';
+export { Place } from '@components/pageBlocks/Place';

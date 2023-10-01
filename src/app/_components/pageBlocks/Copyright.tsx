@@ -4,13 +4,13 @@ import { StructuredText } from 'react-datocms/structured-text';
 
 import biography from '@styles/components/Biography.module.scss';
 
-interface BiographyProps extends CommonComponentProps {
+interface CopyrightProps extends CommonComponentProps {
   content: {
     value: StructuredTextGraphQlResponse;
   }
 }
 
-export const Biography = ({ content }: BiographyProps) => {
+export const Copyright = ({ content }: CopyrightProps) => {
 
   return <>
     <section className={biography.biography} lang="en-GB">

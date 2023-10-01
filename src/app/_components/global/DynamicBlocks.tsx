@@ -1,4 +1,4 @@
-// import * as ComponentBlock from '../pageBlocks';
+import * as ComponentBlock from '../pageBlocks';
 
 //eslint-disable-next-line
 export const DynamicBlocks = ({ blocks }: { blocks: any[] }) => {

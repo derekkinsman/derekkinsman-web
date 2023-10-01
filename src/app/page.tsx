@@ -1,14 +1,24 @@
-import Biography from '@components/pageBlocks/biography';
-import Contact from '@components/pageBlocks/contact';
-import Kindness from '@components/pageBlocks/kindness';
-import Masthead from '@components/pageBlocks/masthead';
+import { INTERNETWEBSITE_QUERY } from '@queries/internetWebsite';
+import { InternetWebsiteProps } from '@types';
+import { client } from '@lib/client';
+import { DynamicBlocks } from '@components/global/DynamicBlocks';
 
-export default async function Page() {
+export default async function Home({ 
+  params 
+}: { 
+  params: InternetWebsiteProps 
+}) {
+  const { page, _site } = await getInternetWebsite(params);
 
   return <>
-    <Masthead />
-    <Biography />
-    <Contact />
-    <Kindness />
+    <DynamicBlocks blocks={page.pageComponents} />
   </>;
+}
+
+async function getInternetWebsite(params: { slug: string }) {
+  const res = (await client({
+    query: INTERNETWEBSITE_QUERY,
+    // variables: { slug: params.slug },
+  })) as InternetWebsiteProps;
+  return res;
 }

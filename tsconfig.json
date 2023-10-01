@@ -24,6 +24,9 @@
       "@lib/*": [
         "./src/app/_lib/*"
       ],
+      "@queries/*": [
+        "./src/app/queries/*"
+      ],
       "@public/*": [
         "./public/*"
       ],

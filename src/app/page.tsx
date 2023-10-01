@@ -1,7 +1,7 @@
-import { INTERNETWEBSITE_QUERY } from '@queries/internetWebsite';
+import { INTERNETWEBSITE_QUERY } from '../queries/internetWebsite';
 import { InternetWebsiteProps } from '@types';
-import { client } from '@lib/client';
-import { DynamicBlocks } from '@components/global/DynamicBlocks';
+import { client } from '../lib/client';
+import { DynamicBlocks } from '../components/global/DynamicBlocks';
 
 export default async function Home({ 
   params 

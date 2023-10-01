@@ -19,13 +19,13 @@
     "jsx": "preserve",
     "paths": {
       "@components/*": [
-        "./src/app/_components/*"
+        "./src/components/*"
       ],
       "@lib/*": [
-        "./src/app/_lib/*"
+        "./src/lib/*"
       ],
       "@queries/*": [
-        "./src/app/queries/*"
+        "./src/queries/*"
       ],
       "@public/*": [
         "./public/*"

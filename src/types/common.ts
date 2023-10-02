@@ -1,3 +1,8 @@
+export interface InternetWebsiteLocaleProps {
+  _site: {
+    locales: string;
+  }
+}
 export interface InternetWebsiteProps {
   page: PageProps;
   _site: {
@@ -7,15 +12,15 @@ export interface InternetWebsiteProps {
     globalSeo: {
       siteName: string;
       titleSuffix: string;
+      twitterAccount: string;
       fallbackSeo: {
+        title: string;
+        twitterCard: string;
         description: string;
-        image: {
-          responsiveImage: {
-            src: string;
-          };
-        };
+        image: ImageProps;
       };
     };
+    locales: string;
   };
   slug: string;
 }

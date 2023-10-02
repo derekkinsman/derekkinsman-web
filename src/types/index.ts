@@ -1,3 +1,4 @@
+export type { InternetWebsiteLocaleProps } from './common';
 export type { InternetWebsiteProps } from './common';
 export type { PageProps } from './common';
 export type { CommonComponentProps } from './common';

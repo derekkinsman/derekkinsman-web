@@ -7,12 +7,15 @@ export const GLOBAL_QUERY = gql`
     }
     globalSeo {
       siteName
+      twitterAccount
       titleSuffix
       fallbackSeo {
         description
+        twitterCard
+        title
         image {
           responsiveImage(imgixParams: {w: 600}) {
-            src
+            ...ImageParams
           }
         }
       }

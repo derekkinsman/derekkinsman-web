@@ -10,6 +10,14 @@ import {
   Place
 } from './fragments';
 
+export const INTERNETWEBSITE_LOCALE_QUERY = gql`
+  query HomePage {
+    _site {
+      locales
+    }
+  }
+`;
+
 export const INTERNETWEBSITE_QUERY = gql`
   query HomePage {
     ${GLOBAL_QUERY}

@@ -13,7 +13,7 @@ interface BiographyProps extends CommonComponentProps {
 export const Biography = ({ content }: BiographyProps) => {
 
   return <>
-    <section className={biography.biography} lang="en-GB">
+    <section className={biography.biography}>
       <div className={biography.wrapper}>
         <StructuredText data={content.value} />
       </div>

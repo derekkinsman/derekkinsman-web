@@ -1,0 +1,39 @@
+@import '@styles/vars';
+@import '@styles/fonts';
+@import '@styles/utils';
+
+.place p {
+  font-family: $italic;
+  margin-bottom: 0;
+}
+
+.place li {
+  color: $magenta;
+  list-style-type: circle;
+  transition: all 0.5s ease;
+}
+
+.place li:hover.work,
+.place li:hover.hobby,
+.place li:hover.personal {
+  list-style-type: disc;
+}
+
+.place li:hover.hobby,
+.place li.hobby a:hover {
+  color: $link-hover-hobby;
+}
+
+.place li:hover.personal,
+.place li.personal a:hover {
+  color: $link-hover-personal;
+}
+
+.place li:hover.work,
+.place li.work a:hover {
+  color: $link-hover-work;
+}
+
+.place a {
+  display: block;
+}

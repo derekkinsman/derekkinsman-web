@@ -10,7 +10,7 @@ interface KindnessProps extends CommonComponentProps {
 export const Kindness = ({ title, content }: KindnessProps) => {
 
   return <>
-    <section className={kindness.kindness}>
+    <section className={`${kindness.component} ${kindness.kindness}`}>
       <div className={kindness.wrapper}>
         <h2>{title}</h2>
 

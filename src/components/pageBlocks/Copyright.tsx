@@ -2,7 +2,7 @@ import { CommonComponentProps } from '@types';
 import { StructuredTextGraphQlResponse } from 'react-datocms';
 import { StructuredText } from 'react-datocms/structured-text';
 
-import biography from '@styles/components/Biography.module.scss';
+import copyright from '@styles/components/Copyright.module.scss';
 
 interface CopyrightProps extends CommonComponentProps {
   content: {
@@ -13,8 +13,8 @@ interface CopyrightProps extends CommonComponentProps {
 export const Copyright = ({ content }: CopyrightProps) => {
 
   return <>
-    <section className={biography.biography} lang="en-GB">
-      <div className={biography.wrapper}>
+    <section className={`${copyright.component} ${copyright.copyright}`}>
+      <div className={copyright.wrapper}>
         <StructuredText data={content.value} />
       </div>
     </section>

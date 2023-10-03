@@ -10,9 +10,9 @@ export const DynamicBlocks = ({ blocks }: { blocks: any[] }) => {
         const PageBlock = ComponentBlock[componentName];
 
         return (
-          <section key={block.id} className={`component__${componentName}`}>
-            <PageBlock {...block} />
-          </section>
+          // <section key={block.id} className={`component__${componentName}`}>
+          <PageBlock key={block.id} {...block} />
+          // </section>
         );
       })}
     </>

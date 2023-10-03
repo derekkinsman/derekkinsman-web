@@ -11,7 +11,7 @@ interface MastheadProps extends CommonComponentProps {
 
 export const Masthead = ({ title, portrait }: MastheadProps) => {
   return <>
-    <section className={masthead.masthead}>
+    <section className={`${masthead.component} ${masthead.masthead}`}>
       <div className={masthead.wrapper}>
         <h1 className={masthead.title}>{title}</h1>
         <Image

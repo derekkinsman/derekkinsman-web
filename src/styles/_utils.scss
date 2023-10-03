@@ -1,3 +1,24 @@
+@import '@styles/vars';
+@import '@styles/fonts';
+
+.component {
+  font-family: $regular;
+  -moz-font-feature-settings: $settings;
+  font-feature-settings: $settings;
+
+  font-variant-ligatures: common-ligatures discretionary-ligatures contextual;
+
+  hyphens: auto;
+  text-align: justify;
+
+  margin: 0 calc($devil * 2);
+
+  @media only screen and (min-width: $max) {
+    margin: 0;
+    max-width: 100%;
+  }
+}
+
 .wrapper {
   @media only screen and (min-width: $max) {
     margin: 0 auto;

@@ -1,19 +1,18 @@
 @import '@styles/vars';
 @import '@styles/fonts';
-
-* {
-  font-size: 16px;
-  line-height: 24px;
-
-  @media only screen and (min-width: $max) {
-    font-size: 24px;
-    line-height: 32px;
-  }
-}
+@import '@styles/utils';
 
 html, body {
   margin: 0;
   padding: 0;
+
+  font-size: 16px;
+  line-height: $line-height;
+
+  @media only screen and (min-width: $max) {
+    font-size: 24px;
+    line-height: $line-height;
+  }
 }
 
 body {
@@ -31,21 +30,20 @@ a {
   }
 }
 
-h2 {
+h1 {
   font-family: $bold;
-  font-size: 1.0rem;
+  font-size: 1.6rem;
 
-  @media only screen and (min-width: calc($max * 0.25)) {
-    font-size: 1.1rem;
+  @media only screen and (min-width: $max) {
+    font-size: 2rem;
   }
+}
 
-  @media only screen and (min-width: calc($max * 0.5)) {
-    font-size: 1.4rem;
-  }
+h2 {
+  margin: $line-height-half 0;
 
-  @media only screen and (min-width: calc($max * 0.75)) {
-    font-size: 1.4rem;
-  }
+  font-family: $bold;
+  font-size: 1.2rem;
 
   @media only screen and (min-width: $max) {
     font-size: 1.1rem;
@@ -71,4 +69,48 @@ h3 {
   @media only screen and (min-width: $max) {
     font-size: 1.1rem;
   }
+}
+
+p {
+  font-size: 1rem;
+  margin: 0;
+  margin-bottom: $line-height;
+  padding: 0;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+ul {
+  margin: 0;
+  margin-left: 1rem;
+  padding: 0;
+
+  @media only screen and (min-width: $max) {
+    margin-left: 0;
+  }
+}
+
+li {
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+em {
+  font-family: $italic;
+
+  strong {
+    color: $magenta;
+    background: linear-gradient(90deg, $magenta 0%, $cyan 100%);
+    font-family: $bold-italic;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+}
+
+strong {
+  font-family: $bold;
 }

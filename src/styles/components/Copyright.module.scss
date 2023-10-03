@@ -1,0 +1,21 @@
+@import '@styles/vars';
+@import '@styles/fonts';
+@import '@styles/utils';
+
+.copyright {
+  margin-top: calc($line-height * 1);
+  margin-bottom: calc($line-height * 4);
+}
+
+.copyright p {
+  font-family: $italic;
+  font-size: 0.75rem;
+  line-height: 1.25rem;
+  margin-bottom: 0;
+  text-align: center;
+
+  @media only screen and (min-width: $max) {
+    font-size: 0.75rem;
+    line-height: $line-height;
+  }
+}

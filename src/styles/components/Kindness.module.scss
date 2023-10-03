@@ -1,45 +1,15 @@
 @import '@styles/vars';
-@import '@styles/utils';
 @import '@styles/fonts';
+@import '@styles/utils';
 
 .kindness {
   font-family: $italic;
-  -moz-font-feature-settings: $settings;
-  font-feature-settings: $settings;
-
-  font-variant-ligatures: common-ligatures discretionary-ligatures contextual;
-
-  hyphens: auto;
-  text-align: left;
-
-  margin: 0 $devil;
-
-  @media only screen and (min-width: $max) {
-    margin: calc($life * 0.5) 0 0 0;
-    max-width: 100%;
-  }
-}
-
-.kindness h2 {
-  margin: 0;
-  margin-bottom: $devil;
-  padding: 0;
-}
-
-.kindness ul {
-  margin: 0;
-  margin-left: $devil;
-  padding: 0;
-
-  @media only screen and (min-width: $max) {
-    margin-left: 0;
-  }
 }
 
 .kindness li {
   color: $black;
   list-style-type: circle;
-  margin-bottom: $devil;
+  margin-bottom: $line-height-half;
   transition: all 0.5s ease;
 
   &:last-of-type {

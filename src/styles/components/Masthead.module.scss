@@ -1,50 +1,24 @@
 @import '@styles/vars';
-@import '@styles/utils';
 @import '@styles/fonts';
+@import '@styles/utils';
 
 .masthead {
-  margin: $life 0 $devil;
+  margin-top: $life;
 
   @media only screen and (min-width: $max) {
-    margin: calc($life * 2) 0 calc($life * 0.5);
-    width: 100%;
   }
 }
 
 .title {
-  font-family: $bold;
-  -moz-font-feature-settings: $settings;
-  font-feature-settings: $settings;
-  font-size: 1.4rem;
-
   margin: 0;
-  margin-bottom: $devil;
-  margin-left: $devil;
-
-  @media only screen and (min-width: calc($max * 0.25)) {
-    font-size: 1.6rem;
-  }
-
-  @media only screen and (min-width: calc($max * 0.5)) {
-    font-size: 1.8rem;
-  }
-
-  @media only screen and (min-width: calc($max * 0.75)) {
-    font-size: 1.9rem;
-  }
-
-  @media only screen and (min-width: $max) {
-    font-size: 2rem;
-    margin-bottom: calc($life * 0.5);
-    margin-left: 0;
-  }
 }
 
 .photograph {
   box-sizing: border-box;
   height: auto;
   max-width: 100%;
-  padding: 0 $devil;
+  padding: 0;
+  margin: $line-height 0;
 
   @media only screen and (min-width: $max) {
     padding: 0;

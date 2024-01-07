@@ -7,16 +7,35 @@
   margin-bottom: 0;
 }
 
+.place ul {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: start;
+}
+
 .place li {
-  color: $magenta;
-  list-style-type: circle;
+  // color: $magenta;
+  color: $link;
+  list-style-type: none;
+  margin-right: 10px;
+  margin-left: 0;
+  padding-left: 0;
   transition: all 0.5s ease;
+
+  &:last-child {
+    a {
+      &:after {
+        content: '';
+      }
+    }
+  }
 }
 
 .place li:hover.work,
 .place li:hover.hobby,
 .place li:hover.personal {
-  list-style-type: disc;
+  list-style-type: none;
 }
 
 .place li:hover.hobby,
@@ -36,4 +55,14 @@
 
 .place a {
   display: block;
+
+  &:after {
+    content: ',';
+  }
+
+  // &:last-child {
+  //   &:after {
+  //     content: '';
+  //   }
+  // }
 }

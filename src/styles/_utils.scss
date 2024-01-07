@@ -14,14 +14,24 @@
   margin: 0 calc($devil * 2);
 
   @media only screen and (min-width: $max) {
+    text-align: left;
     margin: 0;
-    max-width: 100%;
+    max-width: 70%;
   }
+
+  @media only screen and (min-width: $super-max) {
+    margin: 0;
+    max-width: 60%;
+  }
+}
+
+.textblock {
+  margin-bottom: $line-height;
 }
 
 .wrapper {
   @media only screen and (min-width: $max) {
-    margin: 0 auto;
+    // margin: 0 auto;
     padding: 0 calc($life * 0.5);
     max-width: $max;
   }

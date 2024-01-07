@@ -1,8 +1,8 @@
 import type { Metadata, ResolvingMetadata } from 'next';
-import { INTERNETWEBSITE_QUERY } from '../queries/internetWebsite';
+import { INTERNETWEBSITE_QUERY } from '@queries/internetWebsite';
 import { InternetWebsiteProps } from '@types';
-import { client } from '../lib/client';
-import { DynamicBlocks } from '../components/global/DynamicBlocks';
+import { client } from '@lib/client';
+import { DynamicBlocks } from '@components/global/DynamicBlocks';
 
 export async function generateMetadata({
   params

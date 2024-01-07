@@ -15,6 +15,7 @@ export const Copyright = ({ content }: CopyrightProps) => {
   return <>
     <section className={`${copyright.component} ${copyright.copyright}`}>
       <div className={copyright.wrapper}>
+        <div className={`${copyright.horizontalrule}`}></div>
         <StructuredText data={content.value} />
       </div>
     </section>

@@ -1,6 +1,6 @@
-import { INTERNETWEBSITE_LOCALE_QUERY } from '../queries/internetWebsite';
+import { INTERNETWEBSITE_LOCALE_QUERY } from '@queries/internetWebsite';
 import { InternetWebsiteLocaleProps } from '@types';
-import { client } from '../lib/client';
+import { client } from '@lib/client';
 import '@styles/_base.scss';
 
 export default async function Layout({

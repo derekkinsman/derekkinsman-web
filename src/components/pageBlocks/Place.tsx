@@ -14,7 +14,7 @@ interface PlaceProps extends CommonComponentProps {
 export const Place = ({ title, description, content }: PlaceProps) => {
 
   return <>
-    <section className={`${place.component} ${place.place}`}>
+    <section className={`${place.component} ${place.textblock} ${place.place}`}>
       <div className={place.wrapper}>
         <h2>{title}</h2>
         <StructuredText data={description.value} />

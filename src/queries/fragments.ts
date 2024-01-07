@@ -27,8 +27,10 @@ export const Elsewhere = gql`
       description {
         value
       }
+      link
+      classname
       backgroundImage {
-        responsiveImage(imgixParams: { w: 1500 }) {
+        responsiveImage(imgixParams: { w: 400 }) {
           ...ImageParams
         }
       }

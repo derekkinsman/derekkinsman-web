@@ -1,3 +1,5 @@
+import { StructuredTextGraphQlResponse } from 'react-datocms';
+
 export interface InternetWebsiteLocaleProps {
   _site: {
     locales: string;
@@ -35,10 +37,14 @@ export interface CommonComponentProps {
 }
 
 export interface ElsewhereLinkProps {
-  socialId: string;
+  id: string;
   title: string;
-  description: string;
+  description: {
+    value: StructuredTextGraphQlResponse;
+  };
   link: string;
+  classname: string;
+  backgroundImage: ImageProps;
 }
 
 export interface KindnessLinkProps {

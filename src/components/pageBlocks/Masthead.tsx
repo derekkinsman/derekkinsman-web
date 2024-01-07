@@ -6,7 +6,6 @@ import masthead from '@styles/components/Masthead.module.scss';
 interface MastheadProps extends CommonComponentProps {
   title: string;
   portrait: ImageProps;
-
 }
 
 export const Masthead = ({ title, portrait }: MastheadProps) => {

@@ -16,8 +16,11 @@ html, body {
 }
 
 body {
+  background-blend-mode:luminosity;
+  background-color: $background-alt;
   background-image: url('/assets/images/gradient.jpeg');
   background-size: cover;
+  color: $k-black;
 }
 
 a {
@@ -31,6 +34,7 @@ a {
 }
 
 h1 {
+  color: $cbc-vintage-red;
   font-family: $bold;
   font-size: 1.6rem;
 

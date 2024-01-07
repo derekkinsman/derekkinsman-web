@@ -1,36 +1,120 @@
-@import './vars.scss';
+@import '@styles/vars';
+@import '@styles/fonts';
+@import '@styles/utils';
 
-.seperator {
-    margin: 42px 0;
-    text-align: center;
+html, body {
+  margin: 0;
+  padding: 0;
+
+  font-size: 16px;
+  line-height: $line-height;
+
+  @media only screen and (min-width: $max) {
+    font-size: 24px;
+    line-height: $line-height;
+  }
+}
+
+body {
+  background-blend-mode:luminosity;
+  background-color: $background-alt;
+  background-image: url('/assets/images/gradient.jpeg');
+  background-size: cover;
+  color: $k-black;
+}
+
+a {
+  color: $link;
+  text-decoration: none;
+  transition: color 0.5s ease;
+
+  &:hover {
+    color: $link-hover;
+  }
+}
+
+h1 {
+  color: $cbc-vintage-red;
+  font-family: $bold;
+  font-size: 1.6rem;
+
+  @media only screen and (min-width: $max) {
+    font-size: 2rem;
+  }
+}
+
+h2 {
+  margin: $line-height-half 0;
+
+  font-family: $bold;
+  font-size: 1.2rem;
+
+  @media only screen and (min-width: $max) {
+    font-size: 1.1rem;
+  }
+}
+
+h3 {
+  font-family: $bold-italic;
+  font-size: 1.0rem;
+
+  @media only screen and (min-width: calc($max * 0.25)) {
+    font-size: 1.1rem;
   }
 
-  footer {
-    font-size: 0.8rem;
-    line-height: 0.9rem;
-    text-align: center;
-    margin: 0 auto;
-    width: 50vw;
+  @media only screen and (min-width: calc($max * 0.5)) {
+    font-size: 1.4rem;
   }
 
-  .emoji {
-    margin-left: 5px;
-    margin-right: 0px;
-    vertical-align: middle;
+  @media only screen and (min-width: calc($max * 0.75)) {
+    font-size: 1.4rem;
   }
 
-  .logo {
-    height: 50px;
-    margin: 21px auto 42px;
+  @media only screen and (min-width: $max) {
+    font-size: 1.1rem;
   }
+}
 
-  @media screen and (max-width: 650px) {
+p {
+  font-size: 1rem;
+  margin: 0;
+  margin-bottom: $line-height;
+  padding: 0;
 
-    footer {
-      width: 75vw;
-    }
-
-    .logo {
-      height: 50px;
-    }
+  &:last-child {
+    margin-bottom: 0;
   }
+}
+
+ul {
+  margin: 0;
+  margin-left: 1rem;
+  padding: 0;
+
+  @media only screen and (min-width: $max) {
+    margin-left: 0;
+  }
+}
+
+li {
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+em {
+  font-family: $italic;
+
+  strong {
+    color: $magenta;
+    background: linear-gradient(90deg, $magenta 0%, $cyan 100%);
+    font-family: $bold-italic;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+}
+
+strong {
+  font-family: $bold;
+}

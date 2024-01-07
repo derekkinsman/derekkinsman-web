@@ -1,0 +1,230 @@
+@font-face {
+	font-family: 'Briar-Display';
+	src:  url('/assets/fonts/briar-display.otf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+/*
+Font: 		  HV Analogue
+Style: 		  Regular, Italic, Bold, Bold Italic
+URL: 		    https://youworkforthem.com/font/T17220/analogue
+Foundry: 	  Harmonais Visual
+Foundry: 	  https://youworkforthem.com/designer/1272/harmonais-visual
+Copyright:	
+Version: 	  17
+Created:	  April 11, 2023
+License: 	  https://www.youworkforthem.com/font-license 
+License: 	  The WebFont(s) listed in this document must follow the YouWorkForThem
+			      WebFont license rules. All other parties are strictly restricted 
+			      from using the WebFonts(s) listed without a purchased license. 
+			      All details above must always remain unaltered and visible in your CSS.
+*/
+
+@font-face {
+	font-family: 'Analogue-Regular';
+	src:  url('/assets/fonts/analogue/regular/regular.eot');
+	src:  url('/assets/fonts/analogue/regular/regular.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/analogue/regular/regular.woff2') format('woff2'),
+	      url('/assets/fonts/analogue/regular/regular.woff') format('woff'),
+	      url('/assets/fonts/analogue/regular/regular.ttf') format('truetype'),
+	      url('/assets/fonts/analogue/regular/regular.svg#youworkforthem') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Analogue-Italic';
+	src:  url('/assets/fonts/analogue/italic/italic.eot');
+	src:  url('/assets/fonts/analogue/italic/italic.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/analogue/italic/italic.woff2') format('woff2'),
+	      url('/assets/fonts/analogue/italic/italic.woff') format('woff'),
+	      url('/assets/fonts/analogue/italic/italic.ttf') format('truetype'),
+	      url('/assets/fonts/analogue/italic/italic.svg#youworkforthem') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Analogue-Bold';
+	src:  url('/assets/fonts/analogue/bold/bold.eot');
+	src:  url('/assets/fonts/analogue/bold/bold.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/analogue/bold/bold.woff2') format('woff2'),
+	      url('/assets/fonts/analogue/bold/bold.woff') format('woff'),
+	      url('/assets/fonts/analogue/bold/bold.ttf') format('truetype'),
+	      url('/assets/fonts/analogue/bold/bold.svg#youworkforthem') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Analogue-BoldItalic';
+	src:  url('/assets/fonts/analogue/bold-italic/bold-italic.eot');
+	src:  url('/assets/fonts/analogue/bold-italic/bold-italic.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/analogue/bold-italic/bold-italic.woff2') format('woff2'),
+	      url('/assets/fonts/analogue/bold-italic/bold-italic.woff') format('woff'),
+	      url('/assets/fonts/analogue/bold-italic/bold-italic.ttf') format('truetype'),
+	      url('/assets/fonts/analogue/bold-italic/bold-italic.svg#youworkforthem') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+/*
+Font: 		P22 Numismatic
+Style: 		Regular
+URL: 		https://www.youworkforthem.com/font/T2950/p22-numismatic
+Foundry: 	IHOF
+Foundry: 	https://www.youworkforthem.com/designer/202/ihof
+Copyright:	Copyright (c) P22 type foundry, 2005. All rights reserved.
+Version: 	17
+Created:	March 20, 2015
+License: 	https://www.youworkforthem.com/font-license 
+License: 	The WebFont(s) listed in this document must follow the YouWorkForThem
+			WebFont license rules. All other parties are strictly restricted 
+			from using the WebFonts(s) listed without a purchased license. 
+			All details above must always remain unaltered and visible in your CSS.
+*/
+
+@font-face {
+	font-family: 'P22Numismatic';
+	src:  url('/assets/fonts/numismatic/p22-numismatic.eot');
+	src:  url('/assets/fonts/numismatic/p22-numismatic.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/numismatic/p22-numismatic.woff2') format('woff2'),
+	      url('/assets/fonts/numismatic/p22-numismatic.woff') format('woff'),
+	      url('/assets/fonts/numismatic/p22-numismatic.ttf') format('truetype'),
+	      url('/assets/fonts/numismatic/p22-numismatic.svg#youworkforthem') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+/*
+Font: 		  Pink Coast
+Style: 		  Regular
+URL: 		    https://www.youworkforthem.com/font/T11676/pink-coast
+Foundry: 	  Eko Setiawan
+Foundry: 	  https://www.youworkforthem.com/designer/1196/eko-setiawan
+Copyright:	Copyright (c) 2019 by Emyself design. All rights reserved.
+Version: 	  17
+Created:	  December 16, 2019
+License: 	  https://www.youworkforthem.com/font-license 
+License: 	  The WebFont(s) listed in this document must follow the YouWorkForThem
+			      WebFont license rules. All other parties are strictly restricted 
+			      from using the WebFonts(s) listed without a purchased license. 
+			      All details above must always remain unaltered and visible in your CSS.
+*/
+
+@font-face {
+	font-family: 'PinkCoast';
+	src:  url('/assets/fonts/pink-coast/pink-coast.eot');
+	src:  url('/assets/fonts/pink-coast/pink-coast.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/pink-coast/pink-coast.woff2') format('woff2'),
+	      url('/assets/fonts/pink-coast/pink-coast.woff') format('woff'),
+	      url('/assets/fonts/pink-coast/pink-coast.ttf') format('truetype'),
+	      url('/assets/fonts/pink-coast/pink-coast.svg#youworkforthem') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+/*
+Font: 		Embro
+Style: 		Bold
+URL: 		https://www.youworkforthem.com/font/T11802/embro
+Foundry: 	Flatface
+Foundry: 	https://www.youworkforthem.com/designer/1325/flatface
+Copyright:	Copyright © 2019 by Andi Ibrahim . All rights reserved.
+Version: 	17
+Created:	January 23, 2020
+License: 	https://www.youworkforthem.com/font-license 
+License: 	The WebFont(s) listed in this document must follow the YouWorkForThem
+			WebFont license rules. All other parties are strictly restricted 
+			from using the WebFonts(s) listed without a purchased license. 
+			All details above must always remain unaltered and visible in your CSS.
+*/
+
+@font-face {
+	font-family: 'Embro';
+	src:  url('/assets/fonts/embro/embro-bold.eot');
+	src:  url('/assets/fonts/embro/embro-bold.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/embro/embro-bold.woff2') format('woff2'),
+	      url('/assets/fonts/embro/embro-bold.woff') format('woff'),
+	      url('/assets/fonts/embro/embro-bold.ttf') format('truetype'),
+	      url('/assets/fonts/embro/embro-bold.svg#youworkforthem') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+/*
+Font:       Viva Kaiva
+Styles:     Thin, Light, Regular, Medium, Bold
+URL:        https://www.youworkforthem.com/font/T13789/viva-kaiva
+Foundry:    Kadek Mahardika
+Foundry:    https://www.youworkforthem.com/designer/1418/kadek-mahardika
+Copyright:  Copyright © 2021 by Kadek Mahardika. All rights reserved.
+Version:    17
+Created:    March 07, 2021
+License:    https://www.youworkforthem.com/font-license 
+License:    The WebFont(s) listed in this document must follow the YouWorkForThem
+            WebFont license rules. All other parties are strictly restricted 
+            from using the WebFonts(s) listed without a purchased license. 
+            All details above must always remain unaltered and visible in your CSS.
+*/
+@font-face {
+	font-family: 'VivaKaiva-Thin';
+	src:  url('/assets/fonts/viva-kaiva/100/viva-kaiva-thin.eot');
+	src:  url('/assets/fonts/viva-kaiva/100/viva-kaiva-thin.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/viva-kaiva/100/viva-kaiva-thin.woff2') format('woff2'),
+	      url('/assets/fonts/viva-kaiva/100/viva-kaiva-thin.woff') format('woff'),
+	      url('/assets/fonts/viva-kaiva/100/viva-kaiva-thin.ttf') format('truetype'),
+	      url('/assets/fonts/viva-kaiva/100/viva-kaiva-thin.svg#youworkforthem') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'VivaKaiva-Light';
+	src:  url('/assets/fonts/viva-kaiva/300/viva-kaiva-light.eot');
+	src:  url('/assets/fonts/viva-kaiva/300/viva-kaiva-light.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/viva-kaiva/300/viva-kaiva-light.woff2') format('woff2'),
+	      url('/assets/fonts/viva-kaiva/300/viva-kaiva-light.woff') format('woff'),
+	      url('/assets/fonts/viva-kaiva/300/viva-kaiva-light.ttf') format('truetype'),
+	      url('/assets/fonts/viva-kaiva/300/viva-kaiva-light.svg#youworkforthem') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'VivaKaiva-Regular';
+	src:  url('/assets/fonts/viva-kaiva/400/viva-kaiva-regular.eot');
+	src:  url('/assets/fonts/viva-kaiva/400/viva-kaiva-regular.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/viva-kaiva/400/viva-kaiva-regular.woff2') format('woff2'),
+	      url('/assets/fonts/viva-kaiva/400/viva-kaiva-regular.woff') format('woff'),
+	      url('/assets/fonts/viva-kaiva/400/viva-kaiva-regular.ttf') format('truetype'),
+	      url('/assets/fonts/viva-kaiva/400/viva-kaiva-regular.svg#youworkforthem') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'VivaKaiva-Medium';
+	src:  url('/assets/fonts/viva-kaiva/500/viva-kaiva-medium.eot');
+	src:  url('/assets/fonts/viva-kaiva/500/viva-kaiva-medium.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/viva-kaiva/500/viva-kaiva-medium.woff2') format('woff2'),
+	      url('/assets/fonts/viva-kaiva/500/viva-kaiva-medium.woff') format('woff'),
+	      url('/assets/fonts/viva-kaiva/500/viva-kaiva-medium.ttf') format('truetype'),
+	      url('/assets/fonts/viva-kaiva/500/viva-kaiva-medium.svg#youworkforthem') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'VivaKaiva-Bold';
+	src:  url('/assets/fonts/viva-kaiva/700/viva-kaiva-bold.eot');
+	src:  url('/assets/fonts/viva-kaiva/700/viva-kaiva-bold.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/viva-kaiva/700/viva-kaiva-bold.woff2') format('woff2'),
+	      url('/assets/fonts/viva-kaiva/700/viva-kaiva-bold.woff') format('woff'),
+	      url('/assets/fonts/viva-kaiva/700/viva-kaiva-bold.ttf') format('truetype'),
+	      url('/assets/fonts/viva-kaiva/700/viva-kaiva-bold.svg#youworkforthem') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}

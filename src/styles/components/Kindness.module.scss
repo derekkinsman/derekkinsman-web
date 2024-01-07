@@ -1,0 +1,27 @@
+@import '@styles/vars';
+@import '@styles/fonts';
+@import '@styles/utils';
+
+.kindness {
+  font-family: $italic;
+}
+
+.kindness li {
+  color: $black;
+  list-style-type: circle;
+  margin-bottom: $line-height-half;
+  transition: all 0.5s ease;
+
+  &:last-of-type {
+    margin-bottom: 0;
+  }
+}
+
+.kindness a {
+  // color: $magenta;
+  font-family: $regular;
+
+  &:hover {
+    color: $link-hover;
+  }
+}

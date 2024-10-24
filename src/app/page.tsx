@@ -3,6 +3,7 @@ import { INTERNETWEBSITE_QUERY } from '@queries/internetWebsite';
 import { InternetWebsiteProps } from '@types';
 import { client } from '@lib/client';
 import { DynamicBlocks } from '@components/global/DynamicBlocks';
+import { ButtonDownEmail } from '@components/global/ButtonDownEmail';
 
 export async function generateMetadata({
   params
@@ -40,6 +41,17 @@ export async function generateMetadata({
   };
 }
 
+const ButtonDownData = {
+  __typename: 'Buttondown',
+  id: '001',
+  ButtonDown: {
+    action: 'https://buttondown.email/api/emails/embed-subscribe/derekkinsman',
+    formLabel: 'Want some occassional mail?',
+    referrerLink: 'https://buttondown.email/refer/derekkinsman',
+    referrerLabel: 'Powered by Buttondown.'
+  }
+};
+
 export default async function Home({ 
   params 
 }: { 
@@ -49,6 +61,7 @@ export default async function Home({
 
   return <>
     <DynamicBlocks blocks={page.pageComponents} />
+    {/* <ButtonDownEmail {...ButtonDownData} /> */}
   </>;
 }
 

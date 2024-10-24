@@ -1,0 +1,47 @@
+@import '@styles/vars';
+@import '@styles/fonts';
+@import '@styles/utils';
+
+.buttondown {
+  margin: 0;
+  margin-bottom: calc($line-height * 4);
+
+  input {
+    border-color: transparent;
+    border-radius: 25px;
+    border-width: 1px;
+    box-sizing: border-box;
+    font-family: $regular;
+    height: 50px;
+    outline: none;
+    padding: 5px 20px;
+    width: 100%;
+  }
+
+  input[type='email'] {
+    color: $k-black;
+    margin-bottom: 10px;
+  }
+
+  input[type='submit'] {
+    background: linear-gradient(90deg, $magenta 0%, $cyan 100%);
+    color: $background-alt;
+    font-family: $bold;
+    text-transform: uppercase;
+    transition: color 0.5s ease;
+
+    &:hover {
+      background: linear-gradient(90deg, rgba(227, 133, 180, 0.8) 0%, rgba(104, 204, 242, 0.8) 100%);
+      color: $synth-1;
+      cursor: pointer;
+    }
+  }
+
+  label, p {
+    color: $k-black;
+    display: block;
+    font-family: $italic;
+    font-size: 0.75rem;
+    text-align: center;
+  }
+}

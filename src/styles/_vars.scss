@@ -19,10 +19,14 @@ $link-hover-work: $link-hover;
 
 // FONT FAMILIES
 $fallback: Helvetica, Arial, Sans-Serif;
-$regular: 'Analogue-Regular', $fallback;
-$italic: 'Analogue-Italic', $fallback;
-$bold: 'Analogue-Bold', $fallback;
-$bold-italic: 'Analogue-BoldItalic', $fallback;
+$regular: 'Noto-Serif', 'Sabon-Regular', $fallback;
+$italic: 'Noto-Serif-Italic', 'Sabon-Italic', $fallback;
+$bold: 'Noto-Serif-Bold', 'Sabon-Bold', $fallback;
+$bold-italic: 'Noto-Serif-Bold-Italic', 'Sabon-Bold-Italic', $fallback;
+$hv-regular: 'Analogue-Regular', $fallback;
+$hv-italic: 'Analogue-Italic', $fallback;
+$hv-bold: 'Analogue-Bold', $fallback;
+$hv-bold-italic: 'Analogue-BoldItalic', $fallback;
 $settings: 'aalt=0,ccmp=0,dlig=0,liga=0,locl=0,ss01=0,ss02=0,ss03=0,ss04=0';
 
 $pink-coast: 'PinkCoast', $fallback;

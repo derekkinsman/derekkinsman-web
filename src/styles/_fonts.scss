@@ -5,6 +5,160 @@
 	font-style: normal;
 }
 
+@font-face {
+	font-family: 'Sabon-Regular';
+	src: url('/assets/fonts/sabon/SabonNextLT.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Sabon-Italic';
+	src: url('/assets/fonts/sabon/SabonNextLTItalic.ttf') format('truetype');
+	font-weight: normal;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Sabon-Bold';
+	src: url('/assets/fonts/sabon/SabonNextLTBold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Sabon-Bold-Italic';
+	src: url('/assets/fonts/sabon/SabonNextLTBoldItalic.ttf') format('truetype');
+	font-weight: bold;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Noto-Serif-Black';
+	src: url('/assets/fonts/noto/serif/NotoSerif-Black.ttf') format('truetype');
+	font-weight: 900;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Noto-Serif-Black-Italic';
+	src: url('/assets/fonts/noto/serif/NotoSerif-BlackItalic.ttf') format('truetype');
+	font-weight: 900;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Noto-Serif-Bold';
+	src: url('/assets/fonts/noto/serif/NotoSerif-Bold.ttf') format('truetype');
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Noto-Serif-Bold-Italic';
+	src: url('/assets/fonts/noto/serif/NotoSerif-BoldItalic.ttf') format('truetype');
+	font-weight: 700;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Noto-Serif-Extra-Bold';
+	src: url('/assets/fonts/noto/serif/NotoSerif-ExtraBold.ttf') format('truetype');
+	font-weight: 800;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Noto-Serif-Extra-Bold-Italic';
+	src: url('/assets/fonts/noto/serif/NotoSerif-ExtraBoldItalic.ttf') format('truetype');
+	font-weight: 800;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Noto-Serif-Extra-Light';
+	src: url('/assets/fonts/noto/serif/NotoSerif-ExtraLight.ttf') format('truetype');
+	font-weight: 200;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Noto-Serif-Extra-Light-Italic';
+	src: url('/assets/fonts/noto/serif/NotoSerif-ExtraLightItalic.ttf') format('truetype');
+	font-weight: 200;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Noto-Serif';
+	src: url('/assets/fonts/noto/serif/NotoSerif-Regular.ttf') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Noto-Serif-Italic';
+	src: url('/assets/fonts/noto/serif/NotoSerif-Italic.ttf') format('truetype');
+	font-weight: 400;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Noto-Serif-Light';
+	src: url('/assets/fonts/noto/serif/NotoSerif-Light.ttf') format('truetype');
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Noto-Serif-Light-Italic';
+	src: url('/assets/fonts/noto/serif/NotoSerif-LightItalic.ttf') format('truetype');
+	font-weight: 300;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Noto-Serif-Medium';
+	src: url('/assets/fonts/noto/serif/NotoSerif-Medium.ttf') format('truetype');
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Noto-Serif-Medium-Italic';
+	src: url('/assets/fonts/noto/serif/NotoSerif-MediumItalic.ttf') format('truetype');
+	font-weight: 500;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Noto-Serif-Semi-Bold';
+	src: url('/assets/fonts/noto/serif/NotoSerif-SemiBold.ttf') format('truetype');
+	font-weight: 600;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Noto-Serif-Semi-Bold-Italic';
+	src: url('/assets/fonts/noto/serif/NotoSerif-SemiBoldItalic.ttf') format('truetype');
+	font-weight: 600;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Noto-Serif-Thin';
+	src: url('/assets/fonts/noto/serif/NotoSerif-Thin.ttf') format('truetype');
+	font-weight: 100;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Noto-Serif-THin-Italic';
+	src: url('/assets/fonts/noto/serif/NotoSerif-ThinItalic.ttf') format('truetype');
+	font-weight: 100;
+	font-style: italic;
+}
+
 /*
 Font: 		  HV Analogue
 Style: 		  Regular, Italic, Bold, Bold Italic

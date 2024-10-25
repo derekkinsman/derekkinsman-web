@@ -34,6 +34,18 @@
 }
 
 @font-face {
+  font-family: 'Ampersand';
+  src: url('/assets/fonts/sabon/SabonNextLTItalic.ttf') format('truetype');
+  unicode-range: U+26;
+}
+
+@font-face {
+  font-family: 'Ampersand Bold';
+  src: url('/assets/fonts/sabon/SabonNextLTBoldItalic.ttf') format('truetype');
+  unicode-range: U+26;
+}
+
+@font-face {
 	font-family: 'Noto-Serif-Black';
 	src: url('/assets/fonts/noto/serif/NotoSerif-Black.ttf') format('truetype');
 	font-weight: 900;

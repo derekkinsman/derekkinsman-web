@@ -6,6 +6,7 @@ export const client = ({
   excludeInvalid,
 }: {
   query: string;
+  // eslint-disable-next-line  @typescript-eslint/no-explicit-any
   variables?: any;
   includeDrafts?: boolean;
   excludeInvalid?: boolean;

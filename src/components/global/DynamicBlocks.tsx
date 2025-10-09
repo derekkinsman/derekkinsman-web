@@ -6,7 +6,6 @@ export const DynamicBlocks = ({ blocks }: { blocks: any[] }) => {
     <>
       {blocks.map((block) => {
         const componentName = block.__typename.replace('Record', '');
-        //@ts-ignore-next-line
         const PageBlock = ComponentBlock[componentName];
 
         return (

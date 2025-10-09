@@ -28,6 +28,7 @@ export interface InternetWebsiteProps {
 }
 
 export interface PageProps {
+  // eslint-disable-next-line  @typescript-eslint/no-explicit-any
   pageComponents: CommonComponentProps[] | any[];
 }
 

@@ -16,7 +16,7 @@ export const Kindness = ({ title, content }: KindnessProps) => {
 
         <ul>
           {content.map((link) => {
-            return <li key={link.socialId} className={`classname`}>
+            return <li key={link.socialId}>
               {link.description}<br />
               —<a href={link.link} target='_blank'>
                 {link.title}

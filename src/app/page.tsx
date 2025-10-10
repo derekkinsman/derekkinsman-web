@@ -5,12 +5,8 @@ import { client } from '@lib/client';
 import { DynamicBlocks } from '@components/global/DynamicBlocks';
 import { ButtonDownEmail } from '@components/global/ButtonDownEmail';
 
-export async function generateMetadata({
-  params
-}: { 
-  params: InternetWebsiteProps 
-}) {
-  const { _site } = await getInternetWebsite(params);
+export async function generateMetadata() {
+  const { _site } = await getInternetWebsite();
  
   return {
     title: _site.globalSeo.siteName,
@@ -52,12 +48,8 @@ const ButtonDownData = {
   }
 };
 
-export default async function Home({ 
-  params 
-}: { 
-  params: InternetWebsiteProps 
-}) {
-  const { page } = await getInternetWebsite(params);
+export default async function Home() {
+  const { page } = await getInternetWebsite();
 
   return <>
     <DynamicBlocks blocks={page.pageComponents} />
@@ -65,7 +57,7 @@ export default async function Home({
   </>;
 }
 
-async function getInternetWebsite(params: { slug: string }) {
+async function getInternetWebsite() {
   const res = (await client({
     query: INTERNETWEBSITE_QUERY
   })) as InternetWebsiteProps;

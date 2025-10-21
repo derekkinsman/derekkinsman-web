@@ -1,16 +1,16 @@
-@import '@styles/vars';
-@import '@styles/fonts';
-@import '@styles/utils';
+@use '../vars' as vars;
+@use '../fonts';
+@use '../utils';
 
 .masthead {
-  margin-top: $life;
+  margin-top: vars.$life;
 
-  @media only screen and (min-width: $max) {
+  @media only screen and (min-width: vars.$max) {
   }
 }
 
 .title {
-  font-family: 'Briar-Display', $fallback;
+  font-family: 'Briar-Display', vars.$fallback;
   margin: 0;
 }
 
@@ -19,9 +19,9 @@
   height: auto;
   max-width: 100%;
   padding: 0;
-  margin: $line-height 0;
+  margin: vars.$line-height 0;
 
-  @media only screen and (min-width: $max) {
+  @media only screen and (min-width: vars.$max) {
     padding: 0;
   }
 }

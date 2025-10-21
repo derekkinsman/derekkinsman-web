@@ -1,38 +1,38 @@
-@import '@styles/vars';
-@import '@styles/fonts';
+@use 'vars' as vars;
+@use 'fonts';
 
 .component {
-  font-family: $regular;
-  -moz-font-feature-settings: $settings;
-  font-feature-settings: $settings;
+  font-family: vars.$regular;
+  -moz-font-feature-settings: vars.$settings;
+  font-feature-settings: vars.$settings;
 
   font-variant-ligatures: common-ligatures discretionary-ligatures contextual;
 
   hyphens: auto;
   text-align: justify;
 
-  margin: 0 calc($devil * 2);
+  margin: 0 calc(vars.$devil * 2);
 
-  @media only screen and (min-width: $max) {
+  @media only screen and (min-width: vars.$max) {
     text-align: left;
     margin: 0;
     max-width: 70%;
   }
 
-  @media only screen and (min-width: $super-max) {
+  @media only screen and (min-width: vars.$super-max) {
     margin: 0;
     max-width: 60%;
   }
 }
 
 .textblock {
-  margin-bottom: $line-height;
+  margin-bottom: vars.$line-height;
 }
 
 .wrapper {
-  @media only screen and (min-width: $max) {
+  @media only screen and (min-width: vars.$max) {
     // margin: 0 auto;
-    padding: 0 calc($life * 0.5);
-    max-width: $max;
+    padding: 0 calc(vars.$life * 0.5);
+    max-width: vars.$max;
   }
 }

@@ -1,9 +1,9 @@
-@import '@styles/vars';
-@import '@styles/fonts';
-@import '@styles/utils';
+@use '../vars' as vars;
+@use '../fonts';
+@use '../utils';
 
 .place p {
-  font-family: $italic;
+  font-family: vars.$italic;
   margin-bottom: 0;
 }
 
@@ -15,8 +15,8 @@
 }
 
 .place li {
-  // color: $magenta;
-  color: $link;
+  // color: vars.$magenta;
+  color: vars.$link;
   list-style-type: none;
   margin-right: 10px;
   margin-left: 0;
@@ -40,17 +40,17 @@
 
 .place li:hover.hobby,
 .place li.hobby a:hover {
-  color: $link-hover-hobby;
+  color: vars.$link-hover-hobby;
 }
 
 .place li:hover.personal,
 .place li.personal a:hover {
-  color: $link-hover-personal;
+  color: vars.$link-hover-personal;
 }
 
 .place li:hover.work,
 .place li.work a:hover {
-  color: $link-hover-work;
+  color: vars.$link-hover-work;
 }
 
 .place a {

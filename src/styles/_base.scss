@@ -1,76 +1,76 @@
-@import '@styles/vars';
-@import '@styles/fonts';
-@import '@styles/utils';
+@use 'vars' as vars;
+@use 'fonts';
+@use 'utils';
 
 html, body {
   margin: 0;
   padding: 0;
 
   font-size: 16px;
-  line-height: $line-height;
+  line-height: vars.$line-height;
 
-  @media only screen and (min-width: $max) {
+  @media only screen and (min-width: vars.$max) {
     font-size: 24px;
-    line-height: $line-height;
+    line-height: vars.$line-height;
   }
 }
 
 body {
   background-blend-mode:luminosity;
-  background-color: $background-alt;
+  background-color: vars.$background-alt;
   background-image: url('/assets/images/gradient.jpeg');
   background-size: cover;
-  color: $k-black;
+  color: vars.$k-black;
 }
 
 a {
-  color: $link;
+  color: vars.$link;
   text-decoration: none;
   transition: color 0.5s ease;
 
   &:hover {
-    color: $link-hover;
+    color: vars.$link-hover;
   }
 }
 
 h1 {
-  color: $cbc-vintage-red;
-  font-family: $bold;
+  color: vars.$cbc-vintage-red;
+  font-family: vars.$bold;
   font-size: 1.6rem;
 
-  @media only screen and (min-width: $max) {
+  @media only screen and (min-width: vars.$max) {
     font-size: 2rem;
   }
 }
 
 h2 {
-  margin: $line-height-half 0;
+  margin: vars.$line-height-half 0;
 
-  font-family: $bold;
+  font-family: vars.$bold;
   font-size: 1.2rem;
 
-  @media only screen and (min-width: $max) {
+  @media only screen and (min-width: vars.$max) {
     font-size: 1.1rem;
   }
 }
 
 h3 {
-  font-family: $bold-italic;
+  font-family: vars.$bold-italic;
   font-size: 1.0rem;
 
-  @media only screen and (min-width: calc($max * 0.25)) {
+  @media only screen and (min-width: calc(vars.$max * 0.25)) {
     font-size: 1.1rem;
   }
 
-  @media only screen and (min-width: calc($max * 0.5)) {
+  @media only screen and (min-width: calc(vars.$max * 0.5)) {
     font-size: 1.4rem;
   }
 
-  @media only screen and (min-width: calc($max * 0.75)) {
+  @media only screen and (min-width: calc(vars.$max * 0.75)) {
     font-size: 1.4rem;
   }
 
-  @media only screen and (min-width: $max) {
+  @media only screen and (min-width: vars.$max) {
     font-size: 1.1rem;
   }
 }
@@ -78,7 +78,7 @@ h3 {
 p {
   font-size: 1rem;
   margin: 0;
-  margin-bottom: $line-height;
+  margin-bottom: vars.$line-height;
   padding: 0;
 
   &:last-child {
@@ -91,7 +91,7 @@ ul {
   margin-left: 1rem;
   padding: 0;
 
-  @media only screen and (min-width: $max) {
+  @media only screen and (min-width: vars.$max) {
     margin-left: 0;
   }
 }
@@ -103,12 +103,12 @@ li {
 }
 
 em {
-  font-family: $italic;
+  font-family: vars.$italic;
 
   strong {
-    color: $magenta;
-    background: linear-gradient(90deg, $magenta 0%, $cyan 100%);
-    font-family: $bold-italic;
+    color: vars.$magenta;
+    background: linear-gradient(90deg, vars.$magenta 0%, vars.$cyan 100%);
+    font-family: vars.$bold-italic;
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -116,5 +116,5 @@ em {
 }
 
 strong {
-  font-family: $bold;
+  font-family: vars.$bold;
 }

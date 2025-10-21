@@ -1,15 +1,15 @@
-@import '@styles/vars';
-@import '@styles/fonts';
-@import '@styles/utils';
+@use '../vars' as vars;
+@use '../fonts';
+@use '../utils';
 
 .kindness {
-  font-family: $italic;
+  font-family: vars.$italic;
 }
 
 .kindness li {
-  color: $black;
+  color: vars.$black;
   list-style-type: circle;
-  margin-bottom: $line-height-half;
+  margin-bottom: vars.$line-height-half;
   transition: all 0.5s ease;
 
   &:last-of-type {
@@ -18,10 +18,10 @@
 }
 
 .kindness a {
-  // color: $magenta;
-  font-family: $regular;
+  // color: vars.$magenta;
+  font-family: vars.$regular;
 
   &:hover {
-    color: $link-hover;
+    color: vars.$link-hover;
   }
 }

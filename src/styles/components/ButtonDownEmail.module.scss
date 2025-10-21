@@ -1,6 +1,6 @@
-@import '@styles/vars';
-@import '@styles/fonts';
-@import '@styles/utils';
+@use '../vars';
+@use '../fonts';
+@use '../utils';
 
 .buttondown {
   margin: 0;

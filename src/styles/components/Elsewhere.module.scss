@@ -1,6 +1,6 @@
-@import '@styles/vars';
-@import '@styles/fonts';
-@import '@styles/utils';
+@use '../vars' as vars;
+@use '../fonts';
+@use '../utils';
 
 .grid {
   display: flex;
@@ -9,7 +9,7 @@
   width: 100%;
   gap: 10px;
   
-  @media only screen and (min-width: $max) {
+  @media only screen and (min-width: vars.$max) {
     flex-direction: row;
     flex-wrap: wrap;
   }
@@ -22,14 +22,14 @@
   background-size: cover;
   flex-grow: 0;
   flex-shrink: 0;
-  flex-basis: calc($life * 2);
+  flex-basis: calc(vars.$life * 2);
   box-sizing: border-box;
 
   text-align: center;
   
-   @media only screen and (min-width: $max) {
+   @media only screen and (min-width: vars.$max) {
     flex-basis: calc(50% - 5px);
-    height: calc($life * 2);
+    height: calc(vars.$life * 2);
    }
 }
 
@@ -37,36 +37,36 @@
   position: relative;
   display: block;
   margin: auto;
-  color: $background;
+  color: vars.$background;
   transform: translateY(-50%);
 
   &:hover {
-    color: $synth-1;
+    color: vars.$synth-1;
   }
 }
 
 .analogue {
-  font-family: $pink-coast;
+  font-family: vars.$pink-coast;
   font-size: 5rem;
-  line-height: calc($life * 0.75);
+  line-height: calc(vars.$life * 0.75);
   top: 57%;
   width: 100%;
 
-  @media only screen and (min-width: $max) {
-    font-size: calc($life);
-    line-height: calc($life * 0.75);
+  @media only screen and (min-width: vars.$max) {
+    font-size: calc(vars.$life);
+    line-height: calc(vars.$life * 0.75);
     top: 57%;
     width: 70%;
   }
 }
 
 .unttld {
-  font-family: $viva-bold;
-  font-size: calc($life * 1.5);
+  font-family: vars.$viva-bold;
+  font-size: calc(vars.$life * 1.5);
   text-transform: uppercase;
   top: 50%;
 
-  @media only screen and (min-width: $max) {
+  @media only screen and (min-width: vars.$max) {
     font-size: 3rem;
     text-transform: uppercase;
     top: 50%;
@@ -74,12 +74,12 @@
 }
 
 .anneteefa {
-  font-family: $embro;
+  font-family: vars.$embro;
   font-size: 1.5rem;
   line-height: 1.75rem;
   top: 50%;
 
-  @media only screen and (min-width: $max) {
+  @media only screen and (min-width: vars.$max) {
     font-size: 0.8rem;
     line-height: 1.25rem;
     top: 50%;
@@ -87,22 +87,22 @@
 }
 
 .anneteefa p {
-  font-family: $script;
+  font-family: vars.$script;
   font-size: 2.5rem;
   line-height: 2.5rem;
   margin: 0;
   margin-bottom: 0;
 
-  @media only screen and (min-width: $max) {
+  @media only screen and (min-width: vars.$max) {
     font-size: 1.65rem;
     margin: 0;
   }
   &:last-child {
-    font-family: $embro;
+    font-family: vars.$embro;
     font-size: 0.75rem;
     line-height: 1rem;
 
-    @media only screen and (min-width: $max) {
+    @media only screen and (min-width: vars.$max) {
       font-size: 0.5rem;
       line-height: 0.75rem;
     }
@@ -110,13 +110,13 @@
 }
 
 .cosmonaut {
-  font-family: $lucida;
-  font-size: calc($life * 0.75);
+  font-family: vars.$lucida;
+  font-size: calc(vars.$life * 0.75);
   font-weight: bold;
   text-transform: lowercase;
   top: 50%;
 
-  @media only screen and (min-width: $max) {
+  @media only screen and (min-width: vars.$max) {
     font-size: 1rem;
     text-transform: lowercase;
     top: 50%;
@@ -124,12 +124,12 @@
 }
 
 .mystery {
-  font-family: $numismatic;
+  font-family: vars.$numismatic;
   font-size: 1.75rem;
   text-transform: lowercase;
   top: 52%;
 
-  @media only screen and (min-width: $max) {
+  @media only screen and (min-width: vars.$max) {
     font-size: 0.9rem;
     text-transform: lowercase;
     top: 52%;

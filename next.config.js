@@ -1,7 +1,12 @@
 module.exports = {
   poweredByHeader: false,
   images: {
-    remotePatterns: ['www.datocms-assets.com'],
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'www.datocms-assets.com'
+      }
+    ],
   },
   async headers() {
     return [

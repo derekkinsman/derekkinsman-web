@@ -12,16 +12,14 @@
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
-    "lint": "next lint",
     "build": "next build",
     "start": "next start",
-    "export": "npm run build && next export -o docs",
-    "prepare": "husky"
+    "export": "npm run build && next export -o docs"
   },
   "dependencies": {
     "encoding": "^0.1.x",
     "graphql-request": "^7.x",
-    "next": "^15.x",
+    "next": "^16.x",
     "react": "^19.x",
     "react-datocms": "^7.x",
     "react-dom": "^19.x"
@@ -30,9 +28,6 @@
     "@types/node": "~22.17",
     "@types/react": "^19.x",
     "@types/react-dom": "^19.x",
-    "eslint": "9.37.0",
-    "eslint-config-next": "15.5.4",
-    "husky": "^9.x",
     "prettier": "^3.6.x",
     "sass": "^1.93.x",
     "typescript": "^5.9.x"

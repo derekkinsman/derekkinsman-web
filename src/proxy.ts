@@ -1,6 +1,6 @@
 import { NextResponse } from 'next/server';
 
-export function middleware() {
+export function proxy() {
   // Store the response so we can modify its headers
   const response = NextResponse.next();
 
